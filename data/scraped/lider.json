@@ -1,0 +1,14 @@
+{
+  "source": "lider",
+  "scrapedAt": "2026-05-28T21:49:19.473Z",
+  "itemCount": 0,
+  "success": false,
+  "errors": [
+    "Error en query \"sin gluten\": maximum redirect reached at: https://www.lider.cl/catalogo/bff/category?queueittoken=e_lidercatalogoweb~q_00000000-0000-0000-0000-000000000000~ts_1780005116~ce_true~rt_disabled~h_d57f67d9ac632bbef31c507d91b2a4db98ac53945ca0adf7657b0610399e3bce",
+    "Error en query \"libre de gluten\": maximum redirect reached at: https://www.lider.cl/catalogo/bff/category?queueittoken=e_lidercatalogoweb~q_00000000-0000-0000-0000-000000000000~ts_1780005124~ce_true~rt_disabled~h_776f3c3bdd44fcb0b6a19a271a0387dbe1f9aaf82b2625ab0c4d9e6ca39f847d",
+    "Error en query \"celiaco\": maximum redirect reached at: https://www.lider.cl/catalogo/bff/category?queueittoken=e_lidercatalogoweb~q_00000000-0000-0000-0000-000000000000~ts_1780005131~ce_true~rt_disabled~h_d42f13ce1fe252876580e0734c9d5ad1bbadb80007e4b453fb32345108ffecd2",
+    "Error en query \"pan sin gluten\": maximum redirect reached at: https://www.lider.cl/catalogo/bff/category?queueittoken=e_lidercatalogoweb~q_00000000-0000-0000-0000-000000000000~ts_1780005138~ce_true~rt_disabled~h_c505aa021e08ab4ce9cc5d862eef894ada7e668ad9ac3bd6ae3922f8b326252b"
+  ],
+  "durationMs": 30938,
+  "data": []
+}

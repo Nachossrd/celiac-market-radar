@@ -1,0 +1,694 @@
+{
+  "source": "ine-valparaiso-vivienda",
+  "scrapedAt": "2026-05-26T02:41:16.026Z",
+  "itemCount": 38,
+  "success": true,
+  "errors": [],
+  "durationMs": 3,
+  "data": [
+    {
+      "comunaId": "valparaiso",
+      "comuna": "Valparaíso",
+      "hacinamiento_pct": 6.7,
+      "carencia_servicios_basicos_pct": 12.1,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05101"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "casablanca",
+      "comuna": "Casablanca",
+      "hacinamiento_pct": 6.1,
+      "carencia_servicios_basicos_pct": 14.4,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05102"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "concon",
+      "comuna": "Concón",
+      "hacinamiento_pct": 6.3,
+      "carencia_servicios_basicos_pct": 11.2,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05103"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "juan-fernandez",
+      "comuna": "Juan Fernández",
+      "hacinamiento_pct": 8.5,
+      "carencia_servicios_basicos_pct": 30.7,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05104"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "puchuncavi",
+      "comuna": "Puchuncaví",
+      "hacinamiento_pct": 8.4,
+      "carencia_servicios_basicos_pct": 41.6,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05105"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "quintero",
+      "comuna": "Quintero",
+      "hacinamiento_pct": 9.1,
+      "carencia_servicios_basicos_pct": 23.7,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05107"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "vina-del-mar",
+      "comuna": "Viña del Mar",
+      "hacinamiento_pct": 6.5,
+      "carencia_servicios_basicos_pct": 10.8,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05109"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "isla-de-pascua",
+      "comuna": "Isla de Pascua",
+      "hacinamiento_pct": 12.2,
+      "carencia_servicios_basicos_pct": 68,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05201"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "los-andes",
+      "comuna": "Los Andes",
+      "hacinamiento_pct": 6.2,
+      "carencia_servicios_basicos_pct": 4.9,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05301"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "calle-larga",
+      "comuna": "Calle Larga",
+      "hacinamiento_pct": 9.6,
+      "carencia_servicios_basicos_pct": 13.3,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05302"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "rinconada",
+      "comuna": "Rinconada",
+      "hacinamiento_pct": 9.6,
+      "carencia_servicios_basicos_pct": 12.5,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05303"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "san-esteban",
+      "comuna": "San Esteban",
+      "hacinamiento_pct": 8.5,
+      "carencia_servicios_basicos_pct": 10.3,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05304"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "la-ligua",
+      "comuna": "La Ligua",
+      "hacinamiento_pct": 8.2,
+      "carencia_servicios_basicos_pct": 17.5,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05401"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "cabildo",
+      "comuna": "Cabildo",
+      "hacinamiento_pct": 10,
+      "carencia_servicios_basicos_pct": 5.3,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05402"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "papudo",
+      "comuna": "Papudo",
+      "hacinamiento_pct": 8.7,
+      "carencia_servicios_basicos_pct": 18.4,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05403"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "petorca",
+      "comuna": "Petorca",
+      "hacinamiento_pct": 8.7,
+      "carencia_servicios_basicos_pct": 12.2,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05404"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "zapallar",
+      "comuna": "Zapallar",
+      "hacinamiento_pct": 7.6,
+      "carencia_servicios_basicos_pct": 18.4,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05405"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "quillota",
+      "comuna": "Quillota",
+      "hacinamiento_pct": 7.3,
+      "carencia_servicios_basicos_pct": 5.7,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05501"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "calera",
+      "comuna": "La Calera",
+      "hacinamiento_pct": 7.9,
+      "carencia_servicios_basicos_pct": 7.8,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05502"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "hijuelas",
+      "comuna": "Hijuelas",
+      "hacinamiento_pct": 9.9,
+      "carencia_servicios_basicos_pct": 19.8,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05503"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "la-cruz",
+      "comuna": "La Cruz",
+      "hacinamiento_pct": 7.3,
+      "carencia_servicios_basicos_pct": 8,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05504"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "nogales",
+      "comuna": "Nogales",
+      "hacinamiento_pct": 9.1,
+      "carencia_servicios_basicos_pct": 12,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05506"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "san-antonio",
+      "comuna": "San Antonio",
+      "hacinamiento_pct": 8.8,
+      "carencia_servicios_basicos_pct": 12.4,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05601"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "algarrobo",
+      "comuna": "Algarrobo",
+      "hacinamiento_pct": 6.6,
+      "carencia_servicios_basicos_pct": 23.8,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05602"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "cartagena",
+      "comuna": "Cartagena",
+      "hacinamiento_pct": 8.7,
+      "carencia_servicios_basicos_pct": 19.1,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05603"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "el-quisco",
+      "comuna": "El Quisco",
+      "hacinamiento_pct": 6.4,
+      "carencia_servicios_basicos_pct": 14.3,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05604"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "el-tabo",
+      "comuna": "El Tabo",
+      "hacinamiento_pct": 6.2,
+      "carencia_servicios_basicos_pct": 44.5,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05605"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "santo-domingo",
+      "comuna": "Santo Domingo",
+      "hacinamiento_pct": 7.6,
+      "carencia_servicios_basicos_pct": 36.7,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05606"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "san-felipe",
+      "comuna": "San Felipe",
+      "hacinamiento_pct": 7.4,
+      "carencia_servicios_basicos_pct": 6.4,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05701"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "catemu",
+      "comuna": "Catemu",
+      "hacinamiento_pct": 7.4,
+      "carencia_servicios_basicos_pct": 21.7,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05702"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "llay-llay",
+      "comuna": "Llay Llay",
+      "hacinamiento_pct": 7.9,
+      "carencia_servicios_basicos_pct": 15.7,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05703"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "panquehue",
+      "comuna": "Panquehue",
+      "hacinamiento_pct": 9.5,
+      "carencia_servicios_basicos_pct": 10.3,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05704"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "putaendo",
+      "comuna": "Putaendo",
+      "hacinamiento_pct": 8.5,
+      "carencia_servicios_basicos_pct": 16.7,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05705"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "santa-maria",
+      "comuna": "Santa María",
+      "hacinamiento_pct": 8.4,
+      "carencia_servicios_basicos_pct": 8.2,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05706"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "quilpue",
+      "comuna": "Quilpué",
+      "hacinamiento_pct": 5.9,
+      "carencia_servicios_basicos_pct": 9,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05801"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "limache",
+      "comuna": "Limache",
+      "hacinamiento_pct": 8.4,
+      "carencia_servicios_basicos_pct": 15.5,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05802"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "olmue",
+      "comuna": "Olmué",
+      "hacinamiento_pct": 9.9,
+      "carencia_servicios_basicos_pct": 34.1,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05803"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    },
+    {
+      "comunaId": "villa-alemana",
+      "comuna": "Villa Alemana",
+      "hacinamiento_pct": 5.7,
+      "carencia_servicios_basicos_pct": 7.9,
+      "viviendas_propias_pct": null,
+      "viviendas_arrendadas_pct": null,
+      "hacinamiento_critico_pct": null,
+      "calidad_deficitaria_pct": null,
+      "tipo_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=05804"
+        }
+      ],
+      "_notas": "tenencia y tipo (casa/depto) no estan en BCN web. Ver Censo 2017 INE redatam o CASEN."
+    }
+  ]
+}

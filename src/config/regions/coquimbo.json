@@ -1,0 +1,59 @@
+{
+  "slug": "coquimbo",
+  "nombre": "Región de Coquimbo",
+  "codigoRegion": "04",
+  "capital": "La Serena",
+  "perfilEconomico": ["mineria", "turismo_costero", "agricultura", "pesca"],
+
+  "comunas": [
+    { "id": "la-serena",     "nombre": "La Serena",     "deis": "04101", "provincia": "Elqui",     "poblacion": 250000, "lat": -29.9027, "lng": -71.2519, "sector": "Costa",      "perfil": ["servicios", "turismo", "academico"] },
+    { "id": "coquimbo",      "nombre": "Coquimbo",      "deis": "04102", "provincia": "Elqui",     "poblacion": 250000, "lat": -29.9533, "lng": -71.3436, "sector": "Costa",      "perfil": ["puerto", "turismo", "residencial"] },
+    { "id": "andacollo",     "nombre": "Andacollo",     "deis": "04103", "provincia": "Elqui",     "poblacion": 12000,  "lat": -30.2333, "lng": -71.0833, "sector": "Interior",   "perfil": ["mineria", "rural"] },
+    { "id": "la-higuera",    "nombre": "La Higuera",    "deis": "04104", "provincia": "Elqui",     "poblacion": 5000,   "lat": -29.5167, "lng": -71.2667, "sector": "Costa",      "perfil": ["rural", "mineria"] },
+    { "id": "paihuano",      "nombre": "Paihuano",      "deis": "04105", "provincia": "Elqui",     "poblacion": 4500,   "lat": -30.0333, "lng": -70.5167, "sector": "Cordillera", "perfil": ["agricultura", "turismo_andino", "vitivinicola"] },
+    { "id": "vicuna",        "nombre": "Vicuña",        "deis": "04106", "provincia": "Elqui",     "poblacion": 30000,  "lat": -30.0333, "lng": -70.7000, "sector": "Cordillera", "perfil": ["agricultura", "turismo", "vitivinicola"] },
+    { "id": "illapel",       "nombre": "Illapel",       "deis": "04201", "provincia": "Choapa",    "poblacion": 35000,  "lat": -31.6333, "lng": -71.1667, "sector": "Interior",   "perfil": ["agricultura", "mineria"] },
+    { "id": "canela",        "nombre": "Canela",        "deis": "04202", "provincia": "Choapa",    "poblacion": 9000,   "lat": -31.4000, "lng": -71.4500, "sector": "Interior",   "perfil": ["rural"] },
+    { "id": "los-vilos",     "nombre": "Los Vilos",     "deis": "04203", "provincia": "Choapa",    "poblacion": 25000,  "lat": -31.9167, "lng": -71.5000, "sector": "Costa",      "perfil": ["turismo", "pesca"] },
+    { "id": "salamanca",     "nombre": "Salamanca",     "deis": "04204", "provincia": "Choapa",    "poblacion": 28000,  "lat": -31.7833, "lng": -70.9667, "sector": "Interior",   "perfil": ["mineria", "agricultura"] },
+    { "id": "ovalle",        "nombre": "Ovalle",        "deis": "04301", "provincia": "Limarí",    "poblacion": 130000, "lat": -30.6000, "lng": -71.2000, "sector": "Interior",   "perfil": ["agricultura", "servicios"] },
+    { "id": "combarbala",    "nombre": "Combarbalá",    "deis": "04302", "provincia": "Limarí",    "poblacion": 14000,  "lat": -31.1833, "lng": -71.0000, "sector": "Interior",   "perfil": ["rural", "agricultura"] },
+    { "id": "monte-patria",  "nombre": "Monte Patria",  "deis": "04303", "provincia": "Limarí",    "poblacion": 32000,  "lat": -30.7000, "lng": -70.9500, "sector": "Cordillera", "perfil": ["agricultura", "rural"] },
+    { "id": "punitaqui",     "nombre": "Punitaqui",     "deis": "04304", "provincia": "Limarí",    "poblacion": 12000,  "lat": -30.8333, "lng": -71.2667, "sector": "Interior",   "perfil": ["rural", "mineria"] },
+    { "id": "rio-hurtado",   "nombre": "Río Hurtado",   "deis": "04305", "provincia": "Limarí",    "poblacion": 5000,   "lat": -30.2667, "lng": -70.6833, "sector": "Cordillera", "perfil": ["rural", "agricultura"] }
+  ],
+
+  "keywordsComerciales": ["la serena", "coquimbo", "ovalle", "norte chico", "cuarta region", "4ta region"],
+
+  "sectoresAltosIngresos":  ["la-serena", "coquimbo"],
+  "sectoresMedios":         ["ovalle", "vicuna", "los-vilos", "salamanca"],
+  "sectoresBajosIngresos":  ["canela", "rio-hurtado", "combarbala", "punitaqui"],
+
+  "retailDominante": ["Jumbo", "Lider", "Santa Isabel", "Tottus", "Unimarc"],
+
+  "polosComerciales": [
+    { "nombre": "Mall Plaza La Serena", "comuna": "la-serena", "tipo": "mall" },
+    { "nombre": "Open Plaza Coquimbo",  "comuna": "coquimbo",  "tipo": "mall" }
+  ],
+
+  "zonas": {
+    "turisticas":   ["la-serena", "coquimbo", "vicuna", "paihuano", "los-vilos"],
+    "industriales": ["coquimbo"],
+    "portuarias":   ["coquimbo"],
+    "mineras":      ["andacollo", "salamanca", "illapel", "punitaqui", "la-higuera"],
+    "agricolas":    ["ovalle", "monte-patria", "vicuna", "paihuano", "rio-hurtado", "combarbala"]
+  },
+
+  "centroide": { "lat": -30.5, "lng": -71.0, "zoom": 8 },
+
+  "scoringOverrides": {
+    "weights": { "ingreso": 0.33, "educacion": 0.20, "vivienda": 0.20, "empleo": 0.15, "consumo": 0.12 },
+    "modificadores": { "mineriaBoost": 1.10, "turismoBoost": 1.05 }
+  },
+
+  "fuentes": {
+    "poblacion": "INE Chile - Proyeccion poblacional 2024 (base Censo 2017)",
+    "indicadores": "BCN Reportes Comunales 2024 (CASEN 2022, SIMCE, SII)",
+    "matrizEod": null
+  }
+}

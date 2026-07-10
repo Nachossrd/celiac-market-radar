@@ -1,0 +1,21 @@
+{
+  "source": "ine-valparaiso-_summary",
+  "scrapedAt": "2026-05-26T02:41:20.692Z",
+  "itemCount": 5,
+  "success": true,
+  "errors": [],
+  "durationMs": 134465,
+  "data": {
+    "region": "valparaiso",
+    "nombre": "Región de Valparaíso",
+    "durationMs": 134465,
+    "duracion": "134s",
+    "pasos": {
+      "ingresos": 38,
+      "empleo": 38,
+      "vivienda": 38,
+      "demografia": 38,
+      "consumo": "N/A"
+    }
+  }
+}

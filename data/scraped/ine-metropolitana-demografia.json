@@ -1,0 +1,1518 @@
+{
+  "source": "ine-metropolitana-demografia",
+  "scrapedAt": "2026-05-26T02:48:06.709Z",
+  "itemCount": 52,
+  "success": true,
+  "errors": [],
+  "durationMs": 9,
+  "data": [
+    {
+      "comunaId": "santiago",
+      "comuna": "Santiago Centro",
+      "poblacion_total": 503147,
+      "idd_proyeccion": 25.4,
+      "iam_proyeccion": 25.4,
+      "edad_grupo_0_14_pct": 11.3,
+      "edad_grupo_15_29_pct": 26.1,
+      "edad_grupo_30_44_pct": 36,
+      "edad_grupo_45_64_pct": 17.6,
+      "edad_grupo_65_mas_pct": 9,
+      "simce_4b_lectura": 277,
+      "simce_4b_matematica": 258,
+      "extranjeros_pct": 41.2,
+      "pueblos_indigenas_pct": 3,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13101"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "cerrillos",
+      "comuna": "Cerrillos",
+      "poblacion_total": 86329,
+      "idd_proyeccion": 47.4,
+      "iam_proyeccion": 47.4,
+      "edad_grupo_0_14_pct": 18.9,
+      "edad_grupo_15_29_pct": 20.7,
+      "edad_grupo_30_44_pct": 23.8,
+      "edad_grupo_45_64_pct": 23.3,
+      "edad_grupo_65_mas_pct": 13.2,
+      "simce_4b_lectura": 255,
+      "simce_4b_matematica": 241,
+      "extranjeros_pct": 10,
+      "pueblos_indigenas_pct": 6.5,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13102"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "cerro-navia",
+      "comuna": "Cerro Navia",
+      "poblacion_total": 138758,
+      "idd_proyeccion": 49.4,
+      "iam_proyeccion": 49.4,
+      "edad_grupo_0_14_pct": 18.4,
+      "edad_grupo_15_29_pct": 20.8,
+      "edad_grupo_30_44_pct": 22.3,
+      "edad_grupo_45_64_pct": 23.8,
+      "edad_grupo_65_mas_pct": 14.6,
+      "simce_4b_lectura": 256,
+      "simce_4b_matematica": 241,
+      "extranjeros_pct": 8.8,
+      "pueblos_indigenas_pct": 9.3,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13103"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "conchali",
+      "comuna": "Conchalí",
+      "poblacion_total": 138415,
+      "idd_proyeccion": 50.1,
+      "iam_proyeccion": 50.1,
+      "edad_grupo_0_14_pct": 17.3,
+      "edad_grupo_15_29_pct": 20,
+      "edad_grupo_30_44_pct": 22.3,
+      "edad_grupo_45_64_pct": 24.3,
+      "edad_grupo_65_mas_pct": 16.1,
+      "simce_4b_lectura": 266,
+      "simce_4b_matematica": 249,
+      "extranjeros_pct": 12.1,
+      "pueblos_indigenas_pct": 5.4,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13104"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "el-bosque",
+      "comuna": "El Bosque",
+      "poblacion_total": 161571,
+      "idd_proyeccion": 50.1,
+      "iam_proyeccion": 50.1,
+      "edad_grupo_0_14_pct": 18.9,
+      "edad_grupo_15_29_pct": 20.6,
+      "edad_grupo_30_44_pct": 21.9,
+      "edad_grupo_45_64_pct": 24.1,
+      "edad_grupo_65_mas_pct": 14.4,
+      "simce_4b_lectura": 261,
+      "simce_4b_matematica": 247,
+      "extranjeros_pct": 4.8,
+      "pueblos_indigenas_pct": 7.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13105"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "estacion-central",
+      "comuna": "Estación Central",
+      "poblacion_total": 215000,
+      "idd_proyeccion": 41.1,
+      "iam_proyeccion": 41.1,
+      "edad_grupo_0_14_pct": 15.7,
+      "edad_grupo_15_29_pct": 22.6,
+      "edad_grupo_30_44_pct": 25.8,
+      "edad_grupo_45_64_pct": 22.5,
+      "edad_grupo_65_mas_pct": 13.4,
+      "simce_4b_lectura": 264,
+      "simce_4b_matematica": 245,
+      "extranjeros_pct": 30.2,
+      "pueblos_indigenas_pct": 4.1,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13106"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "huechuraba",
+      "comuna": "Huechuraba",
+      "poblacion_total": 113000,
+      "idd_proyeccion": 49.2,
+      "iam_proyeccion": 49.2,
+      "edad_grupo_0_14_pct": 21.9,
+      "edad_grupo_15_29_pct": 19.1,
+      "edad_grupo_30_44_pct": 25.4,
+      "edad_grupo_45_64_pct": 22.5,
+      "edad_grupo_65_mas_pct": 11.1,
+      "simce_4b_lectura": 274,
+      "simce_4b_matematica": 259,
+      "extranjeros_pct": 6.1,
+      "pueblos_indigenas_pct": 7,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13107"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "independencia",
+      "comuna": "Independencia",
+      "poblacion_total": 110000,
+      "idd_proyeccion": 39.5,
+      "iam_proyeccion": 39.5,
+      "edad_grupo_0_14_pct": 15.7,
+      "edad_grupo_15_29_pct": 23.2,
+      "edad_grupo_30_44_pct": 28.5,
+      "edad_grupo_45_64_pct": 20,
+      "edad_grupo_65_mas_pct": 12.6,
+      "simce_4b_lectura": 267,
+      "simce_4b_matematica": 250,
+      "extranjeros_pct": 40.6,
+      "pueblos_indigenas_pct": 2.1,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13108"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "la-cisterna",
+      "comuna": "La Cisterna",
+      "poblacion_total": 92000,
+      "idd_proyeccion": 49.5,
+      "iam_proyeccion": 49.5,
+      "edad_grupo_0_14_pct": 16.5,
+      "edad_grupo_15_29_pct": 19.5,
+      "edad_grupo_30_44_pct": 24.1,
+      "edad_grupo_45_64_pct": 23.3,
+      "edad_grupo_65_mas_pct": 16.7,
+      "simce_4b_lectura": 269,
+      "simce_4b_matematica": 250,
+      "extranjeros_pct": 13.4,
+      "pueblos_indigenas_pct": 3.8,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13109"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "la-florida",
+      "comuna": "La Florida",
+      "poblacion_total": 369000,
+      "idd_proyeccion": 47.1,
+      "iam_proyeccion": 47.1,
+      "edad_grupo_0_14_pct": 17,
+      "edad_grupo_15_29_pct": 19.6,
+      "edad_grupo_30_44_pct": 23.8,
+      "edad_grupo_45_64_pct": 24.6,
+      "edad_grupo_65_mas_pct": 15,
+      "simce_4b_lectura": 273,
+      "simce_4b_matematica": 256,
+      "extranjeros_pct": 7.3,
+      "pueblos_indigenas_pct": 5.9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13110"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "la-granja",
+      "comuna": "La Granja",
+      "poblacion_total": 116000,
+      "idd_proyeccion": 47.4,
+      "iam_proyeccion": 47.4,
+      "edad_grupo_0_14_pct": 18,
+      "edad_grupo_15_29_pct": 20.4,
+      "edad_grupo_30_44_pct": 21.4,
+      "edad_grupo_45_64_pct": 26.1,
+      "edad_grupo_65_mas_pct": 14.1,
+      "simce_4b_lectura": 262,
+      "simce_4b_matematica": 248,
+      "extranjeros_pct": 5.8,
+      "pueblos_indigenas_pct": 6.3,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13111"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "la-pintana",
+      "comuna": "La Pintana",
+      "poblacion_total": 195000,
+      "idd_proyeccion": 49.2,
+      "iam_proyeccion": 49.2,
+      "edad_grupo_0_14_pct": 22,
+      "edad_grupo_15_29_pct": 21.4,
+      "edad_grupo_30_44_pct": 22.9,
+      "edad_grupo_45_64_pct": 22.7,
+      "edad_grupo_65_mas_pct": 11,
+      "simce_4b_lectura": 255,
+      "simce_4b_matematica": 238,
+      "extranjeros_pct": 3,
+      "pueblos_indigenas_pct": 12.2,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13112"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "la-reina",
+      "comuna": "La Reina",
+      "poblacion_total": 91000,
+      "idd_proyeccion": 51.2,
+      "iam_proyeccion": 51.2,
+      "edad_grupo_0_14_pct": 16.8,
+      "edad_grupo_15_29_pct": 18.5,
+      "edad_grupo_30_44_pct": 22.2,
+      "edad_grupo_45_64_pct": 25.3,
+      "edad_grupo_65_mas_pct": 17.1,
+      "simce_4b_lectura": 290,
+      "simce_4b_matematica": 274,
+      "extranjeros_pct": 6.2,
+      "pueblos_indigenas_pct": 4.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13113"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "las-condes",
+      "comuna": "Las Condes",
+      "poblacion_total": 326000,
+      "idd_proyeccion": 47.7,
+      "iam_proyeccion": 47.7,
+      "edad_grupo_0_14_pct": 14.3,
+      "edad_grupo_15_29_pct": 19.5,
+      "edad_grupo_30_44_pct": 24.7,
+      "edad_grupo_45_64_pct": 23.5,
+      "edad_grupo_65_mas_pct": 18,
+      "simce_4b_lectura": 299,
+      "simce_4b_matematica": 291,
+      "extranjeros_pct": 7.5,
+      "pueblos_indigenas_pct": 1.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13114"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "lo-barnechea",
+      "comuna": "Lo Barnechea",
+      "poblacion_total": 122000,
+      "idd_proyeccion": 46.7,
+      "iam_proyeccion": 46.7,
+      "edad_grupo_0_14_pct": 22.7,
+      "edad_grupo_15_29_pct": 21.2,
+      "edad_grupo_30_44_pct": 21.2,
+      "edad_grupo_45_64_pct": 25.7,
+      "edad_grupo_65_mas_pct": 9.1,
+      "simce_4b_lectura": 291,
+      "simce_4b_matematica": 287,
+      "extranjeros_pct": 7.8,
+      "pueblos_indigenas_pct": 4.7,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13115"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "lo-espejo",
+      "comuna": "Lo Espejo",
+      "poblacion_total": 95000,
+      "idd_proyeccion": 47.7,
+      "iam_proyeccion": 47.7,
+      "edad_grupo_0_14_pct": 18.4,
+      "edad_grupo_15_29_pct": 21.1,
+      "edad_grupo_30_44_pct": 20.9,
+      "edad_grupo_45_64_pct": 25.7,
+      "edad_grupo_65_mas_pct": 13.9,
+      "simce_4b_lectura": 248,
+      "simce_4b_matematica": 233,
+      "extranjeros_pct": 7.3,
+      "pueblos_indigenas_pct": 6.7,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13116"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "lo-prado",
+      "comuna": "Lo Prado",
+      "poblacion_total": 96000,
+      "idd_proyeccion": 51.3,
+      "iam_proyeccion": 51.3,
+      "edad_grupo_0_14_pct": 16.8,
+      "edad_grupo_15_29_pct": 20,
+      "edad_grupo_30_44_pct": 22.3,
+      "edad_grupo_45_64_pct": 23.8,
+      "edad_grupo_65_mas_pct": 17.1,
+      "simce_4b_lectura": 268,
+      "simce_4b_matematica": 253,
+      "extranjeros_pct": 11,
+      "pueblos_indigenas_pct": 8.9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13117"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "macul",
+      "comuna": "Macul",
+      "poblacion_total": 130000,
+      "idd_proyeccion": 47.9,
+      "iam_proyeccion": 47.9,
+      "edad_grupo_0_14_pct": 15.5,
+      "edad_grupo_15_29_pct": 19.3,
+      "edad_grupo_30_44_pct": 24.9,
+      "edad_grupo_45_64_pct": 23.5,
+      "edad_grupo_65_mas_pct": 16.9,
+      "simce_4b_lectura": 271,
+      "simce_4b_matematica": 255,
+      "extranjeros_pct": 11.7,
+      "pueblos_indigenas_pct": 5.5,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13118"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "maipu",
+      "comuna": "Maipú",
+      "poblacion_total": 587000,
+      "idd_proyeccion": 41.6,
+      "iam_proyeccion": 41.6,
+      "edad_grupo_0_14_pct": 18.2,
+      "edad_grupo_15_29_pct": 21.2,
+      "edad_grupo_30_44_pct": 22.8,
+      "edad_grupo_45_64_pct": 26.6,
+      "edad_grupo_65_mas_pct": 11.1,
+      "simce_4b_lectura": 271,
+      "simce_4b_matematica": 254,
+      "extranjeros_pct": 4.5,
+      "pueblos_indigenas_pct": 5.7,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13119"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "nunoa",
+      "comuna": "Ñuñoa",
+      "poblacion_total": 245000,
+      "idd_proyeccion": 42.9,
+      "iam_proyeccion": 42.9,
+      "edad_grupo_0_14_pct": 13.6,
+      "edad_grupo_15_29_pct": 17.2,
+      "edad_grupo_30_44_pct": 30.9,
+      "edad_grupo_45_64_pct": 21.9,
+      "edad_grupo_65_mas_pct": 16.4,
+      "simce_4b_lectura": 293,
+      "simce_4b_matematica": 275,
+      "extranjeros_pct": 11.6,
+      "pueblos_indigenas_pct": 2.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13120"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "pedro-aguirre-cerda",
+      "comuna": "Pedro Aguirre Cerda",
+      "poblacion_total": 102000,
+      "idd_proyeccion": 49.6,
+      "iam_proyeccion": 49.6,
+      "edad_grupo_0_14_pct": 16.6,
+      "edad_grupo_15_29_pct": 19.6,
+      "edad_grupo_30_44_pct": 21.1,
+      "edad_grupo_45_64_pct": 26.1,
+      "edad_grupo_65_mas_pct": 16.6,
+      "simce_4b_lectura": 258,
+      "simce_4b_matematica": 245,
+      "extranjeros_pct": 8.3,
+      "pueblos_indigenas_pct": 4.9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13121"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "penalolen",
+      "comuna": "Peñalolén",
+      "poblacion_total": 261000,
+      "idd_proyeccion": 45.5,
+      "iam_proyeccion": 45.5,
+      "edad_grupo_0_14_pct": 19.2,
+      "edad_grupo_15_29_pct": 20.8,
+      "edad_grupo_30_44_pct": 23,
+      "edad_grupo_45_64_pct": 24.9,
+      "edad_grupo_65_mas_pct": 12.1,
+      "simce_4b_lectura": 268,
+      "simce_4b_matematica": 255,
+      "extranjeros_pct": 6.6,
+      "pueblos_indigenas_pct": 8.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13122"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "providencia",
+      "comuna": "Providencia",
+      "poblacion_total": 161000,
+      "idd_proyeccion": 40.6,
+      "iam_proyeccion": 40.6,
+      "edad_grupo_0_14_pct": 11.5,
+      "edad_grupo_15_29_pct": 18.2,
+      "edad_grupo_30_44_pct": 33.3,
+      "edad_grupo_45_64_pct": 19.7,
+      "edad_grupo_65_mas_pct": 17.4,
+      "simce_4b_lectura": 298,
+      "simce_4b_matematica": 282,
+      "extranjeros_pct": 9.9,
+      "pueblos_indigenas_pct": 2,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13123"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "pudahuel",
+      "comuna": "Pudahuel",
+      "poblacion_total": 252000,
+      "idd_proyeccion": 42.8,
+      "iam_proyeccion": 42.8,
+      "edad_grupo_0_14_pct": 19.9,
+      "edad_grupo_15_29_pct": 21.1,
+      "edad_grupo_30_44_pct": 23.9,
+      "edad_grupo_45_64_pct": 24.9,
+      "edad_grupo_65_mas_pct": 10.1,
+      "simce_4b_lectura": 266,
+      "simce_4b_matematica": 250,
+      "extranjeros_pct": 5.5,
+      "pueblos_indigenas_pct": 7.2,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13124"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "quilicura",
+      "comuna": "Quilicura",
+      "poblacion_total": 254000,
+      "idd_proyeccion": 39.2,
+      "iam_proyeccion": 39.2,
+      "edad_grupo_0_14_pct": 21.6,
+      "edad_grupo_15_29_pct": 22.3,
+      "edad_grupo_30_44_pct": 26.2,
+      "edad_grupo_45_64_pct": 23.3,
+      "edad_grupo_65_mas_pct": 6.5,
+      "simce_4b_lectura": 270,
+      "simce_4b_matematica": 256,
+      "extranjeros_pct": 12.3,
+      "pueblos_indigenas_pct": 6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13125"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "quinta-normal",
+      "comuna": "Quinta Normal",
+      "poblacion_total": 119000,
+      "idd_proyeccion": 45.7,
+      "iam_proyeccion": 45.7,
+      "edad_grupo_0_14_pct": 16.3,
+      "edad_grupo_15_29_pct": 20.6,
+      "edad_grupo_30_44_pct": 24.6,
+      "edad_grupo_45_64_pct": 23.4,
+      "edad_grupo_65_mas_pct": 15.1,
+      "simce_4b_lectura": 266,
+      "simce_4b_matematica": 251,
+      "extranjeros_pct": 21.5,
+      "pueblos_indigenas_pct": 3.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13126"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "recoleta",
+      "comuna": "Recoleta",
+      "poblacion_total": 173000,
+      "idd_proyeccion": 46,
+      "iam_proyeccion": 46,
+      "edad_grupo_0_14_pct": 16.8,
+      "edad_grupo_15_29_pct": 20.3,
+      "edad_grupo_30_44_pct": 25.1,
+      "edad_grupo_45_64_pct": 23.1,
+      "edad_grupo_65_mas_pct": 14.7,
+      "simce_4b_lectura": 263,
+      "simce_4b_matematica": 244,
+      "extranjeros_pct": 19.9,
+      "pueblos_indigenas_pct": 4.8,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13127"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "renca",
+      "comuna": "Renca",
+      "poblacion_total": 154000,
+      "idd_proyeccion": 47.9,
+      "iam_proyeccion": 47.9,
+      "edad_grupo_0_14_pct": 20.5,
+      "edad_grupo_15_29_pct": 20.5,
+      "edad_grupo_30_44_pct": 24.5,
+      "edad_grupo_45_64_pct": 22.6,
+      "edad_grupo_65_mas_pct": 11.9,
+      "simce_4b_lectura": 260,
+      "simce_4b_matematica": 247,
+      "extranjeros_pct": 6.5,
+      "pueblos_indigenas_pct": 9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13128"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "san-joaquin",
+      "comuna": "San Joaquín",
+      "poblacion_total": 95000,
+      "idd_proyeccion": 49.8,
+      "iam_proyeccion": 49.8,
+      "edad_grupo_0_14_pct": 16,
+      "edad_grupo_15_29_pct": 20,
+      "edad_grupo_30_44_pct": 22.1,
+      "edad_grupo_45_64_pct": 24.6,
+      "edad_grupo_65_mas_pct": 17.3,
+      "simce_4b_lectura": 260,
+      "simce_4b_matematica": 241,
+      "extranjeros_pct": 11.5,
+      "pueblos_indigenas_pct": 3.8,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13129"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "san-miguel",
+      "comuna": "San Miguel",
+      "poblacion_total": 132000,
+      "idd_proyeccion": 42.8,
+      "iam_proyeccion": 42.8,
+      "edad_grupo_0_14_pct": 15.4,
+      "edad_grupo_15_29_pct": 19.2,
+      "edad_grupo_30_44_pct": 28.6,
+      "edad_grupo_45_64_pct": 22.3,
+      "edad_grupo_65_mas_pct": 14.5,
+      "simce_4b_lectura": 283,
+      "simce_4b_matematica": 264,
+      "extranjeros_pct": 24.5,
+      "pueblos_indigenas_pct": 2.9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13130"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "san-ramon",
+      "comuna": "San Ramón",
+      "poblacion_total": 81000,
+      "idd_proyeccion": 53.7,
+      "iam_proyeccion": 53.7,
+      "edad_grupo_0_14_pct": 17.8,
+      "edad_grupo_15_29_pct": 20.1,
+      "edad_grupo_30_44_pct": 20.8,
+      "edad_grupo_45_64_pct": 24.2,
+      "edad_grupo_65_mas_pct": 17.1,
+      "simce_4b_lectura": 267,
+      "simce_4b_matematica": 252,
+      "extranjeros_pct": 6,
+      "pueblos_indigenas_pct": 7.9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13131"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "vitacura",
+      "comuna": "Vitacura",
+      "poblacion_total": 89000,
+      "idd_proyeccion": 59.3,
+      "iam_proyeccion": 59.3,
+      "edad_grupo_0_14_pct": 16.9,
+      "edad_grupo_15_29_pct": 16.5,
+      "edad_grupo_30_44_pct": 22.8,
+      "edad_grupo_45_64_pct": 23.4,
+      "edad_grupo_65_mas_pct": 20.3,
+      "simce_4b_lectura": 302,
+      "simce_4b_matematica": 297,
+      "extranjeros_pct": 6.5,
+      "pueblos_indigenas_pct": 0.9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13132"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "puente-alto",
+      "comuna": "Puente Alto",
+      "poblacion_total": 720000,
+      "idd_proyeccion": 42,
+      "iam_proyeccion": 42,
+      "edad_grupo_0_14_pct": 20.5,
+      "edad_grupo_15_29_pct": 21.6,
+      "edad_grupo_30_44_pct": 23.6,
+      "edad_grupo_45_64_pct": 25.2,
+      "edad_grupo_65_mas_pct": 9.1,
+      "simce_4b_lectura": 268,
+      "simce_4b_matematica": 254,
+      "extranjeros_pct": 3.4,
+      "pueblos_indigenas_pct": 6.4,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13201"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "pirque",
+      "comuna": "Pirque",
+      "poblacion_total": 30000,
+      "idd_proyeccion": 46.1,
+      "iam_proyeccion": 46.1,
+      "edad_grupo_0_14_pct": 19.6,
+      "edad_grupo_15_29_pct": 19.5,
+      "edad_grupo_30_44_pct": 23.1,
+      "edad_grupo_45_64_pct": 25.8,
+      "edad_grupo_65_mas_pct": 12,
+      "simce_4b_lectura": 259,
+      "simce_4b_matematica": 243,
+      "extranjeros_pct": 1.5,
+      "pueblos_indigenas_pct": 3.5,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13202"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "san-jose-de-maipo",
+      "comuna": "San José de Maipo",
+      "poblacion_total": 18000,
+      "idd_proyeccion": 48.4,
+      "iam_proyeccion": 48.4,
+      "edad_grupo_0_14_pct": 18.5,
+      "edad_grupo_15_29_pct": 18.3,
+      "edad_grupo_30_44_pct": 23.5,
+      "edad_grupo_45_64_pct": 25.6,
+      "edad_grupo_65_mas_pct": 14.1,
+      "simce_4b_lectura": 251,
+      "simce_4b_matematica": 233,
+      "extranjeros_pct": 3.2,
+      "pueblos_indigenas_pct": 4.3,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13203"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "colina",
+      "comuna": "Colina",
+      "poblacion_total": 175000,
+      "idd_proyeccion": 47.1,
+      "iam_proyeccion": 47.1,
+      "edad_grupo_0_14_pct": 25,
+      "edad_grupo_15_29_pct": 19.3,
+      "edad_grupo_30_44_pct": 28,
+      "edad_grupo_45_64_pct": 20.7,
+      "edad_grupo_65_mas_pct": 7,
+      "simce_4b_lectura": 280,
+      "simce_4b_matematica": 268,
+      "extranjeros_pct": 9.8,
+      "pueblos_indigenas_pct": 4.9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13301"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "lampa",
+      "comuna": "Lampa",
+      "poblacion_total": 130000,
+      "idd_proyeccion": 46.2,
+      "iam_proyeccion": 46.2,
+      "edad_grupo_0_14_pct": 24.7,
+      "edad_grupo_15_29_pct": 20.2,
+      "edad_grupo_30_44_pct": 28.9,
+      "edad_grupo_45_64_pct": 19.3,
+      "edad_grupo_65_mas_pct": 6.9,
+      "simce_4b_lectura": 259,
+      "simce_4b_matematica": 246,
+      "extranjeros_pct": 8.4,
+      "pueblos_indigenas_pct": 6.4,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13302"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "til-til",
+      "comuna": "Tiltil",
+      "poblacion_total": 22000,
+      "idd_proyeccion": 47.9,
+      "iam_proyeccion": 47.9,
+      "edad_grupo_0_14_pct": 20.1,
+      "edad_grupo_15_29_pct": 20.2,
+      "edad_grupo_30_44_pct": 24.1,
+      "edad_grupo_45_64_pct": 23.3,
+      "edad_grupo_65_mas_pct": 12.3,
+      "simce_4b_lectura": 253,
+      "simce_4b_matematica": 228,
+      "extranjeros_pct": 3.9,
+      "pueblos_indigenas_pct": 2.8,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13303"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "san-bernardo",
+      "comuna": "San Bernardo",
+      "poblacion_total": 348000,
+      "idd_proyeccion": 46.4,
+      "iam_proyeccion": 46.4,
+      "edad_grupo_0_14_pct": 21.4,
+      "edad_grupo_15_29_pct": 21.3,
+      "edad_grupo_30_44_pct": 24.2,
+      "edad_grupo_45_64_pct": 22.9,
+      "edad_grupo_65_mas_pct": 10.3,
+      "simce_4b_lectura": 261,
+      "simce_4b_matematica": 243,
+      "extranjeros_pct": 5.1,
+      "pueblos_indigenas_pct": 7.2,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13401"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "buin",
+      "comuna": "Buin",
+      "poblacion_total": 119000,
+      "idd_proyeccion": 45.5,
+      "iam_proyeccion": 45.5,
+      "edad_grupo_0_14_pct": 21,
+      "edad_grupo_15_29_pct": 20.1,
+      "edad_grupo_30_44_pct": 26.2,
+      "edad_grupo_45_64_pct": 22.4,
+      "edad_grupo_65_mas_pct": 10.3,
+      "simce_4b_lectura": 267,
+      "simce_4b_matematica": 249,
+      "extranjeros_pct": 4.1,
+      "pueblos_indigenas_pct": 4.4,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13402"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "calera-de-tango",
+      "comuna": "Calera de Tango",
+      "poblacion_total": 28000,
+      "idd_proyeccion": 44.7,
+      "iam_proyeccion": 44.7,
+      "edad_grupo_0_14_pct": 19.7,
+      "edad_grupo_15_29_pct": 20.6,
+      "edad_grupo_30_44_pct": 22.8,
+      "edad_grupo_45_64_pct": 25.7,
+      "edad_grupo_65_mas_pct": 11.2,
+      "simce_4b_lectura": 272,
+      "simce_4b_matematica": 260,
+      "extranjeros_pct": 3.3,
+      "pueblos_indigenas_pct": 3.1,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13403"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "paine",
+      "comuna": "Paine",
+      "poblacion_total": 84000,
+      "idd_proyeccion": 47.2,
+      "iam_proyeccion": 47.2,
+      "edad_grupo_0_14_pct": 20.6,
+      "edad_grupo_15_29_pct": 20,
+      "edad_grupo_30_44_pct": 24,
+      "edad_grupo_45_64_pct": 23.9,
+      "edad_grupo_65_mas_pct": 11.4,
+      "simce_4b_lectura": 261,
+      "simce_4b_matematica": 241,
+      "extranjeros_pct": 5.3,
+      "pueblos_indigenas_pct": 4.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13404"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "melipilla",
+      "comuna": "Melipilla",
+      "poblacion_total": 138000,
+      "idd_proyeccion": 49.4,
+      "iam_proyeccion": 49.4,
+      "edad_grupo_0_14_pct": 19.6,
+      "edad_grupo_15_29_pct": 19.6,
+      "edad_grupo_30_44_pct": 23.6,
+      "edad_grupo_45_64_pct": 23.7,
+      "edad_grupo_65_mas_pct": 13.5,
+      "simce_4b_lectura": 266,
+      "simce_4b_matematica": 248,
+      "extranjeros_pct": 5.2,
+      "pueblos_indigenas_pct": 4,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13501"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "alhue",
+      "comuna": "Alhué",
+      "poblacion_total": 7000,
+      "idd_proyeccion": 47.9,
+      "iam_proyeccion": 47.9,
+      "edad_grupo_0_14_pct": 18.7,
+      "edad_grupo_15_29_pct": 19.1,
+      "edad_grupo_30_44_pct": 24.4,
+      "edad_grupo_45_64_pct": 24.2,
+      "edad_grupo_65_mas_pct": 13.7,
+      "simce_4b_lectura": 255,
+      "simce_4b_matematica": 231,
+      "extranjeros_pct": 8.5,
+      "pueblos_indigenas_pct": 2.8,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13502"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "curacavi",
+      "comuna": "Curacaví",
+      "poblacion_total": 36000,
+      "idd_proyeccion": 49.7,
+      "iam_proyeccion": 49.7,
+      "edad_grupo_0_14_pct": 19.2,
+      "edad_grupo_15_29_pct": 19,
+      "edad_grupo_30_44_pct": 22.9,
+      "edad_grupo_45_64_pct": 24.9,
+      "edad_grupo_65_mas_pct": 14,
+      "simce_4b_lectura": 260,
+      "simce_4b_matematica": 242,
+      "extranjeros_pct": 3.4,
+      "pueblos_indigenas_pct": 3.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13503"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "maria-pinto",
+      "comuna": "María Pinto",
+      "poblacion_total": 16000,
+      "idd_proyeccion": 48.8,
+      "iam_proyeccion": 48.8,
+      "edad_grupo_0_14_pct": 19.3,
+      "edad_grupo_15_29_pct": 19,
+      "edad_grupo_30_44_pct": 23.2,
+      "edad_grupo_45_64_pct": 25,
+      "edad_grupo_65_mas_pct": 13.5,
+      "simce_4b_lectura": 236,
+      "simce_4b_matematica": 227,
+      "extranjeros_pct": 1.9,
+      "pueblos_indigenas_pct": 3.4,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13504"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "san-pedro",
+      "comuna": "San Pedro",
+      "poblacion_total": 11000,
+      "idd_proyeccion": 55,
+      "iam_proyeccion": 55,
+      "edad_grupo_0_14_pct": 19.2,
+      "edad_grupo_15_29_pct": 17.8,
+      "edad_grupo_30_44_pct": 22.5,
+      "edad_grupo_45_64_pct": 24.2,
+      "edad_grupo_65_mas_pct": 16.3,
+      "simce_4b_lectura": 259,
+      "simce_4b_matematica": 239,
+      "extranjeros_pct": 6.3,
+      "pueblos_indigenas_pct": 4.8,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13505"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "talagante",
+      "comuna": "Talagante",
+      "poblacion_total": 92000,
+      "idd_proyeccion": 46.5,
+      "iam_proyeccion": 46.5,
+      "edad_grupo_0_14_pct": 20.3,
+      "edad_grupo_15_29_pct": 20.2,
+      "edad_grupo_30_44_pct": 23.5,
+      "edad_grupo_45_64_pct": 24.6,
+      "edad_grupo_65_mas_pct": 11.4,
+      "simce_4b_lectura": 272,
+      "simce_4b_matematica": 258,
+      "extranjeros_pct": 4.2,
+      "pueblos_indigenas_pct": 3.6,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13601"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "el-monte",
+      "comuna": "El Monte",
+      "poblacion_total": 36000,
+      "idd_proyeccion": 49.8,
+      "iam_proyeccion": 49.8,
+      "edad_grupo_0_14_pct": 21.2,
+      "edad_grupo_15_29_pct": 20.1,
+      "edad_grupo_30_44_pct": 23.3,
+      "edad_grupo_45_64_pct": 23.3,
+      "edad_grupo_65_mas_pct": 12.1,
+      "simce_4b_lectura": 248,
+      "simce_4b_matematica": 231,
+      "extranjeros_pct": 2.5,
+      "pueblos_indigenas_pct": 5.7,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13602"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "isla-de-maipo",
+      "comuna": "Isla de Maipo",
+      "poblacion_total": 47000,
+      "idd_proyeccion": 48.7,
+      "iam_proyeccion": 48.7,
+      "edad_grupo_0_14_pct": 20.7,
+      "edad_grupo_15_29_pct": 19.5,
+      "edad_grupo_30_44_pct": 23.6,
+      "edad_grupo_45_64_pct": 24.1,
+      "edad_grupo_65_mas_pct": 12.1,
+      "simce_4b_lectura": 255,
+      "simce_4b_matematica": 234,
+      "extranjeros_pct": 2.3,
+      "pueblos_indigenas_pct": 4.4,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13603"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "padre-hurtado",
+      "comuna": "Padre Hurtado",
+      "poblacion_total": 73000,
+      "idd_proyeccion": 46,
+      "iam_proyeccion": 46,
+      "edad_grupo_0_14_pct": 21,
+      "edad_grupo_15_29_pct": 20.4,
+      "edad_grupo_30_44_pct": 25.7,
+      "edad_grupo_45_64_pct": 22.4,
+      "edad_grupo_65_mas_pct": 10.5,
+      "simce_4b_lectura": 266,
+      "simce_4b_matematica": 248,
+      "extranjeros_pct": 4.9,
+      "pueblos_indigenas_pct": 6.8,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13604"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    },
+    {
+      "comunaId": "penaflor",
+      "comuna": "Peñaflor",
+      "poblacion_total": 102000,
+      "idd_proyeccion": 48,
+      "iam_proyeccion": 48,
+      "edad_grupo_0_14_pct": 20.7,
+      "edad_grupo_15_29_pct": 20,
+      "edad_grupo_30_44_pct": 23.9,
+      "edad_grupo_45_64_pct": 23.7,
+      "edad_grupo_65_mas_pct": 11.7,
+      "simce_4b_lectura": 261,
+      "simce_4b_matematica": 243,
+      "extranjeros_pct": 2.9,
+      "pueblos_indigenas_pct": 3.9,
+      "edad_mediana": null,
+      "tamano_hogar_promedio": null,
+      "jefatura_femenina_pct": null,
+      "escolaridad_promedio_anos": null,
+      "educacion_superior_completa_pct": null,
+      "analfabetismo_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13605"
+        }
+      ],
+      "_notas": "edad mediana, escolaridad, ed. superior no estan en BCN web. Censo/CASEN aparte."
+    }
+  ]
+}

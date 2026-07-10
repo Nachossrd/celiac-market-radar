@@ -1,0 +1,14 @@
+{
+  "source": "rappi",
+  "scrapedAt": "2026-05-28T21:50:24.266Z",
+  "itemCount": 0,
+  "success": false,
+  "errors": [
+    "HTTP 401 / ALT 401 para \"sin gluten\" - Rappi posiblemente requiere auth",
+    "HTTP 401 / ALT 401 para \"pan sin gluten\" - Rappi posiblemente requiere auth",
+    "HTTP 401 / ALT 401 para \"pastel sin gluten\" - Rappi posiblemente requiere auth",
+    "HTTP 401 / ALT 401 para \"celiaco\" - Rappi posiblemente requiere auth"
+  ],
+  "durationMs": 6325,
+  "data": []
+}

@@ -1,0 +1,27 @@
+{
+  "source": "_summary",
+  "scrapedAt": "2026-05-26T02:48:11.488Z",
+  "itemCount": 11,
+  "success": true,
+  "errors": [],
+  "durationMs": 568788,
+  "data": {
+    "duration": "569s",
+    "jumbo": 90,
+    "lider": 0,
+    "mercadolibre": 400,
+    "trends": 8,
+    "rappi": 0,
+    "maps": 56,
+    "reviews": 80,
+    "ine": {
+      "ingresos": 52,
+      "empleo": 52,
+      "vivienda": 52,
+      "demografia": 52,
+      "consumo": "N/A"
+    },
+    "perfilesExport": 52,
+    "totalDataPoints": 634
+  }
+}

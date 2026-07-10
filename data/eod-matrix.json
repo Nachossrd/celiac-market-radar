@@ -1,0 +1,27 @@
+{
+  "fuente": "PROXY ESTIMADO - NO es EOD oficial SECTRA. Estos flujos son aproximaciones a ojo basadas en patrones conocidos de viajes hacia el centro y oriente para consumo no-cotidiano. Reemplazar con datos reales SECTRA EOD 2012/proxima EOD cuando esten disponibles: https://www.sectra.gob.cl/encuestas_movilidad/encuestas_movilidad.htm",
+  "tipoDeDato": "proxy_estimado",
+  "lastUpdated": "2024",
+  "description": "Matriz Origen-Destino aproximada de viajes para consumo de productos no-cotidianos (panaderia/pasteleria especializada) por comuna en la Region Metropolitana. Los valores suman ~1.0 por comuna origen.",
+  "matrix": {
+    "puente-alto":      { "santiago": 0.40, "providencia": 0.20, "las-condes": 0.15, "local": 0.25 },
+    "maipu":            { "santiago": 0.45, "providencia": 0.15, "las-condes": 0.15, "local": 0.25 },
+    "la-florida":       { "santiago": 0.35, "providencia": 0.25, "las-condes": 0.20, "local": 0.20 },
+    "san-bernardo":     { "santiago": 0.50, "providencia": 0.10, "las-condes": 0.10, "local": 0.30 },
+    "las-condes":       { "local": 0.70, "providencia": 0.15, "santiago": 0.10, "vitacura": 0.05 },
+    "providencia":      { "local": 0.65, "las-condes": 0.20, "santiago": 0.10, "nunoa": 0.05 },
+    "nunoa":            { "santiago": 0.30, "providencia": 0.30, "las-condes": 0.20, "local": 0.20 },
+    "penalolen":        { "santiago": 0.35, "providencia": 0.25, "las-condes": 0.20, "local": 0.20 },
+    "pudahuel":         { "santiago": 0.45, "providencia": 0.15, "las-condes": 0.10, "local": 0.30 },
+    "quilicura":        { "santiago": 0.40, "providencia": 0.15, "las-condes": 0.15, "local": 0.30 },
+    "recoleta":         { "santiago": 0.45, "providencia": 0.20, "local": 0.35 },
+    "independencia":    { "santiago": 0.55, "providencia": 0.15, "local": 0.30 },
+    "san-miguel":       { "santiago": 0.40, "providencia": 0.25, "local": 0.35 },
+    "estacion-central": { "santiago": 0.50, "providencia": 0.15, "local": 0.35 }
+  },
+  "defaultFlows": {
+    "residential":  { "santiago": 0.40, "providencia": 0.20, "las-condes": 0.15, "local": 0.25 },
+    "commercial":   { "local": 0.60, "providencia": 0.15, "las-condes": 0.15, "santiago": 0.10 },
+    "rural":        { "local": 0.75, "santiago": 0.15, "providencia": 0.05, "las-condes": 0.05 }
+  }
+}

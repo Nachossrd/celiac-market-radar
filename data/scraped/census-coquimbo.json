@@ -1,0 +1,1796 @@
+{
+  "source": "census-coquimbo",
+  "scrapedAt": "2026-05-28T21:50:24.272Z",
+  "itemCount": 38,
+  "success": true,
+  "errors": [],
+  "durationMs": 0,
+  "data": [
+    {
+      "comunaId": "valparaiso",
+      "comuna": "Valparaíso",
+      "indigenas_pct": 2.5,
+      "extranjeros_pct": 2.9,
+      "composicion": {
+        "amerindio": 0.025,
+        "migrante_latam": 0.029,
+        "mestizo": 0.946,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.988,
+        "confidence": 0.967,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.946,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.025,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.029,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 16.3,
+        "g_15_29": 22.6,
+        "g_30_44": 21.1,
+        "g_45_64": 23.5,
+        "g_65_mas": 16.4
+      }
+    },
+    {
+      "comunaId": "casablanca",
+      "comuna": "Casablanca",
+      "indigenas_pct": 2.3,
+      "extranjeros_pct": 4.2,
+      "composicion": {
+        "amerindio": 0.023,
+        "migrante_latam": 0.042,
+        "mestizo": 0.935,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.987,
+        "confidence": 0.959,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.935,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.023,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.042,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.8,
+        "g_15_29": 19.1,
+        "g_30_44": 22.2,
+        "g_45_64": 24.9,
+        "g_65_mas": 15
+      }
+    },
+    {
+      "comunaId": "concon",
+      "comuna": "Concón",
+      "indigenas_pct": 2.2,
+      "extranjeros_pct": 7.2,
+      "composicion": {
+        "amerindio": 0.022,
+        "migrante_latam": 0.072,
+        "mestizo": 0.906,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.983,
+        "confidence": 0.939,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.906,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.022,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.072,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18,
+        "g_15_29": 20.3,
+        "g_30_44": 21.5,
+        "g_45_64": 25.8,
+        "g_65_mas": 14.4
+      }
+    },
+    {
+      "comunaId": "juan-fernandez",
+      "comuna": "Juan Fernández",
+      "indigenas_pct": 3.4,
+      "extranjeros_pct": 2.3,
+      "composicion": {
+        "amerindio": 0.034,
+        "migrante_latam": 0.023,
+        "mestizo": 0.943,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.986,
+        "confidence": 0.967,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.943,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.034,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.023,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19.2,
+        "g_15_29": 17,
+        "g_30_44": 28,
+        "g_45_64": 24.1,
+        "g_65_mas": 11.7
+      }
+    },
+    {
+      "comunaId": "puchuncavi",
+      "comuna": "Puchuncaví",
+      "indigenas_pct": 1.6,
+      "extranjeros_pct": 3.4,
+      "composicion": {
+        "amerindio": 0.016,
+        "migrante_latam": 0.034,
+        "mestizo": 0.95,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.99,
+        "confidence": 0.968,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.95,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.016,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.034,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.3,
+        "g_15_29": 17.7,
+        "g_30_44": 21,
+        "g_45_64": 25.4,
+        "g_65_mas": 17.6
+      }
+    },
+    {
+      "comunaId": "quintero",
+      "comuna": "Quintero",
+      "indigenas_pct": 2.8,
+      "extranjeros_pct": 3.7,
+      "composicion": {
+        "amerindio": 0.028,
+        "migrante_latam": 0.037,
+        "mestizo": 0.935,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.986,
+        "confidence": 0.96,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.935,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.028,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.037,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19,
+        "g_15_29": 19.3,
+        "g_30_44": 21,
+        "g_45_64": 24.6,
+        "g_65_mas": 16.2
+      }
+    },
+    {
+      "comunaId": "vina-del-mar",
+      "comuna": "Viña del Mar",
+      "indigenas_pct": 2.9,
+      "extranjeros_pct": 4.6,
+      "composicion": {
+        "amerindio": 0.029,
+        "migrante_latam": 0.046,
+        "mestizo": 0.925,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.984,
+        "confidence": 0.953,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.925,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.029,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.046,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 15.2,
+        "g_15_29": 22.8,
+        "g_30_44": 20.6,
+        "g_45_64": 23.5,
+        "g_65_mas": 18
+      }
+    },
+    {
+      "comunaId": "isla-de-pascua",
+      "comuna": "Isla de Pascua",
+      "indigenas_pct": 54.1,
+      "extranjeros_pct": 3.7,
+      "composicion": {
+        "amerindio": 0.541,
+        "migrante_latam": 0.037,
+        "mestizo": 0.422,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.832,
+        "confidence": 0.704,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.422,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.541,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.037,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 21.1,
+        "g_15_29": 20.2,
+        "g_30_44": 30,
+        "g_45_64": 21.4,
+        "g_65_mas": 7.3
+      }
+    },
+    {
+      "comunaId": "los-andes",
+      "comuna": "Los Andes",
+      "indigenas_pct": 2.3,
+      "extranjeros_pct": 4.6,
+      "composicion": {
+        "amerindio": 0.023,
+        "migrante_latam": 0.046,
+        "mestizo": 0.931,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.986,
+        "confidence": 0.956,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.931,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.023,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.046,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.9,
+        "g_15_29": 19,
+        "g_30_44": 22.6,
+        "g_45_64": 24.3,
+        "g_65_mas": 15.2
+      }
+    },
+    {
+      "comunaId": "calle-larga",
+      "comuna": "Calle Larga",
+      "indigenas_pct": 2.6,
+      "extranjeros_pct": 1.9,
+      "composicion": {
+        "amerindio": 0.026,
+        "migrante_latam": 0.019,
+        "mestizo": 0.955,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.989,
+        "confidence": 0.974,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.955,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.026,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.019,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 20.8,
+        "g_15_29": 19,
+        "g_30_44": 22.6,
+        "g_45_64": 23.7,
+        "g_65_mas": 13.8
+      }
+    },
+    {
+      "comunaId": "rinconada",
+      "comuna": "Rinconada",
+      "indigenas_pct": 3.5,
+      "extranjeros_pct": 1.8,
+      "composicion": {
+        "amerindio": 0.035,
+        "migrante_latam": 0.018,
+        "mestizo": 0.947,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.987,
+        "confidence": 0.97,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.947,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.035,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.018,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 21.3,
+        "g_15_29": 18.3,
+        "g_30_44": 23.4,
+        "g_45_64": 23.7,
+        "g_65_mas": 13.3
+      }
+    },
+    {
+      "comunaId": "san-esteban",
+      "comuna": "San Esteban",
+      "indigenas_pct": 2.7,
+      "extranjeros_pct": 1.6,
+      "composicion": {
+        "amerindio": 0.027,
+        "migrante_latam": 0.016,
+        "mestizo": 0.957,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.989,
+        "confidence": 0.975,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.957,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.027,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.016,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 20,
+        "g_15_29": 18.2,
+        "g_30_44": 22.6,
+        "g_45_64": 24.6,
+        "g_65_mas": 14.6
+      }
+    },
+    {
+      "comunaId": "la-ligua",
+      "comuna": "La Ligua",
+      "indigenas_pct": 3.2,
+      "extranjeros_pct": 3,
+      "composicion": {
+        "amerindio": 0.032,
+        "migrante_latam": 0.03,
+        "mestizo": 0.938,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.986,
+        "confidence": 0.963,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.938,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.032,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.03,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.3,
+        "g_15_29": 17.4,
+        "g_30_44": 21.6,
+        "g_45_64": 26.2,
+        "g_65_mas": 16.5
+      }
+    },
+    {
+      "comunaId": "cabildo",
+      "comuna": "Cabildo",
+      "indigenas_pct": 1.5,
+      "extranjeros_pct": 1.7,
+      "composicion": {
+        "amerindio": 0.015,
+        "migrante_latam": 0.017,
+        "mestizo": 0.968,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.993,
+        "confidence": 0.981,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.968,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.015,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.017,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 20,
+        "g_15_29": 18.1,
+        "g_30_44": 21.6,
+        "g_45_64": 25.1,
+        "g_65_mas": 15.2
+      }
+    },
+    {
+      "comunaId": "papudo",
+      "comuna": "Papudo",
+      "indigenas_pct": 3.7,
+      "extranjeros_pct": 3.3,
+      "composicion": {
+        "amerindio": 0.037,
+        "migrante_latam": 0.033,
+        "mestizo": 0.93,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.984,
+        "confidence": 0.958,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.93,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.037,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.033,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 17.6,
+        "g_15_29": 17.7,
+        "g_30_44": 21.4,
+        "g_45_64": 27.2,
+        "g_65_mas": 16.1
+      }
+    },
+    {
+      "comunaId": "petorca",
+      "comuna": "Petorca",
+      "indigenas_pct": 2.7,
+      "extranjeros_pct": 1.8,
+      "composicion": {
+        "amerindio": 0.027,
+        "migrante_latam": 0.018,
+        "mestizo": 0.955,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.989,
+        "confidence": 0.974,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.955,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.027,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.018,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 17.2,
+        "g_15_29": 17.6,
+        "g_30_44": 20.8,
+        "g_45_64": 26.6,
+        "g_65_mas": 17.8
+      }
+    },
+    {
+      "comunaId": "zapallar",
+      "comuna": "Zapallar",
+      "indigenas_pct": 3.5,
+      "extranjeros_pct": 2.2,
+      "composicion": {
+        "amerindio": 0.035,
+        "migrante_latam": 0.022,
+        "mestizo": 0.943,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.986,
+        "confidence": 0.967,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.943,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.035,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.022,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 16.8,
+        "g_15_29": 17.6,
+        "g_30_44": 21.9,
+        "g_45_64": 26.4,
+        "g_65_mas": 17.3
+      }
+    },
+    {
+      "comunaId": "quillota",
+      "comuna": "Quillota",
+      "indigenas_pct": 2.6,
+      "extranjeros_pct": 5.6,
+      "composicion": {
+        "amerindio": 0.026,
+        "migrante_latam": 0.056,
+        "mestizo": 0.918,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.984,
+        "confidence": 0.948,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.918,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.026,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.056,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.3,
+        "g_15_29": 19.7,
+        "g_30_44": 21.7,
+        "g_45_64": 24.2,
+        "g_65_mas": 16.1
+      }
+    },
+    {
+      "comunaId": "calera",
+      "comuna": "La Calera",
+      "indigenas_pct": 3,
+      "extranjeros_pct": 4.8,
+      "composicion": {
+        "amerindio": 0.03,
+        "migrante_latam": 0.048,
+        "mestizo": 0.922,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.984,
+        "confidence": 0.951,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.922,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.03,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.048,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.7,
+        "g_15_29": 20,
+        "g_30_44": 21.1,
+        "g_45_64": 24.3,
+        "g_65_mas": 15.9
+      }
+    },
+    {
+      "comunaId": "hijuelas",
+      "comuna": "Hijuelas",
+      "indigenas_pct": 1.4,
+      "extranjeros_pct": 2.8,
+      "composicion": {
+        "amerindio": 0.014,
+        "migrante_latam": 0.028,
+        "mestizo": 0.958,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.992,
+        "confidence": 0.973,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.958,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.014,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.028,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19.1,
+        "g_15_29": 19.7,
+        "g_30_44": 21.8,
+        "g_45_64": 25.1,
+        "g_65_mas": 14.4
+      }
+    },
+    {
+      "comunaId": "la-cruz",
+      "comuna": "La Cruz",
+      "indigenas_pct": 2.1,
+      "extranjeros_pct": 4.6,
+      "composicion": {
+        "amerindio": 0.021,
+        "migrante_latam": 0.046,
+        "mestizo": 0.933,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.987,
+        "confidence": 0.957,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.933,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.021,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.046,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 20.9,
+        "g_15_29": 18.9,
+        "g_30_44": 26.1,
+        "g_45_64": 21.4,
+        "g_65_mas": 12.6
+      }
+    },
+    {
+      "comunaId": "nogales",
+      "comuna": "Nogales",
+      "indigenas_pct": 2.6,
+      "extranjeros_pct": 1.3,
+      "composicion": {
+        "amerindio": 0.026,
+        "migrante_latam": 0.013,
+        "mestizo": 0.961,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.99,
+        "confidence": 0.978,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.961,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.026,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.013,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19,
+        "g_15_29": 19.6,
+        "g_30_44": 20.1,
+        "g_45_64": 25.2,
+        "g_65_mas": 16.1
+      }
+    },
+    {
+      "comunaId": "san-antonio",
+      "comuna": "San Antonio",
+      "indigenas_pct": 4.5,
+      "extranjeros_pct": 3.6,
+      "composicion": {
+        "amerindio": 0.045,
+        "migrante_latam": 0.036,
+        "mestizo": 0.919,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.981,
+        "confidence": 0.952,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.919,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.045,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.036,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.7,
+        "g_15_29": 18.7,
+        "g_30_44": 21.7,
+        "g_45_64": 25.3,
+        "g_65_mas": 15.6
+      }
+    },
+    {
+      "comunaId": "algarrobo",
+      "comuna": "Algarrobo",
+      "indigenas_pct": 3.1,
+      "extranjeros_pct": 3.7,
+      "composicion": {
+        "amerindio": 0.031,
+        "migrante_latam": 0.037,
+        "mestizo": 0.932,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.985,
+        "confidence": 0.959,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.932,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.031,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.037,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 16,
+        "g_15_29": 15.2,
+        "g_30_44": 20.2,
+        "g_45_64": 25.6,
+        "g_65_mas": 23
+      }
+    },
+    {
+      "comunaId": "cartagena",
+      "comuna": "Cartagena",
+      "indigenas_pct": 4.1,
+      "extranjeros_pct": 2.7,
+      "composicion": {
+        "amerindio": 0.041,
+        "migrante_latam": 0.027,
+        "mestizo": 0.932,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.984,
+        "confidence": 0.961,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.932,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.041,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.027,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.3,
+        "g_15_29": 17,
+        "g_30_44": 19.2,
+        "g_45_64": 25.4,
+        "g_65_mas": 20.1
+      }
+    },
+    {
+      "comunaId": "el-quisco",
+      "comuna": "El Quisco",
+      "indigenas_pct": 4.6,
+      "extranjeros_pct": 5.1,
+      "composicion": {
+        "amerindio": 0.046,
+        "migrante_latam": 0.051,
+        "mestizo": 0.903,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.979,
+        "confidence": 0.941,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.903,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.046,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.051,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 16.1,
+        "g_15_29": 14.5,
+        "g_30_44": 19.1,
+        "g_45_64": 25.2,
+        "g_65_mas": 25.1
+      }
+    },
+    {
+      "comunaId": "el-tabo",
+      "comuna": "El Tabo",
+      "indigenas_pct": 4,
+      "extranjeros_pct": 2.1,
+      "composicion": {
+        "amerindio": 0.04,
+        "migrante_latam": 0.021,
+        "mestizo": 0.939,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.985,
+        "confidence": 0.965,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.939,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.04,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.021,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 15,
+        "g_15_29": 13.9,
+        "g_30_44": 18.6,
+        "g_45_64": 26.9,
+        "g_65_mas": 25.6
+      }
+    },
+    {
+      "comunaId": "santo-domingo",
+      "comuna": "Santo Domingo",
+      "indigenas_pct": 3.6,
+      "extranjeros_pct": 2.4,
+      "composicion": {
+        "amerindio": 0.036,
+        "migrante_latam": 0.024,
+        "mestizo": 0.94,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.986,
+        "confidence": 0.965,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.94,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.036,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.024,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.9,
+        "g_15_29": 15.3,
+        "g_30_44": 23,
+        "g_45_64": 26.5,
+        "g_65_mas": 16.3
+      }
+    },
+    {
+      "comunaId": "san-felipe",
+      "comuna": "San Felipe",
+      "indigenas_pct": 2.8,
+      "extranjeros_pct": 6.6,
+      "composicion": {
+        "amerindio": 0.028,
+        "migrante_latam": 0.066,
+        "mestizo": 0.906,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.982,
+        "confidence": 0.94,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.906,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.028,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.066,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19.7,
+        "g_15_29": 19.9,
+        "g_30_44": 22.8,
+        "g_45_64": 23.4,
+        "g_65_mas": 14.2
+      }
+    },
+    {
+      "comunaId": "catemu",
+      "comuna": "Catemu",
+      "indigenas_pct": 1.7,
+      "extranjeros_pct": 3.3,
+      "composicion": {
+        "amerindio": 0.017,
+        "migrante_latam": 0.033,
+        "mestizo": 0.95,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.99,
+        "confidence": 0.968,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.95,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.017,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.033,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19.1,
+        "g_15_29": 18.4,
+        "g_30_44": 22.4,
+        "g_45_64": 24.2,
+        "g_65_mas": 15.9
+      }
+    },
+    {
+      "comunaId": "llay-llay",
+      "comuna": "Llay Llay",
+      "indigenas_pct": 2.8,
+      "extranjeros_pct": 3.3,
+      "composicion": {
+        "amerindio": 0.028,
+        "migrante_latam": 0.033,
+        "mestizo": 0.939,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.987,
+        "confidence": 0.963,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.939,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.028,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.033,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19.6,
+        "g_15_29": 18.9,
+        "g_30_44": 21.7,
+        "g_45_64": 24.7,
+        "g_65_mas": 15.2
+      }
+    },
+    {
+      "comunaId": "panquehue",
+      "comuna": "Panquehue",
+      "indigenas_pct": 1.9,
+      "extranjeros_pct": 0.9,
+      "composicion": {
+        "amerindio": 0.019,
+        "migrante_latam": 0.009,
+        "mestizo": 0.972,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.993,
+        "confidence": 0.984,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.972,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.019,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.009,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19.2,
+        "g_15_29": 18.9,
+        "g_30_44": 22,
+        "g_45_64": 25.4,
+        "g_65_mas": 14.4
+      }
+    },
+    {
+      "comunaId": "putaendo",
+      "comuna": "Putaendo",
+      "indigenas_pct": 2.2,
+      "extranjeros_pct": 1.8,
+      "composicion": {
+        "amerindio": 0.022,
+        "migrante_latam": 0.018,
+        "mestizo": 0.96,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.991,
+        "confidence": 0.976,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.96,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.022,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.018,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.2,
+        "g_15_29": 18.1,
+        "g_30_44": 20.5,
+        "g_45_64": 25,
+        "g_65_mas": 18.2
+      }
+    },
+    {
+      "comunaId": "santa-maria",
+      "comuna": "Santa María",
+      "indigenas_pct": 3.8,
+      "extranjeros_pct": 1.7,
+      "composicion": {
+        "amerindio": 0.038,
+        "migrante_latam": 0.017,
+        "mestizo": 0.945,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.986,
+        "confidence": 0.969,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.945,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.038,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.017,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 19,
+        "g_15_29": 19.1,
+        "g_30_44": 21.5,
+        "g_45_64": 25.2,
+        "g_65_mas": 15.2
+      }
+    },
+    {
+      "comunaId": "quilpue",
+      "comuna": "Quilpué",
+      "indigenas_pct": 2.8,
+      "extranjeros_pct": 3,
+      "composicion": {
+        "amerindio": 0.028,
+        "migrante_latam": 0.03,
+        "mestizo": 0.942,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.987,
+        "confidence": 0.965,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.942,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.028,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.03,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 16.8,
+        "g_15_29": 19.9,
+        "g_30_44": 20.6,
+        "g_45_64": 24.9,
+        "g_65_mas": 17.8
+      }
+    },
+    {
+      "comunaId": "limache",
+      "comuna": "Limache",
+      "indigenas_pct": 2.4,
+      "extranjeros_pct": 2.9,
+      "composicion": {
+        "amerindio": 0.024,
+        "migrante_latam": 0.029,
+        "mestizo": 0.947,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.988,
+        "confidence": 0.968,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.947,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.024,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.029,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.6,
+        "g_15_29": 19.3,
+        "g_30_44": 21.3,
+        "g_45_64": 23.9,
+        "g_65_mas": 17
+      }
+    },
+    {
+      "comunaId": "olmue",
+      "comuna": "Olmué",
+      "indigenas_pct": 1.3,
+      "extranjeros_pct": 2.4,
+      "composicion": {
+        "amerindio": 0.013,
+        "migrante_latam": 0.024,
+        "mestizo": 0.963,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.992,
+        "confidence": 0.977,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.963,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.013,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.024,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 17.2,
+        "g_15_29": 18.1,
+        "g_30_44": 20.2,
+        "g_45_64": 25.2,
+        "g_65_mas": 19.3
+      }
+    },
+    {
+      "comunaId": "villa-alemana",
+      "comuna": "Villa Alemana",
+      "indigenas_pct": 3.3,
+      "extranjeros_pct": 2.1,
+      "composicion": {
+        "amerindio": 0.033,
+        "migrante_latam": 0.021,
+        "mestizo": 0.946,
+        "_missing": false
+      },
+      "modificador_ancestral": {
+        "weight": 0.987,
+        "confidence": 0.969,
+        "breakdown": {
+          "mestizo": {
+            "fraccion": 0.946,
+            "weight": 1,
+            "ev": "alta"
+          },
+          "amerindio": {
+            "fraccion": 0.033,
+            "weight": 0.7,
+            "ev": "baja"
+          },
+          "migrante_latam": {
+            "fraccion": 0.021,
+            "weight": 0.85,
+            "ev": "especulativa"
+          }
+        },
+        "_missing": false,
+        "_fuentes": [
+          "araya_2015",
+          "cataldo_1995_amerindios",
+          "almeida_2013_brasil",
+          "remes_troche_2015_mexico"
+        ]
+      },
+      "grupos_etarios": {
+        "g_0_14": 18.3,
+        "g_15_29": 20.1,
+        "g_30_44": 21.4,
+        "g_45_64": 24.3,
+        "g_65_mas": 15.9
+      }
+    }
+  ]
+}

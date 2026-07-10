@@ -1,0 +1,96 @@
+{
+  "slug": "metropolitana",
+  "nombre": "Región Metropolitana de Santiago",
+  "codigoRegion": "13",
+  "capital": "Santiago",
+  "perfilEconomico": ["servicios", "industria", "academico", "financiero"],
+
+  "comunas": [
+    { "id": "santiago",            "nombre": "Santiago Centro",      "deis": "13101", "provincia": "Santiago",   "poblacion": 503147, "lat": -33.4489, "lng": -70.6693, "sector": "Centro",         "perfil": ["servicios", "academico", "comercio"] },
+    { "id": "cerrillos",           "nombre": "Cerrillos",            "deis": "13102", "provincia": "Santiago",   "poblacion": 86329,  "lat": -33.5002, "lng": -70.7248, "sector": "Surponiente",    "perfil": ["industria"] },
+    { "id": "cerro-navia",         "nombre": "Cerro Navia",          "deis": "13103", "provincia": "Santiago",   "poblacion": 138758, "lat": -33.4219, "lng": -70.7431, "sector": "Norponiente",    "perfil": ["residencial"] },
+    { "id": "conchali",            "nombre": "Conchalí",             "deis": "13104", "provincia": "Santiago",   "poblacion": 138415, "lat": -33.3815, "lng": -70.6770, "sector": "Norte",          "perfil": ["residencial"] },
+    { "id": "el-bosque",           "nombre": "El Bosque",            "deis": "13105", "provincia": "Santiago",   "poblacion": 161571, "lat": -33.5602, "lng": -70.6747, "sector": "Sur",            "perfil": ["residencial"] },
+    { "id": "estacion-central",    "nombre": "Estación Central",     "deis": "13106", "provincia": "Santiago",   "poblacion": 215000, "lat": -33.4583, "lng": -70.6900, "sector": "Centro",         "perfil": ["servicios", "comercio"] },
+    { "id": "huechuraba",          "nombre": "Huechuraba",           "deis": "13107", "provincia": "Santiago",   "poblacion": 113000, "lat": -33.3667, "lng": -70.6333, "sector": "Norte",          "perfil": ["servicios", "empresarial"] },
+    { "id": "independencia",       "nombre": "Independencia",        "deis": "13108", "provincia": "Santiago",   "poblacion": 110000, "lat": -33.4167, "lng": -70.6667, "sector": "Norte",          "perfil": ["servicios", "salud"] },
+    { "id": "la-cisterna",         "nombre": "La Cisterna",          "deis": "13109", "provincia": "Santiago",   "poblacion": 92000,  "lat": -33.5333, "lng": -70.6667, "sector": "Sur",            "perfil": ["residencial"] },
+    { "id": "la-florida",          "nombre": "La Florida",           "deis": "13110", "provincia": "Santiago",   "poblacion": 369000, "lat": -33.5333, "lng": -70.6000, "sector": "Suroriente",     "perfil": ["residencial", "comercio"] },
+    { "id": "la-granja",           "nombre": "La Granja",            "deis": "13111", "provincia": "Santiago",   "poblacion": 116000, "lat": -33.5333, "lng": -70.6333, "sector": "Sur",            "perfil": ["residencial"] },
+    { "id": "la-pintana",          "nombre": "La Pintana",           "deis": "13112", "provincia": "Santiago",   "poblacion": 195000, "lat": -33.5833, "lng": -70.6333, "sector": "Sur",            "perfil": ["residencial"] },
+    { "id": "la-reina",            "nombre": "La Reina",             "deis": "13113", "provincia": "Santiago",   "poblacion": 91000,  "lat": -33.4500, "lng": -70.5333, "sector": "Oriente",        "perfil": ["residencial"] },
+    { "id": "las-condes",          "nombre": "Las Condes",           "deis": "13114", "provincia": "Santiago",   "poblacion": 326000, "lat": -33.4071, "lng": -70.5482, "sector": "Oriente",        "perfil": ["financiero", "residencial-alto", "comercio-premium"] },
+    { "id": "lo-barnechea",        "nombre": "Lo Barnechea",         "deis": "13115", "provincia": "Santiago",   "poblacion": 122000, "lat": -33.3500, "lng": -70.5167, "sector": "Oriente",        "perfil": ["residencial-alto"] },
+    { "id": "lo-espejo",           "nombre": "Lo Espejo",            "deis": "13116", "provincia": "Santiago",   "poblacion": 95000,  "lat": -33.5167, "lng": -70.6833, "sector": "Sur",            "perfil": ["residencial"] },
+    { "id": "lo-prado",            "nombre": "Lo Prado",             "deis": "13117", "provincia": "Santiago",   "poblacion": 96000,  "lat": -33.4500, "lng": -70.7167, "sector": "Norponiente",    "perfil": ["residencial"] },
+    { "id": "macul",               "nombre": "Macul",                "deis": "13118", "provincia": "Santiago",   "poblacion": 130000, "lat": -33.4833, "lng": -70.6000, "sector": "Sur",            "perfil": ["residencial", "academico"] },
+    { "id": "maipu",               "nombre": "Maipú",                "deis": "13119", "provincia": "Santiago",   "poblacion": 587000, "lat": -33.5167, "lng": -70.7667, "sector": "Surponiente",    "perfil": ["residencial", "comercio"] },
+    { "id": "nunoa",               "nombre": "Ñuñoa",                "deis": "13120", "provincia": "Santiago",   "poblacion": 245000, "lat": -33.4500, "lng": -70.6000, "sector": "Centro-Oriente", "perfil": ["residencial", "academico", "cultural"] },
+    { "id": "pedro-aguirre-cerda", "nombre": "Pedro Aguirre Cerda",  "deis": "13121", "provincia": "Santiago",   "poblacion": 102000, "lat": -33.4833, "lng": -70.6833, "sector": "Sur",            "perfil": ["residencial"] },
+    { "id": "penalolen",           "nombre": "Peñalolén",            "deis": "13122", "provincia": "Santiago",   "poblacion": 261000, "lat": -33.4833, "lng": -70.5333, "sector": "Oriente",        "perfil": ["residencial"] },
+    { "id": "providencia",         "nombre": "Providencia",          "deis": "13123", "provincia": "Santiago",   "poblacion": 161000, "lat": -33.4215, "lng": -70.6056, "sector": "Centro-Oriente", "perfil": ["servicios", "residencial-alto"] },
+    { "id": "pudahuel",            "nombre": "Pudahuel",             "deis": "13124", "provincia": "Santiago",   "poblacion": 252000, "lat": -33.4333, "lng": -70.7500, "sector": "Norponiente",    "perfil": ["residencial", "industria"] },
+    { "id": "quilicura",           "nombre": "Quilicura",            "deis": "13125", "provincia": "Santiago",   "poblacion": 254000, "lat": -33.3667, "lng": -70.7333, "sector": "Norte",          "perfil": ["industria", "residencial"] },
+    { "id": "quinta-normal",       "nombre": "Quinta Normal",        "deis": "13126", "provincia": "Santiago",   "poblacion": 119000, "lat": -33.4333, "lng": -70.7000, "sector": "Centro",         "perfil": ["residencial"] },
+    { "id": "recoleta",            "nombre": "Recoleta",             "deis": "13127", "provincia": "Santiago",   "poblacion": 173000, "lat": -33.4000, "lng": -70.6500, "sector": "Norte",          "perfil": ["residencial", "comercio"] },
+    { "id": "renca",               "nombre": "Renca",                "deis": "13128", "provincia": "Santiago",   "poblacion": 154000, "lat": -33.4000, "lng": -70.7333, "sector": "Norte",          "perfil": ["industria", "residencial"] },
+    { "id": "san-joaquin",         "nombre": "San Joaquín",          "deis": "13129", "provincia": "Santiago",   "poblacion": 95000,  "lat": -33.4833, "lng": -70.6333, "sector": "Sur",            "perfil": ["residencial"] },
+    { "id": "san-miguel",          "nombre": "San Miguel",           "deis": "13130", "provincia": "Santiago",   "poblacion": 132000, "lat": -33.5000, "lng": -70.6500, "sector": "Sur",            "perfil": ["residencial", "comercio"] },
+    { "id": "san-ramon",           "nombre": "San Ramón",            "deis": "13131", "provincia": "Santiago",   "poblacion": 81000,  "lat": -33.5333, "lng": -70.6500, "sector": "Sur",            "perfil": ["residencial"] },
+    { "id": "vitacura",            "nombre": "Vitacura",             "deis": "13132", "provincia": "Santiago",   "poblacion": 89000,  "lat": -33.3833, "lng": -70.5667, "sector": "Oriente",        "perfil": ["residencial-alto", "comercio-premium"] },
+    { "id": "puente-alto",         "nombre": "Puente Alto",          "deis": "13201", "provincia": "Cordillera", "poblacion": 720000, "lat": -33.6167, "lng": -70.5833, "sector": "Suroriente",     "perfil": ["residencial"] },
+    { "id": "pirque",              "nombre": "Pirque",               "deis": "13202", "provincia": "Cordillera", "poblacion": 30000,  "lat": -33.6500, "lng": -70.5667, "sector": "Suroriente",     "perfil": ["rural", "agricultura"] },
+    { "id": "san-jose-de-maipo",   "nombre": "San José de Maipo",    "deis": "13203", "provincia": "Cordillera", "poblacion": 18000,  "lat": -33.6500, "lng": -70.3500, "sector": "Cordillera",     "perfil": ["rural", "turismo_andino"] },
+    { "id": "colina",              "nombre": "Colina",               "deis": "13301", "provincia": "Chacabuco",  "poblacion": 175000, "lat": -33.2000, "lng": -70.6833, "sector": "Norte",          "perfil": ["residencial", "agricultura"] },
+    { "id": "lampa",               "nombre": "Lampa",                "deis": "13302", "provincia": "Chacabuco",  "poblacion": 130000, "lat": -33.2833, "lng": -70.8833, "sector": "Norte",          "perfil": ["residencial", "industria"] },
+    { "id": "til-til",             "nombre": "Tiltil",               "deis": "13303", "provincia": "Chacabuco",  "poblacion": 22000,  "lat": -33.0833, "lng": -70.9333, "sector": "Norte",          "perfil": ["rural"] },
+    { "id": "san-bernardo",        "nombre": "San Bernardo",         "deis": "13401", "provincia": "Maipo",      "poblacion": 348000, "lat": -33.5917, "lng": -70.7000, "sector": "Sur",            "perfil": ["residencial", "industria"] },
+    { "id": "buin",                "nombre": "Buin",                 "deis": "13402", "provincia": "Maipo",      "poblacion": 119000, "lat": -33.7333, "lng": -70.7333, "sector": "Sur",            "perfil": ["residencial", "agricultura"] },
+    { "id": "calera-de-tango",     "nombre": "Calera de Tango",      "deis": "13403", "provincia": "Maipo",      "poblacion": 28000,  "lat": -33.6500, "lng": -70.7833, "sector": "Sur",            "perfil": ["rural"] },
+    { "id": "paine",               "nombre": "Paine",                "deis": "13404", "provincia": "Maipo",      "poblacion": 84000,  "lat": -33.8083, "lng": -70.7500, "sector": "Sur",            "perfil": ["rural", "agricultura"] },
+    { "id": "melipilla",           "nombre": "Melipilla",            "deis": "13501", "provincia": "Melipilla",  "poblacion": 138000, "lat": -33.6900, "lng": -71.2167, "sector": "Poniente",       "perfil": ["agricultura"] },
+    { "id": "alhue",               "nombre": "Alhué",                "deis": "13502", "provincia": "Melipilla",  "poblacion": 7000,   "lat": -34.0333, "lng": -71.1000, "sector": "Sur",            "perfil": ["rural"] },
+    { "id": "curacavi",            "nombre": "Curacaví",             "deis": "13503", "provincia": "Melipilla",  "poblacion": 36000,  "lat": -33.4000, "lng": -71.1500, "sector": "Poniente",       "perfil": ["agricultura"] },
+    { "id": "maria-pinto",         "nombre": "María Pinto",          "deis": "13504", "provincia": "Melipilla",  "poblacion": 16000,  "lat": -33.5167, "lng": -71.1000, "sector": "Poniente",       "perfil": ["rural"] },
+    { "id": "san-pedro",           "nombre": "San Pedro",            "deis": "13505", "provincia": "Melipilla",  "poblacion": 11000,  "lat": -33.9167, "lng": -71.4667, "sector": "Sur",            "perfil": ["rural"] },
+    { "id": "talagante",           "nombre": "Talagante",            "deis": "13601", "provincia": "Talagante",  "poblacion": 92000,  "lat": -33.6667, "lng": -70.9333, "sector": "Surponiente",    "perfil": ["residencial", "agricultura"] },
+    { "id": "el-monte",            "nombre": "El Monte",             "deis": "13602", "provincia": "Talagante",  "poblacion": 36000,  "lat": -33.6833, "lng": -70.9833, "sector": "Surponiente",    "perfil": ["rural"] },
+    { "id": "isla-de-maipo",       "nombre": "Isla de Maipo",        "deis": "13603", "provincia": "Talagante",  "poblacion": 47000,  "lat": -33.7500, "lng": -70.9000, "sector": "Surponiente",    "perfil": ["rural", "agricultura"] },
+    { "id": "padre-hurtado",       "nombre": "Padre Hurtado",        "deis": "13604", "provincia": "Talagante",  "poblacion": 73000,  "lat": -33.5667, "lng": -70.8167, "sector": "Surponiente",    "perfil": ["residencial"] },
+    { "id": "penaflor",            "nombre": "Peñaflor",             "deis": "13605", "provincia": "Talagante",  "poblacion": 102000, "lat": -33.6000, "lng": -70.8833, "sector": "Surponiente",    "perfil": ["residencial"] }
+  ],
+
+  "keywordsComerciales": ["santiago", "stgo", "region metropolitana", "rm"],
+
+  "sectoresAltosIngresos":  ["las-condes", "vitacura", "lo-barnechea", "providencia", "la-reina"],
+  "sectoresMedios":         ["nunoa", "macul", "san-miguel", "la-florida", "maipu"],
+  "sectoresBajosIngresos":  ["la-pintana", "lo-espejo", "el-bosque", "san-ramon", "cerro-navia"],
+
+  "retailDominante": ["Jumbo", "Lider", "Santa Isabel", "Tottus", "Unimarc", "Walmart", "Acuenta"],
+
+  "polosComerciales": [
+    { "nombre": "Parque Arauco",        "comuna": "las-condes",   "tipo": "mall" },
+    { "nombre": "Costanera Center",     "comuna": "providencia",  "tipo": "mall" },
+    { "nombre": "Mall Plaza Vespucio",  "comuna": "la-florida",   "tipo": "mall" },
+    { "nombre": "Mall Plaza Oeste",     "comuna": "cerrillos",    "tipo": "mall" },
+    { "nombre": "Alto Las Condes",      "comuna": "las-condes",   "tipo": "mall" }
+  ],
+
+  "zonas": {
+    "turisticas":   ["santiago", "providencia", "las-condes", "san-jose-de-maipo"],
+    "industriales": ["pudahuel", "renca", "quilicura", "san-bernardo", "lampa"],
+    "portuarias":   [],
+    "mineras":      [],
+    "agricolas":    ["melipilla", "buin", "paine", "curacavi", "talagante", "isla-de-maipo", "colina"]
+  },
+
+  "centroide": { "lat": -33.45, "lng": -70.65, "zoom": 10 },
+
+  "scoringOverrides": null,
+
+  "fuentes": {
+    "poblacion": "INE Chile - Proyeccion poblacional 2024 (base Censo 2017)",
+    "indicadores": "BCN Reportes Comunales 2024 (CASEN 2022, SIMCE, SII)",
+    "matrizEod": "Aproximacion proxy (data/eod-matrix.json)"
+  }
+}

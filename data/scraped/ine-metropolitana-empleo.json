@@ -1,0 +1,1206 @@
+{
+  "source": "ine-metropolitana-empleo",
+  "scrapedAt": "2026-05-26T02:48:06.689Z",
+  "itemCount": 52,
+  "success": true,
+  "errors": [],
+  "durationMs": 49,
+  "data": [
+    {
+      "comunaId": "santiago",
+      "comuna": "Santiago Centro",
+      "empresas_total": 63867,
+      "empresas_micro": 43535,
+      "empresas_pequena": 16528,
+      "empresas_mediana": 2736,
+      "empresas_grande": 1068,
+      "empresas_micro_pct": 68.2,
+      "empresas_grandes_pct": 6,
+      "empresas_per_1000hab": 126.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13101"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "cerrillos",
+      "comuna": "Cerrillos",
+      "empresas_total": 3878,
+      "empresas_micro": 2710,
+      "empresas_pequena": 911,
+      "empresas_mediana": 154,
+      "empresas_grande": 103,
+      "empresas_micro_pct": 69.9,
+      "empresas_grandes_pct": 6.6,
+      "empresas_per_1000hab": 44.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13102"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "cerro-navia",
+      "comuna": "Cerro Navia",
+      "empresas_total": 4292,
+      "empresas_micro": 3519,
+      "empresas_pequena": 700,
+      "empresas_mediana": 60,
+      "empresas_grande": 13,
+      "empresas_micro_pct": 82,
+      "empresas_grandes_pct": 1.7,
+      "empresas_per_1000hab": 30.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13103"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "conchali",
+      "comuna": "Conchalí",
+      "empresas_total": 5175,
+      "empresas_micro": 3824,
+      "empresas_pequena": 1058,
+      "empresas_mediana": 181,
+      "empresas_grande": 112,
+      "empresas_micro_pct": 73.9,
+      "empresas_grandes_pct": 5.7,
+      "empresas_per_1000hab": 37.4,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13104"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "el-bosque",
+      "comuna": "El Bosque",
+      "empresas_total": 5615,
+      "empresas_micro": 4508,
+      "empresas_pequena": 982,
+      "empresas_mediana": 100,
+      "empresas_grande": 25,
+      "empresas_micro_pct": 80.3,
+      "empresas_grandes_pct": 2.2,
+      "empresas_per_1000hab": 34.8,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13105"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "estacion-central",
+      "comuna": "Estación Central",
+      "empresas_total": 7222,
+      "empresas_micro": 5220,
+      "empresas_pequena": 1618,
+      "empresas_mediana": 261,
+      "empresas_grande": 123,
+      "empresas_micro_pct": 72.3,
+      "empresas_grandes_pct": 5.3,
+      "empresas_per_1000hab": 33.6,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13106"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "huechuraba",
+      "comuna": "Huechuraba",
+      "empresas_total": 6824,
+      "empresas_micro": 4077,
+      "empresas_pequena": 1709,
+      "empresas_mediana": 542,
+      "empresas_grande": 496,
+      "empresas_micro_pct": 59.7,
+      "empresas_grandes_pct": 15.2,
+      "empresas_per_1000hab": 60.4,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13107"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "independencia",
+      "comuna": "Independencia",
+      "empresas_total": 5155,
+      "empresas_micro": 3529,
+      "empresas_pequena": 1326,
+      "empresas_mediana": 233,
+      "empresas_grande": 67,
+      "empresas_micro_pct": 68.5,
+      "empresas_grandes_pct": 5.8,
+      "empresas_per_1000hab": 46.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13108"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "la-cisterna",
+      "comuna": "La Cisterna",
+      "empresas_total": 5696,
+      "empresas_micro": 4101,
+      "empresas_pequena": 1362,
+      "empresas_mediana": 182,
+      "empresas_grande": 51,
+      "empresas_micro_pct": 72,
+      "empresas_grandes_pct": 4.1,
+      "empresas_per_1000hab": 61.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13109"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "la-florida",
+      "comuna": "La Florida",
+      "empresas_total": 17147,
+      "empresas_micro": 13440,
+      "empresas_pequena": 3168,
+      "empresas_mediana": 402,
+      "empresas_grande": 137,
+      "empresas_micro_pct": 78.4,
+      "empresas_grandes_pct": 3.1,
+      "empresas_per_1000hab": 46.5,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13110"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "la-granja",
+      "comuna": "La Granja",
+      "empresas_total": 3973,
+      "empresas_micro": 3137,
+      "empresas_pequena": 728,
+      "empresas_mediana": 95,
+      "empresas_grande": 13,
+      "empresas_micro_pct": 79,
+      "empresas_grandes_pct": 2.7,
+      "empresas_per_1000hab": 34.3,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13111"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "la-pintana",
+      "comuna": "La Pintana",
+      "empresas_total": 5312,
+      "empresas_micro": 4054,
+      "empresas_pequena": 1047,
+      "empresas_mediana": 170,
+      "empresas_grande": 41,
+      "empresas_micro_pct": 76.3,
+      "empresas_grandes_pct": 4,
+      "empresas_per_1000hab": 27.2,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13112"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "la-reina",
+      "comuna": "La Reina",
+      "empresas_total": 6764,
+      "empresas_micro": 4561,
+      "empresas_pequena": 1831,
+      "empresas_mediana": 252,
+      "empresas_grande": 120,
+      "empresas_micro_pct": 67.4,
+      "empresas_grandes_pct": 5.5,
+      "empresas_per_1000hab": 74.3,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13113"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "las-condes",
+      "comuna": "Las Condes",
+      "empresas_total": 61135,
+      "empresas_micro": 34736,
+      "empresas_pequena": 18172,
+      "empresas_mediana": 4420,
+      "empresas_grande": 3807,
+      "empresas_micro_pct": 56.8,
+      "empresas_grandes_pct": 13.5,
+      "empresas_per_1000hab": 187.5,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13114"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "lo-barnechea",
+      "comuna": "Lo Barnechea",
+      "empresas_total": 11917,
+      "empresas_micro": 6591,
+      "empresas_pequena": 4093,
+      "empresas_mediana": 842,
+      "empresas_grande": 391,
+      "empresas_micro_pct": 55.3,
+      "empresas_grandes_pct": 10.3,
+      "empresas_per_1000hab": 97.7,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13115"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "lo-espejo",
+      "comuna": "Lo Espejo",
+      "empresas_total": 3047,
+      "empresas_micro": 2417,
+      "empresas_pequena": 528,
+      "empresas_mediana": 70,
+      "empresas_grande": 32,
+      "empresas_micro_pct": 79.3,
+      "empresas_grandes_pct": 3.3,
+      "empresas_per_1000hab": 32.1,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13116"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "lo-prado",
+      "comuna": "Lo Prado",
+      "empresas_total": 3082,
+      "empresas_micro": 2549,
+      "empresas_pequena": 493,
+      "empresas_mediana": 34,
+      "empresas_grande": 6,
+      "empresas_micro_pct": 82.7,
+      "empresas_grandes_pct": 1.3,
+      "empresas_per_1000hab": 32.1,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13117"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "macul",
+      "comuna": "Macul",
+      "empresas_total": 5930,
+      "empresas_micro": 4268,
+      "empresas_pequena": 1266,
+      "empresas_mediana": 267,
+      "empresas_grande": 129,
+      "empresas_micro_pct": 72,
+      "empresas_grandes_pct": 6.7,
+      "empresas_per_1000hab": 45.6,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13118"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "maipu",
+      "comuna": "Maipú",
+      "empresas_total": 22855,
+      "empresas_micro": 18137,
+      "empresas_pequena": 4115,
+      "empresas_mediana": 433,
+      "empresas_grande": 170,
+      "empresas_micro_pct": 79.4,
+      "empresas_grandes_pct": 2.6,
+      "empresas_per_1000hab": 38.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13119"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "nunoa",
+      "comuna": "Ñuñoa",
+      "empresas_total": 16511,
+      "empresas_micro": 11709,
+      "empresas_pequena": 3978,
+      "empresas_mediana": 623,
+      "empresas_grande": 201,
+      "empresas_micro_pct": 70.9,
+      "empresas_grandes_pct": 5,
+      "empresas_per_1000hab": 67.4,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13120"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "pedro-aguirre-cerda",
+      "comuna": "Pedro Aguirre Cerda",
+      "empresas_total": 4410,
+      "empresas_micro": 3226,
+      "empresas_pequena": 969,
+      "empresas_mediana": 174,
+      "empresas_grande": 41,
+      "empresas_micro_pct": 73.2,
+      "empresas_grandes_pct": 4.9,
+      "empresas_per_1000hab": 43.2,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13121"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "penalolen",
+      "comuna": "Peñalolén",
+      "empresas_total": 9343,
+      "empresas_micro": 7340,
+      "empresas_pequena": 1800,
+      "empresas_mediana": 147,
+      "empresas_grande": 56,
+      "empresas_micro_pct": 78.6,
+      "empresas_grandes_pct": 2.2,
+      "empresas_per_1000hab": 35.8,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13122"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "providencia",
+      "comuna": "Providencia",
+      "empresas_total": 56127,
+      "empresas_micro": 35599,
+      "empresas_pequena": 15795,
+      "empresas_mediana": 3155,
+      "empresas_grande": 1578,
+      "empresas_micro_pct": 63.4,
+      "empresas_grandes_pct": 8.4,
+      "empresas_per_1000hab": 348.6,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13123"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "pudahuel",
+      "comuna": "Pudahuel",
+      "empresas_total": 9944,
+      "empresas_micro": 7184,
+      "empresas_pequena": 1991,
+      "empresas_mediana": 377,
+      "empresas_grande": 392,
+      "empresas_micro_pct": 72.2,
+      "empresas_grandes_pct": 7.7,
+      "empresas_per_1000hab": 39.5,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13124"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "quilicura",
+      "comuna": "Quilicura",
+      "empresas_total": 10189,
+      "empresas_micro": 6929,
+      "empresas_pequena": 2148,
+      "empresas_mediana": 560,
+      "empresas_grande": 552,
+      "empresas_micro_pct": 68,
+      "empresas_grandes_pct": 10.9,
+      "empresas_per_1000hab": 40.1,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13125"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "quinta-normal",
+      "comuna": "Quinta Normal",
+      "empresas_total": 7237,
+      "empresas_micro": 5041,
+      "empresas_pequena": 1771,
+      "empresas_mediana": 310,
+      "empresas_grande": 115,
+      "empresas_micro_pct": 69.7,
+      "empresas_grandes_pct": 5.9,
+      "empresas_per_1000hab": 60.8,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13126"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "recoleta",
+      "comuna": "Recoleta",
+      "empresas_total": 11593,
+      "empresas_micro": 7478,
+      "empresas_pequena": 3142,
+      "empresas_mediana": 707,
+      "empresas_grande": 266,
+      "empresas_micro_pct": 64.5,
+      "empresas_grandes_pct": 8.4,
+      "empresas_per_1000hab": 67,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13127"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "renca",
+      "comuna": "Renca",
+      "empresas_total": 5919,
+      "empresas_micro": 4181,
+      "empresas_pequena": 1258,
+      "empresas_mediana": 289,
+      "empresas_grande": 191,
+      "empresas_micro_pct": 70.6,
+      "empresas_grandes_pct": 8.1,
+      "empresas_per_1000hab": 38.4,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13128"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "san-joaquin",
+      "comuna": "San Joaquín",
+      "empresas_total": 5000,
+      "empresas_micro": 3441,
+      "empresas_pequena": 1214,
+      "empresas_mediana": 244,
+      "empresas_grande": 101,
+      "empresas_micro_pct": 68.8,
+      "empresas_grandes_pct": 6.9,
+      "empresas_per_1000hab": 52.6,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13129"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "san-miguel",
+      "comuna": "San Miguel",
+      "empresas_total": 8401,
+      "empresas_micro": 5936,
+      "empresas_pequena": 2033,
+      "empresas_mediana": 331,
+      "empresas_grande": 101,
+      "empresas_micro_pct": 70.7,
+      "empresas_grandes_pct": 5.1,
+      "empresas_per_1000hab": 63.6,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13130"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "san-ramon",
+      "comuna": "San Ramón",
+      "empresas_total": 2958,
+      "empresas_micro": 2393,
+      "empresas_pequena": 514,
+      "empresas_mediana": 46,
+      "empresas_grande": 5,
+      "empresas_micro_pct": 80.9,
+      "empresas_grandes_pct": 1.7,
+      "empresas_per_1000hab": 36.5,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13131"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "vitacura",
+      "comuna": "Vitacura",
+      "empresas_total": 15306,
+      "empresas_micro": 8032,
+      "empresas_pequena": 5216,
+      "empresas_mediana": 1292,
+      "empresas_grande": 766,
+      "empresas_micro_pct": 52.5,
+      "empresas_grandes_pct": 13.4,
+      "empresas_per_1000hab": 172,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13132"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "puente-alto",
+      "comuna": "Puente Alto",
+      "empresas_total": 22968,
+      "empresas_micro": 19172,
+      "empresas_pequena": 3488,
+      "empresas_mediana": 266,
+      "empresas_grande": 42,
+      "empresas_micro_pct": 83.5,
+      "empresas_grandes_pct": 1.3,
+      "empresas_per_1000hab": 31.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13201"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "pirque",
+      "comuna": "Pirque",
+      "empresas_total": 1704,
+      "empresas_micro": 1226,
+      "empresas_pequena": 385,
+      "empresas_mediana": 62,
+      "empresas_grande": 31,
+      "empresas_micro_pct": 71.9,
+      "empresas_grandes_pct": 5.5,
+      "empresas_per_1000hab": 56.8,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13202"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "san-jose-de-maipo",
+      "comuna": "San José de Maipo",
+      "empresas_total": 1058,
+      "empresas_micro": 826,
+      "empresas_pequena": 207,
+      "empresas_mediana": 19,
+      "empresas_grande": 6,
+      "empresas_micro_pct": 78.1,
+      "empresas_grandes_pct": 2.4,
+      "empresas_per_1000hab": 58.8,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13203"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "colina",
+      "comuna": "Colina",
+      "empresas_total": 8207,
+      "empresas_micro": 5539,
+      "empresas_pequena": 2129,
+      "empresas_mediana": 348,
+      "empresas_grande": 191,
+      "empresas_micro_pct": 67.5,
+      "empresas_grandes_pct": 6.6,
+      "empresas_per_1000hab": 46.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13301"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "lampa",
+      "comuna": "Lampa",
+      "empresas_total": 7197,
+      "empresas_micro": 5036,
+      "empresas_pequena": 1588,
+      "empresas_mediana": 334,
+      "empresas_grande": 239,
+      "empresas_micro_pct": 70,
+      "empresas_grandes_pct": 8,
+      "empresas_per_1000hab": 55.4,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13302"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "til-til",
+      "comuna": "Tiltil",
+      "empresas_total": 1178,
+      "empresas_micro": 870,
+      "empresas_pequena": 253,
+      "empresas_mediana": 43,
+      "empresas_grande": 12,
+      "empresas_micro_pct": 73.9,
+      "empresas_grandes_pct": 4.7,
+      "empresas_per_1000hab": 53.5,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13303"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "san-bernardo",
+      "comuna": "San Bernardo",
+      "empresas_total": 13655,
+      "empresas_micro": 10134,
+      "empresas_pequena": 2759,
+      "empresas_mediana": 482,
+      "empresas_grande": 280,
+      "empresas_micro_pct": 74.2,
+      "empresas_grandes_pct": 5.6,
+      "empresas_per_1000hab": 39.2,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13401"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "buin",
+      "comuna": "Buin",
+      "empresas_total": 6313,
+      "empresas_micro": 4805,
+      "empresas_pequena": 1315,
+      "empresas_mediana": 141,
+      "empresas_grande": 52,
+      "empresas_micro_pct": 76.1,
+      "empresas_grandes_pct": 3.1,
+      "empresas_per_1000hab": 53.1,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13402"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "calera-de-tango",
+      "comuna": "Calera de Tango",
+      "empresas_total": 11662,
+      "empresas_micro": 11191,
+      "empresas_pequena": 400,
+      "empresas_mediana": 49,
+      "empresas_grande": 22,
+      "empresas_micro_pct": 96,
+      "empresas_grandes_pct": 0.6,
+      "empresas_per_1000hab": 416.5,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13403"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "paine",
+      "comuna": "Paine",
+      "empresas_total": 4398,
+      "empresas_micro": 3152,
+      "empresas_pequena": 1035,
+      "empresas_mediana": 120,
+      "empresas_grande": 91,
+      "empresas_micro_pct": 71.7,
+      "empresas_grandes_pct": 4.8,
+      "empresas_per_1000hab": 52.4,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13404"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "melipilla",
+      "comuna": "Melipilla",
+      "empresas_total": 8455,
+      "empresas_micro": 6286,
+      "empresas_pequena": 1872,
+      "empresas_mediana": 209,
+      "empresas_grande": 88,
+      "empresas_micro_pct": 74.3,
+      "empresas_grandes_pct": 3.5,
+      "empresas_per_1000hab": 61.3,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13501"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "alhue",
+      "comuna": "Alhué",
+      "empresas_total": 364,
+      "empresas_micro": 273,
+      "empresas_pequena": 78,
+      "empresas_mediana": 12,
+      "empresas_grande": 1,
+      "empresas_micro_pct": 75,
+      "empresas_grandes_pct": 3.6,
+      "empresas_per_1000hab": 52,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13502"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "curacavi",
+      "comuna": "Curacaví",
+      "empresas_total": 2288,
+      "empresas_micro": 1788,
+      "empresas_pequena": 416,
+      "empresas_mediana": 64,
+      "empresas_grande": 20,
+      "empresas_micro_pct": 78.1,
+      "empresas_grandes_pct": 3.7,
+      "empresas_per_1000hab": 63.6,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13503"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "maria-pinto",
+      "comuna": "María Pinto",
+      "empresas_total": 968,
+      "empresas_micro": 695,
+      "empresas_pequena": 213,
+      "empresas_mediana": 36,
+      "empresas_grande": 24,
+      "empresas_micro_pct": 71.8,
+      "empresas_grandes_pct": 6.2,
+      "empresas_per_1000hab": 60.5,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13504"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "san-pedro",
+      "comuna": "San Pedro",
+      "empresas_total": 840,
+      "empresas_micro": 655,
+      "empresas_pequena": 157,
+      "empresas_mediana": 24,
+      "empresas_grande": 4,
+      "empresas_micro_pct": 78,
+      "empresas_grandes_pct": 3.3,
+      "empresas_per_1000hab": 76.4,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13505"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "talagante",
+      "comuna": "Talagante",
+      "empresas_total": 4316,
+      "empresas_micro": 3319,
+      "empresas_pequena": 886,
+      "empresas_mediana": 82,
+      "empresas_grande": 29,
+      "empresas_micro_pct": 76.9,
+      "empresas_grandes_pct": 2.6,
+      "empresas_per_1000hab": 46.9,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13601"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "el-monte",
+      "comuna": "El Monte",
+      "empresas_total": 1627,
+      "empresas_micro": 1262,
+      "empresas_pequena": 325,
+      "empresas_mediana": 32,
+      "empresas_grande": 8,
+      "empresas_micro_pct": 77.6,
+      "empresas_grandes_pct": 2.5,
+      "empresas_per_1000hab": 45.2,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13602"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "isla-de-maipo",
+      "comuna": "Isla de Maipo",
+      "empresas_total": 2093,
+      "empresas_micro": 1608,
+      "empresas_pequena": 423,
+      "empresas_mediana": 48,
+      "empresas_grande": 14,
+      "empresas_micro_pct": 76.8,
+      "empresas_grandes_pct": 3,
+      "empresas_per_1000hab": 44.5,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13603"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "padre-hurtado",
+      "comuna": "Padre Hurtado",
+      "empresas_total": 3551,
+      "empresas_micro": 2796,
+      "empresas_pequena": 660,
+      "empresas_mediana": 72,
+      "empresas_grande": 23,
+      "empresas_micro_pct": 78.7,
+      "empresas_grandes_pct": 2.7,
+      "empresas_per_1000hab": 48.6,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13604"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    },
+    {
+      "comunaId": "penaflor",
+      "comuna": "Peñaflor",
+      "empresas_total": 4597,
+      "empresas_micro": 3617,
+      "empresas_pequena": 853,
+      "empresas_mediana": 94,
+      "empresas_grande": 33,
+      "empresas_micro_pct": 78.7,
+      "empresas_grandes_pct": 2.8,
+      "empresas_per_1000hab": 45.1,
+      "tasa_ocupacion_pct": null,
+      "tasa_desocupacion_pct": null,
+      "informalidad_pct": null,
+      "sector_predominante": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (SII)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13605"
+        }
+      ],
+      "_notas": "tasas de ocupacion/desocupacion no estan a comuna en BCN. Ver ENE (regional) o CASEN."
+    }
+  ]
+}

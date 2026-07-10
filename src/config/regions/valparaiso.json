@@ -1,0 +1,85 @@
+{
+  "slug": "valparaiso",
+  "nombre": "Región de Valparaíso",
+  "codigoRegion": "05",
+  "capital": "Valparaíso",
+  "perfilEconomico": ["turismo_costero", "puerto", "servicios", "industria_petroquimica"],
+
+  "comunas": [
+    { "id": "valparaiso",        "nombre": "Valparaíso",        "deis": "05101", "provincia": "Valparaíso",   "poblacion": 305000, "lat": -33.0472, "lng": -71.6127, "sector": "Costa",     "perfil": ["puerto", "turismo", "academico"] },
+    { "id": "casablanca",        "nombre": "Casablanca",        "deis": "05102", "provincia": "Valparaíso",   "poblacion": 33000,  "lat": -33.3217, "lng": -71.4111, "sector": "Interior",  "perfil": ["agricultura", "vitivinicola"] },
+    { "id": "concon",            "nombre": "Concón",            "deis": "05103", "provincia": "Valparaíso",   "poblacion": 50000,  "lat": -32.9333, "lng": -71.5167, "sector": "Costa",     "perfil": ["residencial-alto", "turismo", "industria_petroquimica"] },
+    { "id": "juan-fernandez",    "nombre": "Juan Fernández",    "deis": "05104", "provincia": "Valparaíso",   "poblacion": 900,    "lat": -33.6333, "lng": -78.8167, "sector": "Insular",   "perfil": ["pesca", "turismo"] },
+    { "id": "puchuncavi",        "nombre": "Puchuncaví",        "deis": "05105", "provincia": "Valparaíso",   "poblacion": 19000,  "lat": -32.7333, "lng": -71.4167, "sector": "Costa",     "perfil": ["industria_petroquimica", "rural"] },
+    { "id": "quintero",          "nombre": "Quintero",          "deis": "05107", "provincia": "Valparaíso",   "poblacion": 32000,  "lat": -32.7833, "lng": -71.5333, "sector": "Costa",     "perfil": ["puerto", "industria_petroquimica"] },
+    { "id": "vina-del-mar",      "nombre": "Viña del Mar",      "deis": "05109", "provincia": "Valparaíso",   "poblacion": 330000, "lat": -33.0245, "lng": -71.5518, "sector": "Costa",     "perfil": ["turismo", "residencial-alto", "servicios"] },
+    { "id": "isla-de-pascua",    "nombre": "Isla de Pascua",    "deis": "05201", "provincia": "Isla de Pascua","poblacion": 8000,  "lat": -27.1212, "lng": -109.3667, "sector": "Insular", "perfil": ["turismo", "rural"] },
+    { "id": "los-andes",         "nombre": "Los Andes",         "deis": "05301", "provincia": "Los Andes",    "poblacion": 70000,  "lat": -32.8333, "lng": -70.5833, "sector": "Cordillera","perfil": ["servicios", "mineria", "turismo_andino"] },
+    { "id": "calle-larga",       "nombre": "Calle Larga",       "deis": "05302", "provincia": "Los Andes",    "poblacion": 14000,  "lat": -32.8500, "lng": -70.6333, "sector": "Cordillera","perfil": ["rural"] },
+    { "id": "rinconada",         "nombre": "Rinconada",         "deis": "05303", "provincia": "Los Andes",    "poblacion": 8500,   "lat": -32.8500, "lng": -70.7167, "sector": "Cordillera","perfil": ["rural"] },
+    { "id": "san-esteban",       "nombre": "San Esteban",       "deis": "05304", "provincia": "Los Andes",    "poblacion": 19000,  "lat": -32.7833, "lng": -70.5833, "sector": "Cordillera","perfil": ["rural"] },
+    { "id": "la-ligua",          "nombre": "La Ligua",          "deis": "05401", "provincia": "Petorca",      "poblacion": 38000,  "lat": -32.4500, "lng": -71.2333, "sector": "Norte",     "perfil": ["agricultura"] },
+    { "id": "cabildo",           "nombre": "Cabildo",           "deis": "05402", "provincia": "Petorca",      "poblacion": 19000,  "lat": -32.4333, "lng": -71.0833, "sector": "Norte",     "perfil": ["mineria", "rural"] },
+    { "id": "papudo",            "nombre": "Papudo",            "deis": "05403", "provincia": "Petorca",      "poblacion": 7000,   "lat": -32.5167, "lng": -71.4500, "sector": "Costa",     "perfil": ["turismo", "residencial-alto"] },
+    { "id": "petorca",           "nombre": "Petorca",           "deis": "05404", "provincia": "Petorca",      "poblacion": 9000,   "lat": -32.2500, "lng": -70.9333, "sector": "Norte",     "perfil": ["rural", "mineria"] },
+    { "id": "zapallar",          "nombre": "Zapallar",          "deis": "05405", "provincia": "Petorca",      "poblacion": 8000,   "lat": -32.5500, "lng": -71.4667, "sector": "Costa",     "perfil": ["turismo", "residencial-alto"] },
+    { "id": "quillota",          "nombre": "Quillota",          "deis": "05501", "provincia": "Quillota",     "poblacion": 95000,  "lat": -32.8833, "lng": -71.2500, "sector": "Interior",  "perfil": ["agricultura", "servicios"] },
+    { "id": "calera",            "nombre": "La Calera",         "deis": "05502", "provincia": "Quillota",     "poblacion": 55000,  "lat": -32.7833, "lng": -71.2000, "sector": "Interior",  "perfil": ["industria", "agricultura"] },
+    { "id": "hijuelas",          "nombre": "Hijuelas",          "deis": "05503", "provincia": "Quillota",     "poblacion": 18000,  "lat": -32.8000, "lng": -71.1500, "sector": "Interior",  "perfil": ["agricultura"] },
+    { "id": "la-cruz",           "nombre": "La Cruz",           "deis": "05504", "provincia": "Quillota",     "poblacion": 17000,  "lat": -32.8333, "lng": -71.2333, "sector": "Interior",  "perfil": ["residencial"] },
+    { "id": "nogales",           "nombre": "Nogales",           "deis": "05506", "provincia": "Quillota",     "poblacion": 26000,  "lat": -32.7333, "lng": -71.2000, "sector": "Interior",  "perfil": ["mineria", "rural"] },
+    { "id": "san-antonio",       "nombre": "San Antonio",       "deis": "05601", "provincia": "San Antonio",  "poblacion": 95000,  "lat": -33.5833, "lng": -71.6167, "sector": "Costa",     "perfil": ["puerto", "industria"] },
+    { "id": "algarrobo",         "nombre": "Algarrobo",         "deis": "05602", "provincia": "San Antonio",  "poblacion": 14000,  "lat": -33.3667, "lng": -71.6667, "sector": "Costa",     "perfil": ["turismo", "residencial-alto"] },
+    { "id": "cartagena",         "nombre": "Cartagena",         "deis": "05603", "provincia": "San Antonio",  "poblacion": 25000,  "lat": -33.5500, "lng": -71.6000, "sector": "Costa",     "perfil": ["turismo"] },
+    { "id": "el-quisco",         "nombre": "El Quisco",         "deis": "05604", "provincia": "San Antonio",  "poblacion": 18000,  "lat": -33.4000, "lng": -71.7000, "sector": "Costa",     "perfil": ["turismo"] },
+    { "id": "el-tabo",           "nombre": "El Tabo",           "deis": "05605", "provincia": "San Antonio",  "poblacion": 14000,  "lat": -33.4500, "lng": -71.6667, "sector": "Costa",     "perfil": ["turismo"] },
+    { "id": "santo-domingo",     "nombre": "Santo Domingo",     "deis": "05606", "provincia": "San Antonio",  "poblacion": 11000,  "lat": -33.6500, "lng": -71.6167, "sector": "Costa",     "perfil": ["turismo", "residencial-alto"] },
+    { "id": "san-felipe",        "nombre": "San Felipe",        "deis": "05701", "provincia": "San Felipe",   "poblacion": 80000,  "lat": -32.7500, "lng": -70.7333, "sector": "Cordillera","perfil": ["agricultura", "servicios"] },
+    { "id": "catemu",            "nombre": "Catemu",            "deis": "05702", "provincia": "San Felipe",   "poblacion": 13000,  "lat": -32.7833, "lng": -70.9667, "sector": "Cordillera","perfil": ["agricultura", "mineria"] },
+    { "id": "llay-llay",         "nombre": "Llay Llay",         "deis": "05703", "provincia": "San Felipe",   "poblacion": 23000,  "lat": -32.8500, "lng": -70.9667, "sector": "Cordillera","perfil": ["agricultura"] },
+    { "id": "panquehue",         "nombre": "Panquehue",         "deis": "05704", "provincia": "San Felipe",   "poblacion": 7500,   "lat": -32.7500, "lng": -70.8833, "sector": "Cordillera","perfil": ["agricultura"] },
+    { "id": "putaendo",          "nombre": "Putaendo",          "deis": "05705", "provincia": "San Felipe",   "poblacion": 15000,  "lat": -32.6333, "lng": -70.7333, "sector": "Cordillera","perfil": ["agricultura", "rural"] },
+    { "id": "santa-maria",       "nombre": "Santa María",       "deis": "05706", "provincia": "San Felipe",   "poblacion": 13500,  "lat": -32.7500, "lng": -70.6833, "sector": "Cordillera","perfil": ["agricultura"] },
+    { "id": "quilpue",           "nombre": "Quilpué",           "deis": "05801", "provincia": "Marga Marga",  "poblacion": 175000, "lat": -33.0500, "lng": -71.4333, "sector": "Interior",  "perfil": ["residencial", "comercio"] },
+    { "id": "limache",           "nombre": "Limache",           "deis": "05802", "provincia": "Marga Marga",  "poblacion": 50000,  "lat": -32.9833, "lng": -71.2667, "sector": "Interior",  "perfil": ["residencial", "agricultura"] },
+    { "id": "olmue",             "nombre": "Olmué",             "deis": "05803", "provincia": "Marga Marga",  "poblacion": 15000,  "lat": -33.0000, "lng": -71.1833, "sector": "Interior",  "perfil": ["turismo", "residencial"] },
+    { "id": "villa-alemana",     "nombre": "Villa Alemana",     "deis": "05804", "provincia": "Marga Marga",  "poblacion": 145000, "lat": -33.0500, "lng": -71.3833, "sector": "Interior",  "perfil": ["residencial"] }
+  ],
+
+  "keywordsComerciales": ["valparaiso", "valpo", "viña del mar", "vina", "quinta region", "5ta region"],
+
+  "sectoresAltosIngresos":  ["concon", "vina-del-mar", "zapallar", "papudo", "santo-domingo", "algarrobo"],
+  "sectoresMedios":         ["valparaiso", "quilpue", "villa-alemana", "san-felipe", "los-andes", "quillota"],
+  "sectoresBajosIngresos":  ["petorca", "cabildo", "la-ligua", "puchuncavi", "cartagena"],
+
+  "retailDominante": ["Jumbo", "Lider", "Santa Isabel", "Tottus", "Unimarc", "Walmart"],
+
+  "polosComerciales": [
+    { "nombre": "Mall Marina Arauco",   "comuna": "vina-del-mar",   "tipo": "mall" },
+    { "nombre": "Espacio Urbano Viña",  "comuna": "vina-del-mar",   "tipo": "mall" },
+    { "nombre": "Mall Curauma",         "comuna": "valparaiso",     "tipo": "mall" },
+    { "nombre": "Mall Plaza Quilpué",   "comuna": "quilpue",        "tipo": "mall" },
+    { "nombre": "Mall Belloto 2000",    "comuna": "quilpue",        "tipo": "mall" }
+  ],
+
+  "zonas": {
+    "turisticas":   ["vina-del-mar", "valparaiso", "concon", "algarrobo", "el-quisco", "el-tabo", "cartagena", "papudo", "zapallar", "isla-de-pascua", "juan-fernandez", "olmue"],
+    "industriales": ["quintero", "puchuncavi", "calera", "san-antonio"],
+    "portuarias":   ["valparaiso", "san-antonio", "quintero"],
+    "mineras":      ["cabildo", "nogales", "petorca", "catemu"],
+    "agricolas":    ["casablanca", "quillota", "san-felipe", "los-andes", "putaendo", "la-ligua"]
+  },
+
+  "centroide": { "lat": -33.0, "lng": -71.4, "zoom": 9 },
+
+  "scoringOverrides": {
+    "weights": { "ingreso": 0.30, "educacion": 0.20, "vivienda": 0.20, "empleo": 0.15, "consumo": 0.15 },
+    "modificadores": { "turismoBoost": 1.15, "puertoBoost": 1.05 }
+  },
+
+  "fuentes": {
+    "poblacion": "INE Chile - Proyeccion poblacional 2024 (base Censo 2017)",
+    "indicadores": "BCN Reportes Comunales 2024 (CASEN 2022, SIMCE, SII)",
+    "matrizEod": null
+  }
+}

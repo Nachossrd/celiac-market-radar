@@ -1,0 +1,894 @@
+{
+  "source": "ine-metropolitana-ingresos",
+  "scrapedAt": "2026-05-26T02:48:06.634Z",
+  "itemCount": 52,
+  "success": true,
+  "errors": [],
+  "durationMs": 179270,
+  "data": [
+    {
+      "comunaId": "santiago",
+      "comuna": "Santiago Centro",
+      "pobreza_ingresos_pct": 3.9,
+      "pobreza_multidimensional_pct": 16.5,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13101"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "cerrillos",
+      "comuna": "Cerrillos",
+      "pobreza_ingresos_pct": 5.2,
+      "pobreza_multidimensional_pct": 22.6,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13102"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "cerro-navia",
+      "comuna": "Cerro Navia",
+      "pobreza_ingresos_pct": 6,
+      "pobreza_multidimensional_pct": 23,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13103"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "conchali",
+      "comuna": "Conchalí",
+      "pobreza_ingresos_pct": 6.1,
+      "pobreza_multidimensional_pct": 18.7,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13104"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "el-bosque",
+      "comuna": "El Bosque",
+      "pobreza_ingresos_pct": 6.2,
+      "pobreza_multidimensional_pct": 17.5,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13105"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "estacion-central",
+      "comuna": "Estación Central",
+      "pobreza_ingresos_pct": 5,
+      "pobreza_multidimensional_pct": 22.8,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13106"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "huechuraba",
+      "comuna": "Huechuraba",
+      "pobreza_ingresos_pct": 4.3,
+      "pobreza_multidimensional_pct": 18.6,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13107"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "independencia",
+      "comuna": "Independencia",
+      "pobreza_ingresos_pct": 5.8,
+      "pobreza_multidimensional_pct": 22.4,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13108"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "la-cisterna",
+      "comuna": "La Cisterna",
+      "pobreza_ingresos_pct": 4.1,
+      "pobreza_multidimensional_pct": 13.5,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13109"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "la-florida",
+      "comuna": "La Florida",
+      "pobreza_ingresos_pct": 3.5,
+      "pobreza_multidimensional_pct": 13.2,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13110"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "la-granja",
+      "comuna": "La Granja",
+      "pobreza_ingresos_pct": 6,
+      "pobreza_multidimensional_pct": 22.3,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13111"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "la-pintana",
+      "comuna": "La Pintana",
+      "pobreza_ingresos_pct": 9.3,
+      "pobreza_multidimensional_pct": 27,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13112"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "la-reina",
+      "comuna": "La Reina",
+      "pobreza_ingresos_pct": 1.6,
+      "pobreza_multidimensional_pct": 4.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13113"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "las-condes",
+      "comuna": "Las Condes",
+      "pobreza_ingresos_pct": 0.9,
+      "pobreza_multidimensional_pct": 4.4,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13114"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "lo-barnechea",
+      "comuna": "Lo Barnechea",
+      "pobreza_ingresos_pct": 0.9,
+      "pobreza_multidimensional_pct": 10.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13115"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "lo-espejo",
+      "comuna": "Lo Espejo",
+      "pobreza_ingresos_pct": 6.8,
+      "pobreza_multidimensional_pct": 28.8,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13116"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "lo-prado",
+      "comuna": "Lo Prado",
+      "pobreza_ingresos_pct": 5.3,
+      "pobreza_multidimensional_pct": 19.3,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13117"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "macul",
+      "comuna": "Macul",
+      "pobreza_ingresos_pct": 3.5,
+      "pobreza_multidimensional_pct": 13.4,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13118"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "maipu",
+      "comuna": "Maipú",
+      "pobreza_ingresos_pct": 3.3,
+      "pobreza_multidimensional_pct": 14.8,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13119"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "nunoa",
+      "comuna": "Ñuñoa",
+      "pobreza_ingresos_pct": 1.5,
+      "pobreza_multidimensional_pct": 5.2,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13120"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "pedro-aguirre-cerda",
+      "comuna": "Pedro Aguirre Cerda",
+      "pobreza_ingresos_pct": 5.5,
+      "pobreza_multidimensional_pct": 20.2,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13121"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "penalolen",
+      "comuna": "Peñalolén",
+      "pobreza_ingresos_pct": 3.2,
+      "pobreza_multidimensional_pct": 16.6,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13122"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "providencia",
+      "comuna": "Providencia",
+      "pobreza_ingresos_pct": 1.3,
+      "pobreza_multidimensional_pct": 4.3,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13123"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "pudahuel",
+      "comuna": "Pudahuel",
+      "pobreza_ingresos_pct": 4.4,
+      "pobreza_multidimensional_pct": 16.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13124"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "quilicura",
+      "comuna": "Quilicura",
+      "pobreza_ingresos_pct": 5.2,
+      "pobreza_multidimensional_pct": 17,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13125"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "quinta-normal",
+      "comuna": "Quinta Normal",
+      "pobreza_ingresos_pct": 2.1,
+      "pobreza_multidimensional_pct": 19.7,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13126"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "recoleta",
+      "comuna": "Recoleta",
+      "pobreza_ingresos_pct": 5.1,
+      "pobreza_multidimensional_pct": 21.2,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13127"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "renca",
+      "comuna": "Renca",
+      "pobreza_ingresos_pct": 5.3,
+      "pobreza_multidimensional_pct": 19.5,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13128"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "san-joaquin",
+      "comuna": "San Joaquín",
+      "pobreza_ingresos_pct": 4.8,
+      "pobreza_multidimensional_pct": 19.6,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13129"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "san-miguel",
+      "comuna": "San Miguel",
+      "pobreza_ingresos_pct": 2.2,
+      "pobreza_multidimensional_pct": 12.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13130"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "san-ramon",
+      "comuna": "San Ramón",
+      "pobreza_ingresos_pct": 6.9,
+      "pobreza_multidimensional_pct": 19.2,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13131"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "vitacura",
+      "comuna": "Vitacura",
+      "pobreza_ingresos_pct": 0.9,
+      "pobreza_multidimensional_pct": 2.4,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13132"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "puente-alto",
+      "comuna": "Puente Alto",
+      "pobreza_ingresos_pct": 5,
+      "pobreza_multidimensional_pct": 18.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13201"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "pirque",
+      "comuna": "Pirque",
+      "pobreza_ingresos_pct": 2.7,
+      "pobreza_multidimensional_pct": 19.4,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13202"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "san-jose-de-maipo",
+      "comuna": "San José de Maipo",
+      "pobreza_ingresos_pct": 4.7,
+      "pobreza_multidimensional_pct": 24.4,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13203"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "colina",
+      "comuna": "Colina",
+      "pobreza_ingresos_pct": 5.1,
+      "pobreza_multidimensional_pct": 24.6,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13301"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "lampa",
+      "comuna": "Lampa",
+      "pobreza_ingresos_pct": 4.9,
+      "pobreza_multidimensional_pct": 25.6,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13302"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "til-til",
+      "comuna": "Tiltil",
+      "pobreza_ingresos_pct": 6.1,
+      "pobreza_multidimensional_pct": 28.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13303"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "san-bernardo",
+      "comuna": "San Bernardo",
+      "pobreza_ingresos_pct": 6,
+      "pobreza_multidimensional_pct": 18.7,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13401"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "buin",
+      "comuna": "Buin",
+      "pobreza_ingresos_pct": 4.4,
+      "pobreza_multidimensional_pct": 19.1,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13402"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "calera-de-tango",
+      "comuna": "Calera de Tango",
+      "pobreza_ingresos_pct": 3.5,
+      "pobreza_multidimensional_pct": 18.6,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13403"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "paine",
+      "comuna": "Paine",
+      "pobreza_ingresos_pct": 5.9,
+      "pobreza_multidimensional_pct": 20.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13404"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "melipilla",
+      "comuna": "Melipilla",
+      "pobreza_ingresos_pct": 7.6,
+      "pobreza_multidimensional_pct": 22.8,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13501"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "alhue",
+      "comuna": "Alhué",
+      "pobreza_ingresos_pct": 9.6,
+      "pobreza_multidimensional_pct": 29.1,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13502"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "curacavi",
+      "comuna": "Curacaví",
+      "pobreza_ingresos_pct": 6,
+      "pobreza_multidimensional_pct": 25.8,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13503"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "maria-pinto",
+      "comuna": "María Pinto",
+      "pobreza_ingresos_pct": 7.3,
+      "pobreza_multidimensional_pct": 27.2,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13504"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "san-pedro",
+      "comuna": "San Pedro",
+      "pobreza_ingresos_pct": 14.1,
+      "pobreza_multidimensional_pct": 31.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13505"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "talagante",
+      "comuna": "Talagante",
+      "pobreza_ingresos_pct": 6.3,
+      "pobreza_multidimensional_pct": 17,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13601"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "el-monte",
+      "comuna": "El Monte",
+      "pobreza_ingresos_pct": 7.1,
+      "pobreza_multidimensional_pct": 23,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13602"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "isla-de-maipo",
+      "comuna": "Isla de Maipo",
+      "pobreza_ingresos_pct": 6.4,
+      "pobreza_multidimensional_pct": 22.9,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13603"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "padre-hurtado",
+      "comuna": "Padre Hurtado",
+      "pobreza_ingresos_pct": 3.7,
+      "pobreza_multidimensional_pct": 19.6,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13604"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    },
+    {
+      "comunaId": "penaflor",
+      "comuna": "Peñaflor",
+      "pobreza_ingresos_pct": 7.3,
+      "pobreza_multidimensional_pct": 15.1,
+      "ingreso_promedio_hogar_clp": null,
+      "ingreso_mediano_hogar_clp": null,
+      "ingreso_per_capita_clp": null,
+      "pobreza_extrema_pct": null,
+      "fuentes": [
+        {
+          "tipo": "BCN comuna ficha (CASEN)",
+          "url": "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2024&idcom=13605"
+        }
+      ],
+      "_notas": "ingreso_*_clp no estan disponibles en BCN web. Integrar CASEN microdatos o SINIM si se requieren."
+    }
+  ]
+}

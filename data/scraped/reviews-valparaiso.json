@@ -1,0 +1,812 @@
+{
+  "source": "reviews-valparaiso",
+  "scrapedAt": "2026-05-26T04:58:17.987Z",
+  "itemCount": 80,
+  "success": true,
+  "errors": [],
+  "durationMs": 98398,
+  "captchaDetected": false,
+  "placesAttempted": 5,
+  "data": [
+    {
+      "text": "La comida estuvo muy buena, especialmente considerando que es un restaurante apto para personas celíacas, lo cual se agradece muchísimo porque no siempre es fácil encontrar opciones seguras y ricas.\n\nSin embargo, el servicio no fue tan bueno. La atención se demoró bastante y además hubo un error con nuestra orden. Se notaba que no era un buen día para la mesera, ya que parecía estar un poco sobrepasada con las comandas, lo que hizo que la experiencia no fuera tan fluida.\n\nEn cuanto a la comida, no recomiendo el sándwich, pero las empanadas están muy buenas, definitivamente valen la pena.",
+      "rating": 2,
+      "date": "Hace 3 meses",
+      "reviewerName": "Abril Almaguer",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "La comida estuvo muy buena, especialmente considerando que es un restaurante apto para personas celíacas, lo cual se agradece muchísimo porque no siempre es fácil encontrar opciones seguras y ricas.\n\nSin embargo, el servicio no fue tan bueno. La atención se demoró bastante y además hubo un error con nuestra orden. Se notaba que no era un buen día para la mesera, ya que parecía estar un poco sobrepasada con las comandas, lo que hizo que la experiencia no fuera tan fluida.\n\nEn cuanto a la comida, no recomiendo el sándwich, pero las empanadas están muy buenas, definitivamente valen la pena.",
+      "rating": 2,
+      "date": "Hace 3 meses",
+      "reviewerName": "Abril Almaguer",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Excelente servicio, destacando el trabajo de Kiara.\nVinimos aquí porque chat gpt fue la primera recomendación que nos dio.\nVinimos de España sin saber exactamente a qué nos enfrentábamos, la verdad que increíble, antes de que acaben nuestras vacaciones volveremos. Todo súper rico, un diez.",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Danae Ortiz",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Excelente servicio, destacando el trabajo de Kiara.\nVinimos aquí porque chat gpt fue la primera recomendación que nos dio.\nVinimos de España sin saber exactamente a qué nos enfrentábamos, la verdad que increíble, antes de que acaben nuestras vacaciones volveremos. Todo súper rico, un diez.",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Danae Ortiz",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Exquisito!!! Sus lasañas, empanadas, pizzas!!! Todo y la atención aun mejor, vale la pena. Se gasta un poco más, pero pork me quiero llevar de todo para la casa.",
+      "rating": 5,
+      "date": "Hace 10 meses",
+      "reviewerName": "Betzabe Sandoval",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Exquisito!!! Sus lasañas, empanadas, pizzas!!! Todo y la atención aun mejor, vale la pena. Se gasta un poco más, pero pork me quiero llevar de todo para la casa.",
+      "rating": 5,
+      "date": "Hace 10 meses",
+      "reviewerName": "Betzabe Sandoval",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Exquisito lugar para comida sin gluten... Cafeteria, pasteles, helados, hamburguesas entre otras cositas ricas se pueden encontrar en el lugar",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Cristyna Isabel Irarrazabal Canales",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Exquisito lugar para comida sin gluten... Cafeteria, pasteles, helados, hamburguesas entre otras cositas ricas se pueden encontrar en el lugar",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Cristyna Isabel Irarrazabal Canales",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Excelente comida sin gluten, buena porsion de papás pero la hamburguesa un poco pequeña, aun asi la hamburguesa y sus acompañamientos estaban demasiado buenos!!",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Diego Cuadra",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Excelente comida sin gluten, buena porsion de papás pero la hamburguesa un poco pequeña, aun asi la hamburguesa y sus acompañamientos estaban demasiado buenos!!",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Diego Cuadra",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Pedimos una hamburguesa Bacon sabrosísima, con jugo de frutilla natural y un mix de papas fritas (papas normales y rústicas), todo sabroso. Excelente atención, muy grato ambiente. Además, es una bella familia trabajando en conjunto; Luis, Constanza y Daniel.",
+      "rating": 5,
+      "date": "Hace 2 años",
+      "reviewerName": "Ro Arias M.",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Pedimos una hamburguesa Bacon sabrosísima, con jugo de frutilla natural y un mix de papas fritas (papas normales y rústicas), todo sabroso. Excelente atención, muy grato ambiente. Además, es una bella familia trabajando en conjunto; Luis, Constanza y Daniel.",
+      "rating": 5,
+      "date": "Hace 2 años",
+      "reviewerName": "Ro Arias M.",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Siempre estoy en busca de un restaurante completamente sin gluten ya que mi pareja es celiaca, Celina Sin Gluten fue uno de las mejores paradas que hicimos, la comida estuvo perfecta, el servicio excelente y las chicas nos dieron muy buenas recomendaciones. 100% Recomendado",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "Soel Araneda",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Siempre estoy en busca de un restaurante completamente sin gluten ya que mi pareja es celiaca, Celina Sin Gluten fue uno de las mejores paradas que hicimos, la comida estuvo perfecta, el servicio excelente y las chicas nos dieron muy buenas recomendaciones. 100% Recomendado",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "Soel Araneda",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Muy ricas las sopaipillas, calzones rotos y la torta !!!!....la atención excelente 👌!!!.\n..cada vez que vaya a Viña será obligatorio ir!!!....sigan así 🤩👏☺",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Veronica Carvajal",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Muy ricas las sopaipillas, calzones rotos y la torta !!!!....la atención excelente 👌!!!.\n..cada vez que vaya a Viña será obligatorio ir!!!....sigan así 🤩👏☺",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Veronica Carvajal",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Muy buena atención, la comida un lujo. Comi muy tranquila siendo celiaca",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Sabrina Arca",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Muy buena atención, la comida un lujo. Comi muy tranquila siendo celiaca",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Sabrina Arca",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Un agrado venir a Celina Sin Gluten\n\nMaravillosa calidad de sus productos\nTremenda y amable atención\n\nTotalmente recomendado ✅",
+      "rating": 5,
+      "date": "Hace 11 meses",
+      "reviewerName": "Giancarlo Roni",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Un agrado venir a Celina Sin Gluten\n\nMaravillosa calidad de sus productos\nTremenda y amable atención\n\nTotalmente recomendado ✅",
+      "rating": 5,
+      "date": "Hace 11 meses",
+      "reviewerName": "Giancarlo Roni",
+      "place": "Celina Sin Gluten",
+      "placeUrl": "https://www.google.com/maps/place/Celina+Sin+Gluten/data=!4m7!3m6!1s0x9689c3450f0a1431:0xbe5b4c0fe1786f5!8m2!3d-32.9419363!4d-71.5212406!16s%2Fg%2F11trlvhq6g!19sChIJMRQKD0XDiZYR9YYX_sC05Qs?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:10.308Z"
+    },
+    {
+      "text": "Agradable sitio para comprar pan artesanal de masa madre, ofrece productos para diabéticos, entre dulces y salados, además venta de frutos secos y mix de los mismos, pan hecho con harina molida en molino de piedra.",
+      "rating": 5,
+      "date": "Editado Hace 5 años",
+      "reviewerName": "Jacqueline Vega",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Agradable sitio para comprar pan artesanal de masa madre, ofrece productos para diabéticos, entre dulces y salados, además venta de frutos secos y mix de los mismos, pan hecho con harina molida en molino de piedra.",
+      "rating": 5,
+      "date": "Editado Hace 5 años",
+      "reviewerName": "Jacqueline Vega",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Buena pastelería sin azúcar e integral. Atienden bien y hay variedad de productos. Apto para diabéticos.",
+      "rating": 5,
+      "date": "Hace 11 meses",
+      "reviewerName": "anita mery",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Buena pastelería sin azúcar e integral. Atienden bien y hay variedad de productos. Apto para diabéticos.",
+      "rating": 5,
+      "date": "Hace 11 meses",
+      "reviewerName": "anita mery",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Cálido lugar con un café exquisito y unas delicias para acompañar... hermoso rincón para un momento relax",
+      "rating": 5,
+      "date": "Hace 3 años",
+      "reviewerName": "Lorena Bearzotti",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Cálido lugar con un café exquisito y unas delicias para acompañar... hermoso rincón para un momento relax",
+      "rating": 5,
+      "date": "Hace 3 años",
+      "reviewerName": "Lorena Bearzotti",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "De la atención nada que decir, el señor que me atendió muy amable. El local en si un poco descuidado (sobre todo el forrado de las mesas) me hubiese gustado encontrar café, no había así que me pedí un té, la vitrina poco variada (solo Quiches, kuchen y brownies) vine un lunes a medio día, me pedí un kuchen de berries, el relleno era agradable no así la masa, dura y seca. Este lugar esta bien ubicado y tiene harto potencial, pienso que podrían aprovecharlo mejor, si tuvieran mas variedad de pasteles y café de grano tal ves volvería.",
+      "rating": 4,
+      "date": "Hace 3 años",
+      "reviewerName": "Camila Belen",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "De la atención nada que decir, el señor que me atendió muy amable. El local en si un poco descuidado (sobre todo el forrado de las mesas) me hubiese gustado encontrar café, no había así que me pedí un té, la vitrina poco variada (solo Quiches, kuchen y brownies) vine un lunes a medio día, me pedí un kuchen de berries, el relleno era agradable no así la masa, dura y seca. Este lugar esta bien ubicado y tiene harto potencial, pienso que podrían aprovecharlo mejor, si tuvieran mas variedad de pasteles y café de grano tal ves volvería.",
+      "rating": 4,
+      "date": "Hace 3 años",
+      "reviewerName": "Camila Belen",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Desde la pandemia que vengo consumiendo pan de masa madre y al probar este, no sé ni qué pensar! Es nada parecido a un pan. Parece un queque denso y sin sabor. Me dijeron que era vegano (lo que me pareció extraño ya que el pan tradicionalmente sólo lleva harina+agua+sal) pero la bolsa de papel en la que me lo entregaron, quedó mojada con grasa del mismo pan. La verdad es que comí sólo 2 trozos y lo boté porque no me gustó para nada. Sin duda quedé muy decepcionada. Yo hago pan de masa madre en mi casa y por urgencia compré aquí y debo decir que mi pan es 1000 veces mejor 🙄",
+      "rating": 1,
+      "date": "Hace 2 años",
+      "reviewerName": "Javiera Valentina",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Desde la pandemia que vengo consumiendo pan de masa madre y al probar este, no sé ni qué pensar! Es nada parecido a un pan. Parece un queque denso y sin sabor. Me dijeron que era vegano (lo que me pareció extraño ya que el pan tradicionalmente sólo lleva harina+agua+sal) pero la bolsa de papel en la que me lo entregaron, quedó mojada con grasa del mismo pan. La verdad es que comí sólo 2 trozos y lo boté porque no me gustó para nada. Sin duda quedé muy decepcionada. Yo hago pan de masa madre en mi casa y por urgencia compré aquí y debo decir que mi pan es 1000 veces mejor 🙄",
+      "rating": 1,
+      "date": "Hace 2 años",
+      "reviewerName": "Javiera Valentina",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "La atencion no es cordial, ademas la tarta que compré, su masa estaba cruda, y la crema la textura no era muy buena, y sin decir que salio cara. Lo que encontre aceptable fue el brownie.\nPero deberian atender mejor, por mi mala experiencia y atencion, no volveria.",
+      "rating": 2,
+      "date": "Hace 4 años",
+      "reviewerName": "Ismael Letelier",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "La atencion no es cordial, ademas la tarta que compré, su masa estaba cruda, y la crema la textura no era muy buena, y sin decir que salio cara. Lo que encontre aceptable fue el brownie.\nPero deberian atender mejor, por mi mala experiencia y atencion, no volveria.",
+      "rating": 2,
+      "date": "Hace 4 años",
+      "reviewerName": "Ismael Letelier",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Me vendieron un colegial el cual pregunte si tenia nuez o almendra ya que soy alergico, me dijieron que no tenía nada de eso, llego a mi casa y SI TIENE es super grave ya que yo me puedo morir por ese error, ademas de que al pagar me estaban cobrando demas, cabe destacar que el colegial en mi casa a nadie le gustó",
+      "rating": 1,
+      "date": "Hace 3 años",
+      "reviewerName": "matias montaner sotomayor",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Me vendieron un colegial el cual pregunte si tenia nuez o almendra ya que soy alergico, me dijieron que no tenía nada de eso, llego a mi casa y SI TIENE es super grave ya que yo me puedo morir por ese error, ademas de que al pagar me estaban cobrando demas, cabe destacar que el colegial en mi casa a nadie le gustó",
+      "rating": 1,
+      "date": "Hace 3 años",
+      "reviewerName": "matias montaner sotomayor",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Es un lugar encantador, muy agradable su entorno y la atención.  Los productos exquisitos bien preparados con ingrdientes nobles y saludables.  Puedes encontrar nutritivos panes integrales hechos con masamadre, tartas dulces y saladas, brownies, barritas de avena, galletas entre otros.  100% recomendado.",
+      "rating": 5,
+      "date": "Hace 5 años",
+      "reviewerName": "Marylen Riveros",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Es un lugar encantador, muy agradable su entorno y la atención.  Los productos exquisitos bien preparados con ingrdientes nobles y saludables.  Puedes encontrar nutritivos panes integrales hechos con masamadre, tartas dulces y saladas, brownies, barritas de avena, galletas entre otros.  100% recomendado.",
+      "rating": 5,
+      "date": "Hace 5 años",
+      "reviewerName": "Marylen Riveros",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Compraba pan de forma regular en dicho lugar pues su calidad es muy buena, no así la atención que brindan. Hace un tiempo comenzaron a ofrecer la opción de hacer los pedidos de pan cortado por teléfono o WhatsApp, cosa que hice, acordando el horario y el tipo de pan. Al llegar al lugar, la persona en recepción dijo que el pan no estaba listo y se desentendió completamente del pedido de WhatsApp. Bueno, nos compramos un café y esperamos. Al cabo de varios minutos, volvemos a entrar y nos dicen que va ver si el pan está listo. Nos trae un pan que no fue el encargado. Cómo ya estaba ahí, había perdido tiempo, lo llevamos, sin que en ningún momento la persona se disculpara o diera alguna explicación por el mal servicio. Escribí molesto por Instagram algo parecido y borraron mi comentario. He ahí como se ve que a pesar de ofrecer un producto que dicen saludable, no trabajan con los trigos más limpios.",
+      "rating": 1,
+      "date": "Hace 7 años",
+      "reviewerName": "Rodrigo Iturrieta",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Compraba pan de forma regular en dicho lugar pues su calidad es muy buena, no así la atención que brindan. Hace un tiempo comenzaron a ofrecer la opción de hacer los pedidos de pan cortado por teléfono o WhatsApp, cosa que hice, acordando el horario y el tipo de pan. Al llegar al lugar, la persona en recepción dijo que el pan no estaba listo y se desentendió completamente del pedido de WhatsApp. Bueno, nos compramos un café y esperamos. Al cabo de varios minutos, volvemos a entrar y nos dicen que va ver si el pan está listo. Nos trae un pan que no fue el encargado. Cómo ya estaba ahí, había perdido tiempo, lo llevamos, sin que en ningún momento la persona se disculpara o diera alguna explicación por el mal servicio. Escribí molesto por Instagram algo parecido y borraron mi comentario. He ahí como se ve que a pesar de ofrecer un producto que dicen saludable, no trabajan con los trigos más limpios.",
+      "rating": 1,
+      "date": "Hace 7 años",
+      "reviewerName": "Rodrigo Iturrieta",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "El quiche rico, las tartas de fruta desabridas y la masa no funcionaba, era la misma del quiche!\nAdemás compré miel multifloral, con color y textura extraña, y sabor a azúcar flor. No se qué estoy comiendo!!",
+      "rating": 2,
+      "date": "Hace 3 años",
+      "reviewerName": "Veronica Andrade",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "El quiche rico, las tartas de fruta desabridas y la masa no funcionaba, era la misma del quiche!\nAdemás compré miel multifloral, con color y textura extraña, y sabor a azúcar flor. No se qué estoy comiendo!!",
+      "rating": 2,
+      "date": "Hace 3 años",
+      "reviewerName": "Veronica Andrade",
+      "place": "Panadería y Pastelería el Molino Alemán",
+      "placeUrl": "https://www.google.com/maps/place/Panader%C3%ADa+y+Pasteler%C3%ADa+el+Molino+Alem%C3%A1n/data=!4m7!3m6!1s0x9689ddded7b9f1a1:0xe18ac0d9e3f01be3!8m2!3d-33.0202341!4d-71.5433453!16s%2Fg%2F11bbrpjyxh!19sChIJofG5197diZYR4xvw49nAiuE?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:30.143Z"
+    },
+    {
+      "text": "Llegué porque vi que vendían todo sin gluten y me encantó, ideal para un brunch. Se nota que se preocupan por cada detalle y que los ingredientes sean de buena calidad. Me encantó el quiche, también el brownie con salsa de manjar y obvio tomé la opción de brunchear, amé el kefir ❤️ soy fanática del matcha y estaba exquisito. Recomendadisimos volveré siempre que vaya a concon para probar mas cositas, se agradece tanto cuando hacen cositas ricas sin gluten",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Paula Rojas Galleguillos",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Llegué porque vi que vendían todo sin gluten y me encantó, ideal para un brunch. Se nota que se preocupan por cada detalle y que los ingredientes sean de buena calidad. Me encantó el quiche, también el brownie con salsa de manjar y obvio tomé la opción de brunchear, amé el kefir ❤️ soy fanática del matcha y estaba exquisito. Recomendadisimos volveré siempre que vaya a concon para probar mas cositas, se agradece tanto cuando hacen cositas ricas sin gluten",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Paula Rojas Galleguillos",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "⭐️⭐️⭐️⭐️⭐️\nUn lugar muy agradable para disfrutar de una comida saludable y sabrosa. Probamos las empanadas keto y el kitch, ambos con excelente sabor y presentación. También optamos por la opción de brunch, que incluye limonada, postre y granola, ideal para complementar la experiencia. Se nota el cuidado en la calidad de los ingredientes y la dedicación en cada preparación. Totalmente recomendable para quienes buscan una propuesta rica, sana y bien pensada.",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Giorgio Lathrop",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "⭐️⭐️⭐️⭐️⭐️\nUn lugar muy agradable para disfrutar de una comida saludable y sabrosa. Probamos las empanadas keto y el kitch, ambos con excelente sabor y presentación. También optamos por la opción de brunch, que incluye limonada, postre y granola, ideal para complementar la experiencia. Se nota el cuidado en la calidad de los ingredientes y la dedicación en cada preparación. Totalmente recomendable para quienes buscan una propuesta rica, sana y bien pensada.",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Giorgio Lathrop",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Excelente lugar. De entrada, la atención es sobresaliente, siempre preocupados de lo que uno necesita. Tiene varias opciones Keto, incluídos sandwiches sabrosos, con buen pan. Recomiendo también las aguas con sabores.",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Nicolás Camino",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Excelente lugar. De entrada, la atención es sobresaliente, siempre preocupados de lo que uno necesita. Tiene varias opciones Keto, incluídos sandwiches sabrosos, con buen pan. Recomiendo también las aguas con sabores.",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Nicolás Camino",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "El mejor lugar para comer sano y rico, dulce y salado! Linda vista y la atención es siempre la mejor!\n100% recomendado!",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "BMH PROPIEDADES CALAMA",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "El mejor lugar para comer sano y rico, dulce y salado! Linda vista y la atención es siempre la mejor!\n100% recomendado!",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "BMH PROPIEDADES CALAMA",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Excelente opción para desayuno GF y APLV; los platos son sabrosos y sanos, el pan sin gluten excelente. La atención es muy cálida y cercana, realmente me encantó. Y además, tienen muy rico café.",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Andrea Kuster Ludtke",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Excelente opción para desayuno GF y APLV; los platos son sabrosos y sanos, el pan sin gluten excelente. La atención es muy cálida y cercana, realmente me encantó. Y además, tienen muy rico café.",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Andrea Kuster Ludtke",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Soy de Santiago y he probado muchos lugares de postres keto, tanto aquí como en Viña. De esta tienda, destaco especialmente el alfajor de manjar lúcuma y la barrita de avellanas. La chica que atiende es muy simpática, responde todas tus dudas y explica en detalle en qué consiste cada postre.\n\nTienen mesitas para sentarse y también una gran variedad de opciones keto saladas que aún no he probado, pero no dudo que sean igual de espectaculares. En todos los postres que he probado aquí, se nota la calidad de los ingredientes.",
+      "rating": 5,
+      "date": "Hace un año",
+      "reviewerName": "Marion Rogers",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Soy de Santiago y he probado muchos lugares de postres keto, tanto aquí como en Viña. De esta tienda, destaco especialmente el alfajor de manjar lúcuma y la barrita de avellanas. La chica que atiende es muy simpática, responde todas tus dudas y explica en detalle en qué consiste cada postre.\n\nTienen mesitas para sentarse y también una gran variedad de opciones keto saladas que aún no he probado, pero no dudo que sean igual de espectaculares. En todos los postres que he probado aquí, se nota la calidad de los ingredientes.",
+      "rating": 5,
+      "date": "Hace un año",
+      "reviewerName": "Marion Rogers",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Día del padre, había menos movimiento del que esperaba, se entiende al ser un restaurante de nicho.\nPedí un sándwich de pesto, aceituna y tomate, incluía un mix verde. 9/10. A mi parecer sentí un poco denso el pan, pero no afectaba a su sabor que estaba Perfecto.\nDe postre una chocotorta con un café lungo. Recomiendo esta combinación completamente. 10/10.\nMuy buena alternativa para mantenerte en régimen keto.",
+      "rating": 5,
+      "date": "Hace 11 meses",
+      "reviewerName": "Gonzalo López Silva",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Día del padre, había menos movimiento del que esperaba, se entiende al ser un restaurante de nicho.\nPedí un sándwich de pesto, aceituna y tomate, incluía un mix verde. 9/10. A mi parecer sentí un poco denso el pan, pero no afectaba a su sabor que estaba Perfecto.\nDe postre una chocotorta con un café lungo. Recomiendo esta combinación completamente. 10/10.\nMuy buena alternativa para mantenerte en régimen keto.",
+      "rating": 5,
+      "date": "Hace 11 meses",
+      "reviewerName": "Gonzalo López Silva",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Todo exquisito todo natural y elaboracion propia ,el servicio increíble muy buenas personas la empanada de queso, manjar y nuez una delicia fue umami una explosión de sabores totalmente, no es barato pero vale 200% la pena 🥰🤗😋",
+      "rating": 5,
+      "date": "Hace un año",
+      "reviewerName": "amanda pizarro",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Todo exquisito todo natural y elaboracion propia ,el servicio increíble muy buenas personas la empanada de queso, manjar y nuez una delicia fue umami una explosión de sabores totalmente, no es barato pero vale 200% la pena 🥰🤗😋",
+      "rating": 5,
+      "date": "Hace un año",
+      "reviewerName": "amanda pizarro",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Pidan el Sanduche carne mechada ! Es una delicia !\nA mi esposo y a mi nos encanto este lugar ! Sin duda volveremos 💜💜 la atención increíble !",
+      "rating": 5,
+      "date": "Hace 8 meses",
+      "reviewerName": "Carla Recalde",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Pidan el Sanduche carne mechada ! Es una delicia !\nA mi esposo y a mi nos encanto este lugar ! Sin duda volveremos 💜💜 la atención increíble !",
+      "rating": 5,
+      "date": "Hace 8 meses",
+      "reviewerName": "Carla Recalde",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Café es insípido, el iced late es el vaso de hielo y leche más caro que me han cobrado. Los postres dulces son buenos, pero en general no es un buen lugar para comer menos para tomar café.\nEl concepto del local es bueno, nada más.",
+      "rating": 1,
+      "date": "Hace 4 meses",
+      "reviewerName": "Mike Torres (PraVaLoRiuS)",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Café es insípido, el iced late es el vaso de hielo y leche más caro que me han cobrado. Los postres dulces son buenos, pero en general no es un buen lugar para comer menos para tomar café.\nEl concepto del local es bueno, nada más.",
+      "rating": 1,
+      "date": "Hace 4 meses",
+      "reviewerName": "Mike Torres (PraVaLoRiuS)",
+      "place": "Oops.sepuede",
+      "placeUrl": "https://www.google.com/maps/place/Oops.sepuede/data=!4m7!3m6!1s0x9689dd5675b9823f:0xdadee9c3b1220a67!8m2!3d-32.9420182!4d-71.532361!16s%2Fg%2F11k9p3ksy1!19sChIJP4K5dVbdiZYRZwoiscPp3to?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:57:49.614Z"
+    },
+    {
+      "text": "Maravillosos postres, la torta de manjar nuez es de las mejores que he probado. Todo lo que tienen es rico: tortas, empanadas, galletas, pancito (el amasado especialmente).\nPanadería preferida obviamente",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "felipe frez",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Maravillosos postres, la torta de manjar nuez es de las mejores que he probado. Todo lo que tienen es rico: tortas, empanadas, galletas, pancito (el amasado especialmente).\nPanadería preferida obviamente",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "felipe frez",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "En mis cumpleaños siempre pido tortas aquí y bien buenas pero este año compramos un pie de limón y estaba malo el del jumbo mejor, la crema de limón malo era gelatinoso y con poco sabor a limón, la masa sin sabor y el merengue no estaba horneado era un merengue normal tirado a malo",
+      "rating": 2,
+      "date": "Hace 3 meses",
+      "reviewerName": "Sebastian Saez",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "En mis cumpleaños siempre pido tortas aquí y bien buenas pero este año compramos un pie de limón y estaba malo el del jumbo mejor, la crema de limón malo era gelatinoso y con poco sabor a limón, la masa sin sabor y el merengue no estaba horneado era un merengue normal tirado a malo",
+      "rating": 2,
+      "date": "Hace 3 meses",
+      "reviewerName": "Sebastian Saez",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Deliciosas tortas con sabor casero, gran variedad de dulces, tartas , etc .\nBuen precio y excelente atención.me encanta este local .",
+      "rating": 5,
+      "date": "Hace 6 meses",
+      "reviewerName": "jessica",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Deliciosas tortas con sabor casero, gran variedad de dulces, tartas , etc .\nBuen precio y excelente atención.me encanta este local .",
+      "rating": 5,
+      "date": "Hace 6 meses",
+      "reviewerName": "jessica",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Muy rica torta de amapola. Liviano biscocho con crema de naranja, crema de muy buena calidad, delicada decoración. Todo a tiempo. Tamaño para 20 personas realmente es para 20. Diametro no es muy grande pero la torta es alta. La tarta de avellanas también alcanza para 20 personas. La masa de chocolate es muy densa, no se puede comer grande trozo a la una vez. Hermosa decoración dorada. Se ve muy elegante y sabor sensacional. Idealmente contactar y pedir por telefono.",
+      "rating": 5,
+      "date": "Hace 4 años",
+      "reviewerName": "Izabela Woźniak",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Muy rica torta de amapola. Liviano biscocho con crema de naranja, crema de muy buena calidad, delicada decoración. Todo a tiempo. Tamaño para 20 personas realmente es para 20. Diametro no es muy grande pero la torta es alta. La tarta de avellanas también alcanza para 20 personas. La masa de chocolate es muy densa, no se puede comer grande trozo a la una vez. Hermosa decoración dorada. Se ve muy elegante y sabor sensacional. Idealmente contactar y pedir por telefono.",
+      "rating": 5,
+      "date": "Hace 4 años",
+      "reviewerName": "Izabela Woźniak",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Compre empanadas y pasteles ..todo delicioso ..no defrauda .. volveré!",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Carola Cartes",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Compre empanadas y pasteles ..todo delicioso ..no defrauda .. volveré!",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Carola Cartes",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Buenas tortas, para diabeticos y también con resistencia al gluten, rico el sabor, compre una de hojarasca rellena de leche con platano y manjar, excelente para el precio",
+      "rating": 5,
+      "date": "Hace 3 años",
+      "reviewerName": "fabian zamorano",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Buenas tortas, para diabeticos y también con resistencia al gluten, rico el sabor, compre una de hojarasca rellena de leche con platano y manjar, excelente para el precio",
+      "rating": 5,
+      "date": "Hace 3 años",
+      "reviewerName": "fabian zamorano",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "El pan y las empanadas delicioso.\nLa pastelería no me gustó.",
+      "rating": 2,
+      "date": "Hace 3 meses",
+      "reviewerName": "Digna Armijo",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "El pan y las empanadas delicioso.\nLa pastelería no me gustó.",
+      "rating": 2,
+      "date": "Hace 3 meses",
+      "reviewerName": "Digna Armijo",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Muy ricas tortas, la de hojarasca platano, panqueque de naranja y brownie son mis favoritas, mantienen su calidad en el tiempo.",
+      "rating": 5,
+      "date": "Editado Hace 3 años",
+      "reviewerName": "Fabio Pacheco",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Muy ricas tortas, la de hojarasca platano, panqueque de naranja y brownie son mis favoritas, mantienen su calidad en el tiempo.",
+      "rating": 5,
+      "date": "Editado Hace 3 años",
+      "reviewerName": "Fabio Pacheco",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Empanada queso/ camaron. No se si fue el hambre. Es que hay que destacarlo. Harto y rico queso. Los camarones estaban hasta en la ultima fraccion que quedaba. Valió la pena la inversion. Un poco cara pero vale cada peso. Amable el lugar y las personas.  Sirvase una con confianza",
+      "rating": 4,
+      "date": "Hace un año",
+      "reviewerName": "Marcos Alejandro V",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Empanada queso/ camaron. No se si fue el hambre. Es que hay que destacarlo. Harto y rico queso. Los camarones estaban hasta en la ultima fraccion que quedaba. Valió la pena la inversion. Un poco cara pero vale cada peso. Amable el lugar y las personas.  Sirvase una con confianza",
+      "rating": 4,
+      "date": "Hace un año",
+      "reviewerName": "Marcos Alejandro V",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Siempre un agrado volver, tortas muy bien logradas algunas interesantes el volumen muy adecuado",
+      "rating": 5,
+      "date": "Hace 8 meses",
+      "reviewerName": "Bernardita",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    },
+    {
+      "text": "Siempre un agrado volver, tortas muy bien logradas algunas interesantes el volumen muy adecuado",
+      "rating": 5,
+      "date": "Hace 8 meses",
+      "reviewerName": "Bernardita",
+      "place": "No me olvides Pastelería",
+      "placeUrl": "https://www.google.com/maps/place/No+me+olvides+Pasteler%C3%ADa/data=!4m7!3m6!1s0x9689ddfc6859446b:0x9aa6f3d02e1ceb6b!8m2!3d-33.0171425!4d-71.5456409!16s%2Fg%2F1tczg3j8!19sChIJa0RZaPzdiZYRa-scLtDzppo?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Viña del Mar",
+      "scrapedAt": "2026-05-26T04:58:09.676Z"
+    }
+  ]
+}

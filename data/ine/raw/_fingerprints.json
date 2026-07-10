@@ -1,0 +1,362 @@
+{
+  "bcn-v2:las-condes": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:52.917Z"
+  },
+  "bcn-v2:la-pintana": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:45.923Z"
+  },
+  "bcn-v2:santiago": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:07.472Z"
+  },
+  "bcn-v2:cerrillos": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:10.907Z"
+  },
+  "bcn-v2:cerro-navia": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:14.438Z"
+  },
+  "bcn-v2:conchali": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:17.947Z"
+  },
+  "bcn-v2:el-bosque": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:21.412Z"
+  },
+  "bcn-v2:estacion-central": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:25.025Z"
+  },
+  "bcn-v2:huechuraba": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:28.416Z"
+  },
+  "bcn-v2:independencia": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:31.923Z"
+  },
+  "bcn-v2:la-cisterna": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:35.427Z"
+  },
+  "bcn-v2:la-florida": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:38.949Z"
+  },
+  "bcn-v2:la-granja": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:42.407Z"
+  },
+  "bcn-v2:la-reina": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:49.428Z"
+  },
+  "bcn-v2:lo-barnechea": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:56.429Z"
+  },
+  "bcn-v2:lo-espejo": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:45:59.913Z"
+  },
+  "bcn-v2:lo-prado": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:03.401Z"
+  },
+  "bcn-v2:macul": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:06.928Z"
+  },
+  "bcn-v2:maipu": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:10.409Z"
+  },
+  "bcn-v2:nunoa": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:13.921Z"
+  },
+  "bcn-v2:pedro-aguirre-cerda": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:17.420Z"
+  },
+  "bcn-v2:penalolen": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:20.911Z"
+  },
+  "bcn-v2:providencia": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:24.419Z"
+  },
+  "bcn-v2:pudahuel": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:27.899Z"
+  },
+  "bcn-v2:quilicura": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:31.420Z"
+  },
+  "bcn-v2:quinta-normal": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:34.918Z"
+  },
+  "bcn-v2:recoleta": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:38.418Z"
+  },
+  "bcn-v2:renca": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:41.947Z"
+  },
+  "bcn-v2:san-joaquin": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:45.419Z"
+  },
+  "bcn-v2:san-miguel": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:48.902Z"
+  },
+  "bcn-v2:san-ramon": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:52.412Z"
+  },
+  "bcn-v2:vitacura": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:55.918Z"
+  },
+  "bcn-v2:puente-alto": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:46:59.441Z"
+  },
+  "bcn-v2:pirque": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:02.912Z"
+  },
+  "bcn-v2:san-jose-de-maipo": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:06.430Z"
+  },
+  "bcn-v2:colina": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:10.042Z"
+  },
+  "bcn-v2:lampa": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:13.442Z"
+  },
+  "bcn-v2:til-til": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:16.989Z"
+  },
+  "bcn-v2:san-bernardo": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:20.449Z"
+  },
+  "bcn-v2:buin": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:23.918Z"
+  },
+  "bcn-v2:calera-de-tango": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:27.473Z"
+  },
+  "bcn-v2:paine": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:30.917Z"
+  },
+  "bcn-v2:melipilla": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:34.441Z"
+  },
+  "bcn-v2:alhue": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:37.915Z"
+  },
+  "bcn-v2:curacavi": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:41.399Z"
+  },
+  "bcn-v2:maria-pinto": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:45.002Z"
+  },
+  "bcn-v2:san-pedro": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:48.421Z"
+  },
+  "bcn-v2:talagante": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:51.928Z"
+  },
+  "bcn-v2:el-monte": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:55.439Z"
+  },
+  "bcn-v2:isla-de-maipo": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:47:58.926Z"
+  },
+  "bcn-v2:padre-hurtado": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:48:02.411Z"
+  },
+  "bcn-v2:penaflor": {
+    "hash": "aa2a8119a96d",
+    "seenAt": "2026-05-26T02:48:06.629Z"
+  },
+  "bcn-v2:valparaiso": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:06.514Z"
+  },
+  "bcn-v2:casablanca": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:09.877Z"
+  },
+  "bcn-v2:concon": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:13.387Z"
+  },
+  "bcn-v2:juan-fernandez": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:16.871Z"
+  },
+  "bcn-v2:puchuncavi": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:20.465Z"
+  },
+  "bcn-v2:quintero": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:23.862Z"
+  },
+  "bcn-v2:vina-del-mar": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:27.380Z"
+  },
+  "bcn-v2:isla-de-pascua": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:30.952Z"
+  },
+  "bcn-v2:los-andes": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:34.486Z"
+  },
+  "bcn-v2:calle-larga": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:37.929Z"
+  },
+  "bcn-v2:rinconada": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:41.419Z"
+  },
+  "bcn-v2:san-esteban": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:44.915Z"
+  },
+  "bcn-v2:la-ligua": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:48.507Z"
+  },
+  "bcn-v2:cabildo": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:51.870Z"
+  },
+  "bcn-v2:papudo": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:55.360Z"
+  },
+  "bcn-v2:petorca": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:39:58.891Z"
+  },
+  "bcn-v2:zapallar": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:02.392Z"
+  },
+  "bcn-v2:quillota": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:05.890Z"
+  },
+  "bcn-v2:calera": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:09.382Z"
+  },
+  "bcn-v2:hijuelas": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:12.877Z"
+  },
+  "bcn-v2:la-cruz": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:16.366Z"
+  },
+  "bcn-v2:nogales": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:19.895Z"
+  },
+  "bcn-v2:san-antonio": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:23.402Z"
+  },
+  "bcn-v2:algarrobo": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:26.891Z"
+  },
+  "bcn-v2:cartagena": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:30.383Z"
+  },
+  "bcn-v2:el-quisco": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:33.875Z"
+  },
+  "bcn-v2:el-tabo": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:37.378Z"
+  },
+  "bcn-v2:santo-domingo": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:40.935Z"
+  },
+  "bcn-v2:san-felipe": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:44.372Z"
+  },
+  "bcn-v2:catemu": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:47.881Z"
+  },
+  "bcn-v2:llay-llay": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:51.393Z"
+  },
+  "bcn-v2:panquehue": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:54.867Z"
+  },
+  "bcn-v2:putaendo": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:40:58.374Z"
+  },
+  "bcn-v2:santa-maria": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:41:01.906Z"
+  },
+  "bcn-v2:quilpue": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:41:05.422Z"
+  },
+  "bcn-v2:limache": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:41:08.899Z"
+  },
+  "bcn-v2:olmue": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:41:12.493Z"
+  },
+  "bcn-v2:villa-alemana": {
+    "hash": "526acea1d756",
+    "seenAt": "2026-05-26T02:41:15.979Z"
+  }
+}

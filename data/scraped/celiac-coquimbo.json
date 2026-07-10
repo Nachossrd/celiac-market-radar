@@ -1,0 +1,1910 @@
+{
+  "source": "celiac-coquimbo",
+  "scrapedAt": "2026-05-28T21:50:24.297Z",
+  "itemCount": 38,
+  "success": true,
+  "errors": [],
+  "durationMs": 0,
+  "data": [
+    {
+      "comunaId": "valparaiso",
+      "comuna": "Valparaíso",
+      "region": "valparaiso",
+      "poblacion": 305000,
+      "lat": -33.0472,
+      "lng": -71.6127,
+      "celiac_score": 64.3,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.751,
+      "estimated_celiac_population": 2290,
+      "estimated_diagnosed": 458,
+      "estimated_underdiagnosed": 1832,
+      "ethnic_modifier": 0.988,
+      "ethnic_modifier_confidence": 0.967,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.946,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.025,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.029,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.356,
+        "acceso_diagnostico": 0.40019379844961256,
+        "educacion": 0.398,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6400000000000001
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "casablanca",
+      "comuna": "Casablanca",
+      "region": "valparaiso",
+      "poblacion": 33000,
+      "lat": -33.3217,
+      "lng": -71.4111,
+      "celiac_score": 66.2,
+      "confidence": 0.752,
+      "prevalencia_estimada_pct": 0.75,
+      "estimated_celiac_population": 248,
+      "estimated_diagnosed": 50,
+      "estimated_underdiagnosed": 198,
+      "ethnic_modifier": 0.987,
+      "ethnic_modifier_confidence": 0.959,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.935,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.023,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.042,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 3,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.247,
+        "acceso_diagnostico": 0.5261627906976746,
+        "educacion": 0.575,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6377777777777779
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "concon",
+      "comuna": "Concón",
+      "region": "valparaiso",
+      "poblacion": 50000,
+      "lat": -32.9333,
+      "lng": -71.5167,
+      "celiac_score": 88.7,
+      "confidence": 0.748,
+      "prevalencia_estimada_pct": 0.747,
+      "estimated_celiac_population": 374,
+      "estimated_diagnosed": 75,
+      "estimated_underdiagnosed": 299,
+      "ethnic_modifier": 0.983,
+      "ethnic_modifier_confidence": 0.939,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.906,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.022,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.072,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "high",
+      "market_gap_gluten_free": 35,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 1,
+        "acceso_diagnostico": 1,
+        "educacion": 1,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.628888888888889
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "juan-fernandez",
+      "comuna": "Juan Fernández",
+      "region": "valparaiso",
+      "poblacion": 900,
+      "lat": -33.6333,
+      "lng": -78.8167,
+      "celiac_score": 70.1,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 7,
+      "estimated_diagnosed": 1,
+      "estimated_underdiagnosed": 6,
+      "ethnic_modifier": 0.986,
+      "ethnic_modifier_confidence": 0.967,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.943,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.034,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.023,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 6,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 1,
+        "acceso_diagnostico": 0.39631782945736416,
+        "educacion": 0.034,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6355555555555557
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "puchuncavi",
+      "comuna": "Puchuncaví",
+      "region": "valparaiso",
+      "poblacion": 19000,
+      "lat": -32.7333,
+      "lng": -71.4167,
+      "celiac_score": 65.5,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.752,
+      "estimated_celiac_population": 143,
+      "estimated_diagnosed": 29,
+      "estimated_underdiagnosed": 114,
+      "ethnic_modifier": 0.99,
+      "ethnic_modifier_confidence": 0.968,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.95,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.016,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.034,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.918,
+        "acceso_diagnostico": 0.17829457364341064,
+        "educacion": 0,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6444444444444446
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "quintero",
+      "comuna": "Quintero",
+      "region": "valparaiso",
+      "poblacion": 32000,
+      "lat": -32.7833,
+      "lng": -71.5333,
+      "celiac_score": 60.3,
+      "confidence": 0.752,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 240,
+      "estimated_diagnosed": 48,
+      "estimated_underdiagnosed": 192,
+      "ethnic_modifier": 0.986,
+      "ethnic_modifier_confidence": 0.96,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.935,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.028,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.037,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.315,
+        "acceso_diagnostico": 0.2228682170542636,
+        "educacion": 0.334,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6355555555555557
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "vina-del-mar",
+      "comuna": "Viña del Mar",
+      "region": "valparaiso",
+      "poblacion": 330000,
+      "lat": -33.0245,
+      "lng": -71.5518,
+      "celiac_score": 73.1,
+      "confidence": 0.751,
+      "prevalencia_estimada_pct": 0.748,
+      "estimated_celiac_population": 2468,
+      "estimated_diagnosed": 494,
+      "estimated_underdiagnosed": 1974,
+      "ethnic_modifier": 0.984,
+      "ethnic_modifier_confidence": 0.953,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.925,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.029,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.046,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 12,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.479,
+        "acceso_diagnostico": 0.6608527131782945,
+        "educacion": 0.72,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6311111111111113
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "isla-de-pascua",
+      "comuna": "Isla de Pascua",
+      "region": "valparaiso",
+      "poblacion": 8000,
+      "lat": -27.1212,
+      "lng": -109.3667,
+      "celiac_score": 60.8,
+      "confidence": 0.709,
+      "prevalencia_estimada_pct": 0.632,
+      "estimated_celiac_population": 51,
+      "estimated_diagnosed": 10,
+      "estimated_underdiagnosed": 41,
+      "ethnic_modifier": 0.832,
+      "ethnic_modifier_confidence": 0.704,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.422,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.541,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.037,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.63,
+        "acceso_diagnostico": 0.40794573643410825,
+        "educacion": 0.319,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.2933333333333334
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "los-andes",
+      "comuna": "Los Andes",
+      "region": "valparaiso",
+      "poblacion": 70000,
+      "lat": -32.8333,
+      "lng": -70.5833,
+      "celiac_score": 68.3,
+      "confidence": 0.751,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 525,
+      "estimated_diagnosed": 105,
+      "estimated_underdiagnosed": 420,
+      "ethnic_modifier": 0.986,
+      "ethnic_modifier_confidence": 0.956,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.931,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.023,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.046,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 5,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.26,
+        "acceso_diagnostico": 0.5949612403100774,
+        "educacion": 0.661,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6355555555555557
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "calle-larga",
+      "comuna": "Calle Larga",
+      "region": "valparaiso",
+      "poblacion": 14000,
+      "lat": -32.85,
+      "lng": -70.6333,
+      "celiac_score": 67.2,
+      "confidence": 0.754,
+      "prevalencia_estimada_pct": 0.752,
+      "estimated_celiac_population": 105,
+      "estimated_diagnosed": 21,
+      "estimated_underdiagnosed": 84,
+      "ethnic_modifier": 0.989,
+      "ethnic_modifier_confidence": 0.974,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.955,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.026,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.019,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.411,
+        "acceso_diagnostico": 0.4583333333333335,
+        "educacion": 0.516,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6422222222222224
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "rinconada",
+      "comuna": "Rinconada",
+      "region": "valparaiso",
+      "poblacion": 8500,
+      "lat": -32.85,
+      "lng": -70.7167,
+      "celiac_score": 60.6,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.75,
+      "estimated_celiac_population": 64,
+      "estimated_diagnosed": 13,
+      "estimated_underdiagnosed": 51,
+      "ethnic_modifier": 0.987,
+      "ethnic_modifier_confidence": 0.97,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.947,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.035,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.018,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.26,
+        "acceso_diagnostico": 0.2596899224806203,
+        "educacion": 0.394,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6377777777777779
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "san-esteban",
+      "comuna": "San Esteban",
+      "region": "valparaiso",
+      "poblacion": 19000,
+      "lat": -32.7833,
+      "lng": -70.5833,
+      "celiac_score": 60.5,
+      "confidence": 0.754,
+      "prevalencia_estimada_pct": 0.752,
+      "estimated_celiac_population": 143,
+      "estimated_diagnosed": 29,
+      "estimated_underdiagnosed": 114,
+      "ethnic_modifier": 0.989,
+      "ethnic_modifier_confidence": 0.975,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.957,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.027,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.016,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.205,
+        "acceso_diagnostico": 0.2984496124031009,
+        "educacion": 0.401,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6422222222222224
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "la-ligua",
+      "comuna": "La Ligua",
+      "region": "valparaiso",
+      "poblacion": 38000,
+      "lat": -32.45,
+      "lng": -71.2333,
+      "celiac_score": 61.1,
+      "confidence": 0.752,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 285,
+      "estimated_diagnosed": 57,
+      "estimated_underdiagnosed": 228,
+      "ethnic_modifier": 0.986,
+      "ethnic_modifier_confidence": 0.963,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.938,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.032,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.03,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.247,
+        "acceso_diagnostico": 0.3052325581395349,
+        "educacion": 0.394,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6355555555555557
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "cabildo",
+      "comuna": "Cabildo",
+      "region": "valparaiso",
+      "poblacion": 19000,
+      "lat": -32.4333,
+      "lng": -71.0833,
+      "celiac_score": 59.5,
+      "confidence": 0.755,
+      "prevalencia_estimada_pct": 0.755,
+      "estimated_celiac_population": 143,
+      "estimated_diagnosed": 29,
+      "estimated_underdiagnosed": 114,
+      "ethnic_modifier": 0.993,
+      "ethnic_modifier_confidence": 0.981,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.968,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.015,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.017,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.151,
+        "acceso_diagnostico": 0.24806201550387566,
+        "educacion": 0.44,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6511111111111113
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "papudo",
+      "comuna": "Papudo",
+      "region": "valparaiso",
+      "poblacion": 7000,
+      "lat": -32.5167,
+      "lng": -71.45,
+      "celiac_score": 62.5,
+      "confidence": 0.751,
+      "prevalencia_estimada_pct": 0.748,
+      "estimated_celiac_population": 52,
+      "estimated_diagnosed": 10,
+      "estimated_underdiagnosed": 42,
+      "ethnic_modifier": 0.984,
+      "ethnic_modifier_confidence": 0.958,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.93,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.037,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.033,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.37,
+        "acceso_diagnostico": 0.34496124031007724,
+        "educacion": 0.298,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6311111111111113
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "petorca",
+      "comuna": "Petorca",
+      "region": "valparaiso",
+      "poblacion": 9000,
+      "lat": -32.25,
+      "lng": -70.9333,
+      "celiac_score": 71.6,
+      "confidence": 0.754,
+      "prevalencia_estimada_pct": 0.752,
+      "estimated_celiac_population": 68,
+      "estimated_diagnosed": 14,
+      "estimated_underdiagnosed": 54,
+      "ethnic_modifier": 0.989,
+      "ethnic_modifier_confidence": 0.974,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.955,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.027,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.018,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 3,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.753,
+        "acceso_diagnostico": 0.48546511627906946,
+        "educacion": 0.403,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6422222222222224
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "zapallar",
+      "comuna": "Zapallar",
+      "region": "valparaiso",
+      "poblacion": 8000,
+      "lat": -32.55,
+      "lng": -71.4667,
+      "celiac_score": 77.5,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 60,
+      "estimated_diagnosed": 12,
+      "estimated_underdiagnosed": 48,
+      "ethnic_modifier": 0.986,
+      "ethnic_modifier_confidence": 0.967,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.943,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.035,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.022,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 16,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.781,
+        "acceso_diagnostico": 0.683139534883721,
+        "educacion": 0.671,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6355555555555557
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "quillota",
+      "comuna": "Quillota",
+      "region": "valparaiso",
+      "poblacion": 95000,
+      "lat": -32.8833,
+      "lng": -71.25,
+      "celiac_score": 73,
+      "confidence": 0.75,
+      "prevalencia_estimada_pct": 0.748,
+      "estimated_celiac_population": 710,
+      "estimated_diagnosed": 142,
+      "estimated_underdiagnosed": 568,
+      "ethnic_modifier": 0.984,
+      "ethnic_modifier_confidence": 0.948,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.918,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.026,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.056,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 11,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.644,
+        "acceso_diagnostico": 0.6007751937984497,
+        "educacion": 0.56,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6311111111111113
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "calera",
+      "comuna": "La Calera",
+      "region": "valparaiso",
+      "poblacion": 55000,
+      "lat": -32.7833,
+      "lng": -71.2,
+      "celiac_score": 67.2,
+      "confidence": 0.75,
+      "prevalencia_estimada_pct": 0.748,
+      "estimated_celiac_population": 411,
+      "estimated_diagnosed": 82,
+      "estimated_underdiagnosed": 329,
+      "ethnic_modifier": 0.984,
+      "ethnic_modifier_confidence": 0.951,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.922,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.03,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.048,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.397,
+        "acceso_diagnostico": 0.48546511627906946,
+        "educacion": 0.516,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6311111111111113
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "hijuelas",
+      "comuna": "Hijuelas",
+      "region": "valparaiso",
+      "poblacion": 18000,
+      "lat": -32.8,
+      "lng": -71.15,
+      "celiac_score": 54.7,
+      "confidence": 0.754,
+      "prevalencia_estimada_pct": 0.754,
+      "estimated_celiac_population": 136,
+      "estimated_diagnosed": 27,
+      "estimated_underdiagnosed": 109,
+      "ethnic_modifier": 0.992,
+      "ethnic_modifier_confidence": 0.973,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.958,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.014,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.028,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.123,
+        "acceso_diagnostico": 0.13953488372093004,
+        "educacion": 0.167,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6488888888888891
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "la-cruz",
+      "comuna": "La Cruz",
+      "region": "valparaiso",
+      "poblacion": 17000,
+      "lat": -32.8333,
+      "lng": -71.2333,
+      "celiac_score": 72.5,
+      "confidence": 0.751,
+      "prevalencia_estimada_pct": 0.75,
+      "estimated_celiac_population": 128,
+      "estimated_diagnosed": 26,
+      "estimated_underdiagnosed": 102,
+      "ethnic_modifier": 0.987,
+      "ethnic_modifier_confidence": 0.957,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.933,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.021,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.046,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 14,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.932,
+        "acceso_diagnostico": 0.5406976744186048,
+        "educacion": 0.155,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6377777777777779
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "nogales",
+      "comuna": "Nogales",
+      "region": "valparaiso",
+      "poblacion": 26000,
+      "lat": -32.7333,
+      "lng": -71.2,
+      "celiac_score": 65.2,
+      "confidence": 0.755,
+      "prevalencia_estimada_pct": 0.752,
+      "estimated_celiac_population": 196,
+      "estimated_diagnosed": 39,
+      "estimated_underdiagnosed": 157,
+      "ethnic_modifier": 0.99,
+      "ethnic_modifier_confidence": 0.978,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.961,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.026,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.013,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.603,
+        "acceso_diagnostico": 0.35174418604651175,
+        "educacion": 0.182,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6444444444444446
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "san-antonio",
+      "comuna": "San Antonio",
+      "region": "valparaiso",
+      "poblacion": 95000,
+      "lat": -33.5833,
+      "lng": -71.6167,
+      "celiac_score": 67.3,
+      "confidence": 0.75,
+      "prevalencia_estimada_pct": 0.746,
+      "estimated_celiac_population": 708,
+      "estimated_diagnosed": 142,
+      "estimated_underdiagnosed": 566,
+      "ethnic_modifier": 0.981,
+      "ethnic_modifier_confidence": 0.952,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.919,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.045,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.036,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.466,
+        "acceso_diagnostico": 0.4651162790697675,
+        "educacion": 0.467,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6244444444444446
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "algarrobo",
+      "comuna": "Algarrobo",
+      "region": "valparaiso",
+      "poblacion": 14000,
+      "lat": -33.3667,
+      "lng": -71.6667,
+      "celiac_score": 68,
+      "confidence": 0.752,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 105,
+      "estimated_diagnosed": 21,
+      "estimated_underdiagnosed": 84,
+      "ethnic_modifier": 0.985,
+      "ethnic_modifier_confidence": 0.959,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.932,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.031,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.037,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 2,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.534,
+        "acceso_diagnostico": 0.4835271317829456,
+        "educacion": 0.391,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6333333333333334
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "cartagena",
+      "comuna": "Cartagena",
+      "region": "valparaiso",
+      "poblacion": 25000,
+      "lat": -33.55,
+      "lng": -71.6,
+      "celiac_score": 57.2,
+      "confidence": 0.752,
+      "prevalencia_estimada_pct": 0.748,
+      "estimated_celiac_population": 187,
+      "estimated_diagnosed": 37,
+      "estimated_underdiagnosed": 150,
+      "ethnic_modifier": 0.984,
+      "ethnic_modifier_confidence": 0.961,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.932,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.041,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.027,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.356,
+        "acceso_diagnostico": 0.10368217054263557,
+        "educacion": 0.152,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6311111111111113
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "el-quisco",
+      "comuna": "El Quisco",
+      "region": "valparaiso",
+      "poblacion": 18000,
+      "lat": -33.4,
+      "lng": -71.7,
+      "celiac_score": 60,
+      "confidence": 0.749,
+      "prevalencia_estimada_pct": 0.744,
+      "estimated_celiac_population": 134,
+      "estimated_diagnosed": 27,
+      "estimated_underdiagnosed": 107,
+      "ethnic_modifier": 0.979,
+      "ethnic_modifier_confidence": 0.941,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.903,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.046,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.051,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.137,
+        "acceso_diagnostico": 0.37984496124031003,
+        "educacion": 0.366,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6200000000000001
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "el-tabo",
+      "comuna": "El Tabo",
+      "region": "valparaiso",
+      "poblacion": 14000,
+      "lat": -33.45,
+      "lng": -71.6667,
+      "celiac_score": 67.7,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 105,
+      "estimated_diagnosed": 21,
+      "estimated_underdiagnosed": 84,
+      "ethnic_modifier": 0.985,
+      "ethnic_modifier_confidence": 0.965,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.939,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.04,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.021,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.918,
+        "acceso_diagnostico": 0.310077519379845,
+        "educacion": 0.044,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6333333333333334
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "santo-domingo",
+      "comuna": "Santo Domingo",
+      "region": "valparaiso",
+      "poblacion": 11000,
+      "lat": -33.65,
+      "lng": -71.6167,
+      "celiac_score": 72.4,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 82,
+      "estimated_diagnosed": 16,
+      "estimated_underdiagnosed": 66,
+      "ethnic_modifier": 0.986,
+      "ethnic_modifier_confidence": 0.965,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.94,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.036,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.024,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 14,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.548,
+        "acceso_diagnostico": 0.6259689922480618,
+        "educacion": 0.59,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6355555555555557
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "san-felipe",
+      "comuna": "San Felipe",
+      "region": "valparaiso",
+      "poblacion": 80000,
+      "lat": -32.75,
+      "lng": -70.7333,
+      "celiac_score": 69.1,
+      "confidence": 0.748,
+      "prevalencia_estimada_pct": 0.746,
+      "estimated_celiac_population": 597,
+      "estimated_diagnosed": 119,
+      "estimated_underdiagnosed": 478,
+      "ethnic_modifier": 0.982,
+      "ethnic_modifier_confidence": 0.94,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.906,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.028,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.066,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 3,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.411,
+        "acceso_diagnostico": 0.5455426356589149,
+        "educacion": 0.61,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6266666666666668
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "catemu",
+      "comuna": "Catemu",
+      "region": "valparaiso",
+      "poblacion": 13000,
+      "lat": -32.7833,
+      "lng": -70.9667,
+      "celiac_score": 57,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.752,
+      "estimated_celiac_population": 98,
+      "estimated_diagnosed": 20,
+      "estimated_underdiagnosed": 78,
+      "ethnic_modifier": 0.99,
+      "ethnic_modifier_confidence": 0.968,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.95,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.017,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.033,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0,
+        "acceso_diagnostico": 0.2781007751937984,
+        "educacion": 0.376,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6444444444444446
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "llay-llay",
+      "comuna": "Llay Llay",
+      "region": "valparaiso",
+      "poblacion": 23000,
+      "lat": -32.85,
+      "lng": -70.9667,
+      "celiac_score": 58.2,
+      "confidence": 0.752,
+      "prevalencia_estimada_pct": 0.75,
+      "estimated_celiac_population": 173,
+      "estimated_diagnosed": 35,
+      "estimated_underdiagnosed": 138,
+      "ethnic_modifier": 0.987,
+      "ethnic_modifier_confidence": 0.963,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.939,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.028,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.033,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.11,
+        "acceso_diagnostico": 0.3207364341085268,
+        "educacion": 0.288,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6377777777777779
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "panquehue",
+      "comuna": "Panquehue",
+      "region": "valparaiso",
+      "poblacion": 7500,
+      "lat": -32.75,
+      "lng": -70.8833,
+      "celiac_score": 68.6,
+      "confidence": 0.756,
+      "prevalencia_estimada_pct": 0.755,
+      "estimated_celiac_population": 57,
+      "estimated_diagnosed": 11,
+      "estimated_underdiagnosed": 46,
+      "ethnic_modifier": 0.993,
+      "ethnic_modifier_confidence": 0.984,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.972,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.019,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.009,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.068,
+        "acceso_diagnostico": 0.563953488372093,
+        "educacion": 1,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6511111111111113
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "putaendo",
+      "comuna": "Putaendo",
+      "region": "valparaiso",
+      "poblacion": 15000,
+      "lat": -32.6333,
+      "lng": -70.7333,
+      "celiac_score": 49.4,
+      "confidence": 0.754,
+      "prevalencia_estimada_pct": 0.753,
+      "estimated_celiac_population": 113,
+      "estimated_diagnosed": 23,
+      "estimated_underdiagnosed": 90,
+      "ethnic_modifier": 0.991,
+      "ethnic_modifier_confidence": 0.976,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.96,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.022,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.018,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0,
+        "acceso_diagnostico": 0,
+        "educacion": 0.029,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6466666666666668
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "santa-maria",
+      "comuna": "Santa María",
+      "region": "valparaiso",
+      "poblacion": 13500,
+      "lat": -32.75,
+      "lng": -70.6833,
+      "celiac_score": 61.1,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.749,
+      "estimated_celiac_population": 101,
+      "estimated_diagnosed": 20,
+      "estimated_underdiagnosed": 81,
+      "ethnic_modifier": 0.986,
+      "ethnic_modifier_confidence": 0.969,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.945,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.038,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.017,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.151,
+        "acceso_diagnostico": 0.36821705426356593,
+        "educacion": 0.443,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6355555555555557
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "quilpue",
+      "comuna": "Quilpué",
+      "region": "valparaiso",
+      "poblacion": 175000,
+      "lat": -33.05,
+      "lng": -71.4333,
+      "celiac_score": 70.9,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.75,
+      "estimated_celiac_population": 1313,
+      "estimated_diagnosed": 263,
+      "estimated_underdiagnosed": 1050,
+      "ethnic_modifier": 0.987,
+      "ethnic_modifier_confidence": 0.965,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.942,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.028,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.03,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 10,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.616,
+        "acceso_diagnostico": 0.550387596899225,
+        "educacion": 0.447,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6377777777777779
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "limache",
+      "comuna": "Limache",
+      "region": "valparaiso",
+      "poblacion": 50000,
+      "lat": -32.9833,
+      "lng": -71.2667,
+      "celiac_score": 65.1,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.751,
+      "estimated_celiac_population": 375,
+      "estimated_diagnosed": 75,
+      "estimated_underdiagnosed": 300,
+      "ethnic_modifier": 0.988,
+      "ethnic_modifier_confidence": 0.968,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.947,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.024,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.029,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.425,
+        "acceso_diagnostico": 0.3759689922480622,
+        "educacion": 0.413,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6400000000000001
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "olmue",
+      "comuna": "Olmué",
+      "region": "valparaiso",
+      "poblacion": 15000,
+      "lat": -33,
+      "lng": -71.1833,
+      "celiac_score": 55.8,
+      "confidence": 0.755,
+      "prevalencia_estimada_pct": 0.754,
+      "estimated_celiac_population": 113,
+      "estimated_diagnosed": 23,
+      "estimated_underdiagnosed": 90,
+      "ethnic_modifier": 0.992,
+      "ethnic_modifier_confidence": 0.977,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.963,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.013,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.024,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "low",
+      "market_gap_gluten_free": 0,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.342,
+        "acceso_diagnostico": 0.042635658914728466,
+        "educacion": 0.093,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6488888888888891
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    },
+    {
+      "comunaId": "villa-alemana",
+      "comuna": "Villa Alemana",
+      "region": "valparaiso",
+      "poblacion": 145000,
+      "lat": -33.05,
+      "lng": -71.3833,
+      "celiac_score": 77.2,
+      "confidence": 0.753,
+      "prevalencia_estimada_pct": 0.75,
+      "estimated_celiac_population": 1088,
+      "estimated_diagnosed": 218,
+      "estimated_underdiagnosed": 870,
+      "ethnic_modifier": 0.987,
+      "ethnic_modifier_confidence": 0.969,
+      "ethnic_breakdown": {
+        "mestizo": {
+          "fraccion": 0.946,
+          "weight": 1,
+          "ev": "alta"
+        },
+        "amerindio": {
+          "fraccion": 0.033,
+          "weight": 0.7,
+          "ev": "baja"
+        },
+        "migrante_latam": {
+          "fraccion": 0.021,
+          "weight": 0.85,
+          "ev": "especulativa"
+        }
+      },
+      "diagnostic_access": "medium",
+      "market_gap_gluten_free": 18,
+      "subscores": {
+        "prevalencia_base": 1,
+        "ingreso": 0.767,
+        "acceso_diagnostico": 0.6928294573643412,
+        "educacion": 0.639,
+        "consumo_gf": 0.614,
+        "composicion_etnica": 0.6377777777777779
+      },
+      "advertencias": [],
+      "fuentes": [
+        "araya_2015",
+        "cataldo_1995_amerindios",
+        "almeida_2013_brasil",
+        "remes_troche_2015_mexico"
+      ]
+    }
+  ]
+}

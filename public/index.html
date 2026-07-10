@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OSINT Chile - v4.0 multi-region</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>OSINT Chile <span class="badge">v4.0 multi-region</span></h1>
+    <p class="sub">Motor de inteligencia economica territorial. Solo datos reales.</p>
+    <div id="region-bar" class="region-bar">
+      <label for="region-select">Region activa:</label>
+      <select id="region-select"><option value="">Cargando...</option></select>
+      <span id="region-info" class="region-info"></span>
+    </div>
+  </header>
+
+  <main>
+    <section id="status-section">
+      <h2>Estado de fuentes</h2>
+      <p class="hint">
+        Verde = datos reales. Gris = nunca ejecutado. Rojo = ultima corrida fallo.
+        Ejecuta <code>npm run scrape:&lt;fuente&gt;</code> o <code>npm run scrape:all</code> en terminal.
+      </p>
+      <div id="status-grid">Cargando...</div>
+    </section>
+
+    <section id="mapa-section">
+      <h2>Mapa: poblacion celiaca estimada + locales scrapeados</h2>
+      <p class="source-line" id="mapa-source">Circulos = celiacos estimados por comuna (Araya 2015 0.76%). Pins = locales de panaderia/pasteleria desde Google Maps si los scrapeaste.</p>
+      <div id="mapa"></div>
+      <p id="mapa-legend" class="source-line"></p>
+    </section>
+
+    <section id="advertencias-section" class="warn-box" hidden>
+      <h2>Advertencias del reporte</h2>
+      <ul id="advertencias-list"></ul>
+    </section>
+
+    <section id="poblacion-section">
+      <h2>Poblacion</h2>
+      <p class="source-line" id="poblacion-source"></p>
+      <div id="poblacion-stats" class="stats-grid">Cargando...</div>
+    </section>
+
+    <section id="precios-section">
+      <h2>Precios scrapeados (real-time)</h2>
+      <p class="source-line">Fuentes: Jumbo, Lider, MercadoLibre, Rappi. Categorias detectadas por keyword en el nombre del producto.</p>
+      <div id="precios-table"></div>
+    </section>
+
+    <section id="marcas-section">
+      <h2>Participacion de marcas (por conteo de SKUs scrapeados)</h2>
+      <p class="source-line">No es market share de ventas. Es <em>cuantos productos de cada marca aparecieron</em> en los catalogos online.</p>
+      <div id="marcas-list"></div>
+    </section>
+
+    <section id="trends-section">
+      <h2>Google Trends (<span class="region-tag">cargando...</span>, ultimos 12 meses)</h2>
+      <p class="source-line">Interes relativo (0-100). Fuente: google-trends-api (npm), datos reales de Google.</p>
+      <div id="trends-list"></div>
+    </section>
+
+    <section id="comunas-section">
+      <h2>Demanda estimada por comuna</h2>
+      <p class="source-line">Demanda retenida = celiacos que se quedan en su comuna. Atraida = celiacos de otras comunas que vienen.</p>
+      <div id="comunas-table"></div>
+    </section>
+
+    <section id="ine-section">
+      <h2>Inteligencia socioeconomica territorial (INE/BCN/SII)</h2>
+      <p class="source-line">
+        Score 0-100 de poder adquisitivo por comuna. Proxies oficiales:
+        pobreza CASEN, SIMCE 4° basico, hacinamiento, densidad de empresas SII.
+        Refresca con <code>POST /api/ine/scrape</code> o <code>npm run scrape:ine</code>.
+      </p>
+      <div id="ine-summary" class="stats-grid"></div>
+      <div id="ine-table"></div>
+    </section>
+
+    <section id="celiac-section">
+      <h2>Inteligencia celiaca contextual</h2>
+      <p class="source-line">
+        celiac_score combina prevalencia base (Araya 2015), ingreso, acceso a
+        diagnostico, educacion, consumo gluten-free y composicion etnica.
+        Cada peso cita literatura — <a href="/api/celiac/literature">ver fuentes</a>.
+        Confianza propagada por nivel de evidencia.
+      </p>
+      <div id="celiac-validation"></div>
+      <div id="celiac-summary" class="stats-grid"></div>
+      <div id="celiac-table"></div>
+    </section>
+
+    <section id="auto-section">
+      <h2>Pipeline automatica</h2>
+      <p class="source-line">
+        Cambia REGION en .env o usa el selector arriba. El watcher detecta el
+        cambio, invalida caches, recorre INE+census+celiac y exporta perfiles.
+      </p>
+      <div id="auto-status" class="stats-grid"></div>
+      <div id="auto-events" class="event-log"></div>
+    </section>
+  </main>
+
+  <footer>
+    Codigo: <a href="https://github.com/" target="_blank">repo local</a> -
+    Cero datos inventados.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

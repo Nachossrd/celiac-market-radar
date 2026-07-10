@@ -1,0 +1,812 @@
+{
+  "source": "reviews",
+  "scrapedAt": "2026-05-26T02:45:07.347Z",
+  "itemCount": 80,
+  "success": true,
+  "errors": [],
+  "durationMs": 96129,
+  "captchaDetected": false,
+  "placesAttempted": 5,
+  "data": [
+    {
+      "text": "Un local con mucha variedad de productos donde visualmente todo se ve atractivo. De 4 productos, solo nos gustó 1.\n🔹Empanada de pino y pollo-espinaca: $4.800. 1/5\nSi vas a cobrar $4.800 por una empanada, tiene que ser espectacular. La realidad es que ni siquiera estaban buenas. La de pino ácida y la de pollo - queso crema simplemente no es una buena combinación. La masa tampoco me gustó.\n🔹Galletas Fiorentina: $12.000. 3/5.\nPara el precio y los ingredientes, no destacan.\n🔹Alfajor sin azucar: 5/5\nRealmente espectacular. Tan rico que entramos en la duda de si es realmente sin azucar 😅\nNo alcanzamos a sacarle una foto de lo bueno que estaba.",
+      "rating": 2,
+      "date": "Hace 8 meses",
+      "reviewerName": "Ricardo Ramírez H.",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Un local con mucha variedad de productos donde visualmente todo se ve atractivo. De 4 productos, solo nos gustó 1.\n🔹Empanada de pino y pollo-espinaca: $4.800. 1/5\nSi vas a cobrar $4.800 por una empanada, tiene que ser espectacular. La realidad es que ni siquiera estaban buenas. La de pino ácida y la de pollo - queso crema simplemente no es una buena combinación. La masa tampoco me gustó.\n🔹Galletas Fiorentina: $12.000. 3/5.\nPara el precio y los ingredientes, no destacan.\n🔹Alfajor sin azucar: 5/5\nRealmente espectacular. Tan rico que entramos en la duda de si es realmente sin azucar 😅\nNo alcanzamos a sacarle una foto de lo bueno que estaba.",
+      "rating": 2,
+      "date": "Hace 8 meses",
+      "reviewerName": "Ricardo Ramírez H.",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Ayer fui a comprar y la atención no fue buena. La persona que me atendió, un hombre mayor quizás el dueño, mostró muy mal carácter y ninguna simpatía. Creo que si se dedican a la venta, deberían cuidar mucho más el trato con los clientes. Los productos son buenos, pero la mala atención opaca la experiencia de compra",
+      "rating": 1,
+      "date": "Hace 8 meses",
+      "reviewerName": "Fabiola “Nuñez”",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Ayer fui a comprar y la atención no fue buena. La persona que me atendió, un hombre mayor quizás el dueño, mostró muy mal carácter y ninguna simpatía. Creo que si se dedican a la venta, deberían cuidar mucho más el trato con los clientes. Los productos son buenos, pero la mala atención opaca la experiencia de compra",
+      "rating": 1,
+      "date": "Hace 8 meses",
+      "reviewerName": "Fabiola “Nuñez”",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Como celíaca agradezco que exista un lugar 100% sin gluten, pero no lo recomiendo. Antiguamente este era uno de los pocos lugares disponibles, pero ahora hay tantos más y mejores.\nLos precios son demasiado elevados para algo que, además, es para llevar.\nNo iba hace tiempo (desde cuándo tenían para comer ahí) y hoy compré un queque de limón para una junta y quedé como la mona! Lo único rico era el glaseado, ya que el queque estaba seco-seco.\nLa verdad es que no volveré.",
+      "rating": 3,
+      "date": "Hace 5 meses",
+      "reviewerName": "Nicole Flores",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Como celíaca agradezco que exista un lugar 100% sin gluten, pero no lo recomiendo. Antiguamente este era uno de los pocos lugares disponibles, pero ahora hay tantos más y mejores.\nLos precios son demasiado elevados para algo que, además, es para llevar.\nNo iba hace tiempo (desde cuándo tenían para comer ahí) y hoy compré un queque de limón para una junta y quedé como la mona! Lo único rico era el glaseado, ya que el queque estaba seco-seco.\nLa verdad es que no volveré.",
+      "rating": 3,
+      "date": "Hace 5 meses",
+      "reviewerName": "Nicole Flores",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "He comprado regularmente productos ahí. La ventaja es saber que todo es sin gluten, sin embargo, la calidad es regular, y con altos precios.\nCompré pasteles que no tenían ningún sabor\nUn queque de limon seco\nUnas dobladitas aceptables pero sin gusto\nY el pan de molde es bastante bueno y las pizzas\nPero la pastelería, no esta a la altura\nOjalá mejoren la calidad de sus productos sobre todo lo dulce , que dista mucho de otros productos que he comprado\nLa ventaja, es la variedad\nEn la foto, se ve lo seco del bizcocho, que no es un bizcocho es parecido a un queque\nEspero la opinión sirva para mejorar la calidad",
+      "rating": 2,
+      "date": "Hace un año",
+      "reviewerName": "Mariela Goich",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "He comprado regularmente productos ahí. La ventaja es saber que todo es sin gluten, sin embargo, la calidad es regular, y con altos precios.\nCompré pasteles que no tenían ningún sabor\nUn queque de limon seco\nUnas dobladitas aceptables pero sin gusto\nY el pan de molde es bastante bueno y las pizzas\nPero la pastelería, no esta a la altura\nOjalá mejoren la calidad de sus productos sobre todo lo dulce , que dista mucho de otros productos que he comprado\nLa ventaja, es la variedad\nEn la foto, se ve lo seco del bizcocho, que no es un bizcocho es parecido a un queque\nEspero la opinión sirva para mejorar la calidad",
+      "rating": 2,
+      "date": "Hace un año",
+      "reviewerName": "Mariela Goich",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Amorosas las niñas que atienden, PERO el pancito si tiene azúcar, 30 gramos por cada unidad, y las cositas sin azúcar son altas en carbohidratos. Saludos",
+      "rating": 3,
+      "date": "Hace 7 meses",
+      "reviewerName": "Alejandra Acuña Q.",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Amorosas las niñas que atienden, PERO el pancito si tiene azúcar, 30 gramos por cada unidad, y las cositas sin azúcar son altas en carbohidratos. Saludos",
+      "rating": 3,
+      "date": "Hace 7 meses",
+      "reviewerName": "Alejandra Acuña Q.",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Mala experiencia, los precios desorbitantes. Un pan de pascua de unos 100gr 17mil pesos. Esta bien que digamos por la especialidad sea mas caro que un pan común. Pero se salen del límite, les aconsejo San Camilo la panadería también tiene sin gluten y el precio es moderado.",
+      "rating": 2,
+      "date": "Hace 5 meses",
+      "reviewerName": "Carlos Espinoza",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Mala experiencia, los precios desorbitantes. Un pan de pascua de unos 100gr 17mil pesos. Esta bien que digamos por la especialidad sea mas caro que un pan común. Pero se salen del límite, les aconsejo San Camilo la panadería también tiene sin gluten y el precio es moderado.",
+      "rating": 2,
+      "date": "Hace 5 meses",
+      "reviewerName": "Carlos Espinoza",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Un lugar especializado en productos para celíacos que realmente destaca. Preparaciones frescas, cero contaminación cruzada y una carta deliciosa.\nSe nota la dedicación y la calidad en cada detalle. Si buscas opciones seguras, ricas y variadas, este lugar es un imperdible 💗…",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "Belen Gutiérrez",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Un lugar especializado en productos para celíacos que realmente destaca. Preparaciones frescas, cero contaminación cruzada y una carta deliciosa.\nSe nota la dedicación y la calidad en cada detalle. Si buscas opciones seguras, ricas y variadas, este lugar es un imperdible 💗…",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "Belen Gutiérrez",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Gran lugar en Ñuñoa para comer pan, pizza y postres sin gluten.",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Ana Pao Juárez",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Gran lugar en Ñuñoa para comer pan, pizza y postres sin gluten.",
+      "rating": 5,
+      "date": "Hace 3 meses",
+      "reviewerName": "Ana Pao Juárez",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "A mi madre casi todo le cae mal, incluso otros productos sin gluten ni lactosa de otras marcas y panaderías, pero las cosas de Panart nunca, y le permite darse gustitos aptos para ella. ..yo por otro lado como de todo, y si bien hay productos de acá q no me gustan, si no pudiera consumir gluten, atacaría éstas opciones feliz. Mis favoritos: pie de limón normal y con frambuesa y cheese cake de frutos rojos. (Igual varían un poco los sabores de una compra a otra) Y las chicas q atienden son muy amables.",
+      "rating": 5,
+      "date": "Editado Hace 6 meses",
+      "reviewerName": "constanza medina",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "A mi madre casi todo le cae mal, incluso otros productos sin gluten ni lactosa de otras marcas y panaderías, pero las cosas de Panart nunca, y le permite darse gustitos aptos para ella. ..yo por otro lado como de todo, y si bien hay productos de acá q no me gustan, si no pudiera consumir gluten, atacaría éstas opciones feliz. Mis favoritos: pie de limón normal y con frambuesa y cheese cake de frutos rojos. (Igual varían un poco los sabores de una compra a otra) Y las chicas q atienden son muy amables.",
+      "rating": 5,
+      "date": "Editado Hace 6 meses",
+      "reviewerName": "constanza medina",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Si bien los precios no son bajos, los productos son totalmente libres de gluten y todo lo que he probado ha sido muy rico. El pan con nuez es exquisito.",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Daniela Valdés",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Si bien los precios no son bajos, los productos son totalmente libres de gluten y todo lo que he probado ha sido muy rico. El pan con nuez es exquisito.",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Daniela Valdés",
+      "place": "Panart®",
+      "placeUrl": "https://www.google.com/maps/place/Panart%C2%AE/data=!4m7!3m6!1s0x9662cfbca544d84d:0xf2c81f947e41b262!8m2!3d-33.4480433!4d-70.5925906!16s%2Fg%2F11c5xwrb8t!19sChIJTdhEpbzPYpYRYrJBfpQfyPI?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:00.877Z"
+    },
+    {
+      "text": "Todo lo que he probado es delicioso, todo es vegano y siempre tienen varias opciones sin gluten. Muy fan.",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Ivy Mora",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Todo lo que he probado es delicioso, todo es vegano y siempre tienen varias opciones sin gluten. Muy fan.",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Ivy Mora",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Probé este alfajor y es simplemente una delicia. La galleta tiene una textura perfecta: crujiente pero suave al morder, con un sabor equilibrado que resalta la calidad de sus ingredientes. El relleno es cremoso y se funde en la boca, mientras que el baño de chocolate añade un toque de dulzura elegante sin llegar a ser empalagoso. Cada bocado se siente artesanal, hecho con cuidado y atención al detalle. Una combinación exquisita de sabor, aroma y presentación que deja ganas de repetir.🍫🤎 Lo recomiendo al 100%",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Andy Esquivel Ismail",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Probé este alfajor y es simplemente una delicia. La galleta tiene una textura perfecta: crujiente pero suave al morder, con un sabor equilibrado que resalta la calidad de sus ingredientes. El relleno es cremoso y se funde en la boca, mientras que el baño de chocolate añade un toque de dulzura elegante sin llegar a ser empalagoso. Cada bocado se siente artesanal, hecho con cuidado y atención al detalle. Una combinación exquisita de sabor, aroma y presentación que deja ganas de repetir.🍫🤎 Lo recomiendo al 100%",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Andy Esquivel Ismail",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Mi pastelería favorita 😍. Tiene opciones sin gluten que son DELICIOSAS. Productos al alta calidad y las mujeres que atienden son muy atentas. Cada vez que voy a Santa Isabel es sagrado pasar por allá.\nTotalmente recomendable",
+      "rating": 5,
+      "date": "Hace 2 años",
+      "reviewerName": "Susan Vilaza",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Mi pastelería favorita 😍. Tiene opciones sin gluten que son DELICIOSAS. Productos al alta calidad y las mujeres que atienden son muy atentas. Cada vez que voy a Santa Isabel es sagrado pasar por allá.\nTotalmente recomendable",
+      "rating": 5,
+      "date": "Hace 2 años",
+      "reviewerName": "Susan Vilaza",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Es tan rico todo! amamos los borrachitos jejeje pero todo muy rico. Vegano 100% y con opciones sin gluten. Los panes son muy buenos y de gran calidad. La atención es super buena, puras personitas tiernas atendiendo.",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Alida Suarez",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Es tan rico todo! amamos los borrachitos jejeje pero todo muy rico. Vegano 100% y con opciones sin gluten. Los panes son muy buenos y de gran calidad. La atención es super buena, puras personitas tiernas atendiendo.",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Alida Suarez",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Compré 3 pasteles porque me la habían recomendado y los partí todos. En 2 de los 3 pasteles habían pelos! Es inaceptable ya que te salga en uno, imagínate en 2. Higiene horrible.  Más encima los pelos  parecían del tipo \" púbico\"  (parecía pero supongo que eran de la cabeza y no de ahí abajo, espero...pero es para describir la asquerosidad). Gracias por hacerme perder tiempo, plata y el hambre.",
+      "rating": 1,
+      "date": "Hace 4 meses",
+      "reviewerName": "Fifi",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Compré 3 pasteles porque me la habían recomendado y los partí todos. En 2 de los 3 pasteles habían pelos! Es inaceptable ya que te salga en uno, imagínate en 2. Higiene horrible.  Más encima los pelos  parecían del tipo \" púbico\"  (parecía pero supongo que eran de la cabeza y no de ahí abajo, espero...pero es para describir la asquerosidad). Gracias por hacerme perder tiempo, plata y el hambre.",
+      "rating": 1,
+      "date": "Hace 4 meses",
+      "reviewerName": "Fifi",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Dependiendo del día la atención es simpática pero tampoco es una atención que te queda grabada como algo increíble, ya que la dureza de la expresión te demuestra lo contrario.\nHe ido a comprar para probar las barras que no tienen mucho sabor y que no tiene muy bueno chocolate.\nLas galletas sin gluten y de avellanas son buenas pero se sienten los gránulos del azúcar que lo hace un tanto desagradable a la hora de masticarla y sentir que comes arena.\nLo otro que me parece insólito es que no tengan los precios a la vista del cliente.\nSegún la Ley del Consumidor (Ley N° 19.496) que dice:\nLos precios deben estar a la vista del público antes de comprar o consumir.\n•\tDeben indicarse en pesos chilenos y con el valor final, es decir, incluyendo IVA u otros cargos.\n•\tNo se puede exigir que el cliente pregunte por el precio: tiene que estar expuesto claramente.\nPor lo tanto es obligatorio tener los precios.\nCualquiera persona podría denunciar al Sernac esta mala practica.\nNo sé con que afán hacen eso, pero he visto en muchos lugares que hacen eso, por lo tanto pueden haber abusos en los precios y a su vez, al no ver precios marcados y al tener una persona que los dice, los precios pueden ser fácilmente olvidados por el consumidor ya que las cosas escritas quedan más grabadas en la mente que al oírlas.\nPor eso mismo que les dejo 2 estrellas.",
+      "rating": 2,
+      "date": "Hace 7 meses",
+      "reviewerName": "Javiera Ramirez",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Dependiendo del día la atención es simpática pero tampoco es una atención que te queda grabada como algo increíble, ya que la dureza de la expresión te demuestra lo contrario.\nHe ido a comprar para probar las barras que no tienen mucho sabor y que no tiene muy bueno chocolate.\nLas galletas sin gluten y de avellanas son buenas pero se sienten los gránulos del azúcar que lo hace un tanto desagradable a la hora de masticarla y sentir que comes arena.\nLo otro que me parece insólito es que no tengan los precios a la vista del cliente.\nSegún la Ley del Consumidor (Ley N° 19.496) que dice:\nLos precios deben estar a la vista del público antes de comprar o consumir.\n•\tDeben indicarse en pesos chilenos y con el valor final, es decir, incluyendo IVA u otros cargos.\n•\tNo se puede exigir que el cliente pregunte por el precio: tiene que estar expuesto claramente.\nPor lo tanto es obligatorio tener los precios.\nCualquiera persona podría denunciar al Sernac esta mala practica.\nNo sé con que afán hacen eso, pero he visto en muchos lugares que hacen eso, por lo tanto pueden haber abusos en los precios y a su vez, al no ver precios marcados y al tener una persona que los dice, los precios pueden ser fácilmente olvidados por el consumidor ya que las cosas escritas quedan más grabadas en la mente que al oírlas.\nPor eso mismo que les dejo 2 estrellas.",
+      "rating": 2,
+      "date": "Hace 7 meses",
+      "reviewerName": "Javiera Ramirez",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Buenísima atención y comida. Mi único problema proviene de que algunas veces los pasteles cambian dependiendo de cuando los compres, especialmente los galletones.\nSe comprende que no todo sea igual pero las diferencias son importantes cuando ocurre.",
+      "rating": 4,
+      "date": "Hace 3 meses",
+      "reviewerName": "noelia",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Buenísima atención y comida. Mi único problema proviene de que algunas veces los pasteles cambian dependiendo de cuando los compres, especialmente los galletones.\nSe comprende que no todo sea igual pero las diferencias son importantes cuando ocurre.",
+      "rating": 4,
+      "date": "Hace 3 meses",
+      "reviewerName": "noelia",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "MUCHA DEDICACIÓN EN LAS PREPARACIONES, SE NOTA EL CARIÑO QUE LE PONEN A LA COCINA, LOS PRECIOS NO SON LOS MEJORES PERO RECOMIENDO PROBAR EL CROISSANT Y EL PIE DE LIMON, 🌱✨\nGO VEGAN 🫜✨…",
+      "rating": 5,
+      "date": "Editado Hace 8 meses",
+      "reviewerName": "Manolito Pikete",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "MUCHA DEDICACIÓN EN LAS PREPARACIONES, SE NOTA EL CARIÑO QUE LE PONEN A LA COCINA, LOS PRECIOS NO SON LOS MEJORES PERO RECOMIENDO PROBAR EL CROISSANT Y EL PIE DE LIMON, 🌱✨\nGO VEGAN 🫜✨…",
+      "rating": 5,
+      "date": "Editado Hace 8 meses",
+      "reviewerName": "Manolito Pikete",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Si quiere sorprender y lucirse con un una torta y/o pasteles, este es el lugar. Hermosas piezas, delicadas y llenas de arte. Recomendado, si necesita guía son muy amables en ayudar, puedes encontrar pastelitos vegano y sin azúcar.",
+      "rating": 5,
+      "date": "Hace 2 años",
+      "reviewerName": "Liset Aguayo Videla",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Si quiere sorprender y lucirse con un una torta y/o pasteles, este es el lugar. Hermosas piezas, delicadas y llenas de arte. Recomendado, si necesita guía son muy amables en ayudar, puedes encontrar pastelitos vegano y sin azúcar.",
+      "rating": 5,
+      "date": "Hace 2 años",
+      "reviewerName": "Liset Aguayo Videla",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Amé esta pasteleria y panadería vegana. Todo lo que se vende se ve y sabe delicioso. Mis favoritas el pan de masa madre con nuez y dátiles, las galletas veganas, empanadas, focaccias y su exquisita pasteleria. Lo recomiendo completamente. Los precios están dentro del mercado y sus productos son de alta calidad.",
+      "rating": 5,
+      "date": "Hace un año",
+      "reviewerName": "Aly Castillo",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "Amé esta pasteleria y panadería vegana. Todo lo que se vende se ve y sabe delicioso. Mis favoritas el pan de masa madre con nuez y dátiles, las galletas veganas, empanadas, focaccias y su exquisita pasteleria. Lo recomiendo completamente. Los precios están dentro del mercado y sus productos son de alta calidad.",
+      "rating": 5,
+      "date": "Hace un año",
+      "reviewerName": "Aly Castillo",
+      "place": "Pastelería y Panadería Sinfonía",
+      "placeUrl": "https://www.google.com/maps/place/Pasteler%C3%ADa+y+Panader%C3%ADa+Sinfon%C3%ADa/data=!4m7!3m6!1s0x9662c5796e3abc3d:0x3897c2a703c60dce!8m2!3d-33.4472051!4d-70.6299229!16s%2Fg%2F11byt_gfgc!19sChIJPbw6bnnFYpYRzg3GA6fClzg?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:20.372Z"
+    },
+    {
+      "text": "La verdad fue una decepción o iba con expectativas demasiada altas. De todo lo que consumimos la torta brownie fue lo único bueno de sabor aunque la porción es demasiado pequeña en relación calidad-precio, la trufa no tenía sabor a trufa y nos ofrecieron Frappuccino que era café con agua fría y la mitad del vaso era crema Chantilly en un vaso pequeño 200cc  (por lo tanto más caro que Starbucks y el sabor dejó mucho que desear). En comparación a otras pastelerías que ofrecen los mismo productos (sin gluten, sin lácteos, sin azúcar) hay mejores opciones. Ojalá puedan mejorar por que es una idea muy buena!",
+      "rating": 2,
+      "date": "Hace 3 meses",
+      "reviewerName": "Javiera Toro",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "La verdad fue una decepción o iba con expectativas demasiada altas. De todo lo que consumimos la torta brownie fue lo único bueno de sabor aunque la porción es demasiado pequeña en relación calidad-precio, la trufa no tenía sabor a trufa y nos ofrecieron Frappuccino que era café con agua fría y la mitad del vaso era crema Chantilly en un vaso pequeño 200cc  (por lo tanto más caro que Starbucks y el sabor dejó mucho que desear). En comparación a otras pastelerías que ofrecen los mismo productos (sin gluten, sin lácteos, sin azúcar) hay mejores opciones. Ojalá puedan mejorar por que es una idea muy buena!",
+      "rating": 2,
+      "date": "Hace 3 meses",
+      "reviewerName": "Javiera Toro",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Siempre que voy la atención es súper buena, me encanta que tengan una carta con los macros y calorías de la pastelería que venden.\nLas trufas son exquisitas, no se siente como ese sabor a endulzante, las amé.\nEntiendo que los precios no son lo más económico, la materia prima para este tipo de alimentos es bastante cara, así que para mi lo vale completamente y es una excelente opción para quitar ese antojo dulce con algo más saludable, que ma verdad cuesta mucho encontrar.\nTotalmente recomendado!",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Estefanía Tittarelli",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Siempre que voy la atención es súper buena, me encanta que tengan una carta con los macros y calorías de la pastelería que venden.\nLas trufas son exquisitas, no se siente como ese sabor a endulzante, las amé.\nEntiendo que los precios no son lo más económico, la materia prima para este tipo de alimentos es bastante cara, así que para mi lo vale completamente y es una excelente opción para quitar ese antojo dulce con algo más saludable, que ma verdad cuesta mucho encontrar.\nTotalmente recomendado!",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Estefanía Tittarelli",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Todo es riquísimo, mi novedad de hoy cheesecake de pistacho delicioso. Y si quieren un antojito chocolatoso \"la negrita\" es la mejor (no hay foto porque ya me la comí)",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Gloria Melian",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Todo es riquísimo, mi novedad de hoy cheesecake de pistacho delicioso. Y si quieren un antojito chocolatoso \"la negrita\" es la mejor (no hay foto porque ya me la comí)",
+      "rating": 5,
+      "date": "Hace 2 meses",
+      "reviewerName": "Gloria Melian",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "siempre quise ir a este lugar para probar las opciones que ofrecen, todo siempre se ve tan delicioso, no había podido ir antes porque los horarios de mi trabajo no me permitían llegar al local de ellos, ayer 13 de febrero vi que estaban ofreciendo tortas de corazón en historias, pregunté varias veces cual era el valor y me evadían y evadían, hasta que les dije, tanto les cuesta dar el precio? , necesitaba saber porque no sabia si me alcanzaría y para pegarme el pique (vivo super lejos de ahí), al ver que dsps me respondieron en tono de risa (?) y darme un precio que me pareció igual elevado, les hablé por whatsapp y me dieron un precio completamente distinto, casi la mitad de lo que me dijeron por ig, que fome.\n\nAun así con ese mal gusto, con mi novio decidimos olvidar ese amargo momento e ir presencial este dia (14 feb) para comer algo rico para disfrutar este día especial, mala decisión.\n\nLlegamos y la chica que atendía (si no me equivoco es la dueña) estaba almorzando con mas personas afuera y se paro a atendernos (super bien, se agradece), pero cuando ibamos a pagar le preguntamos si tenia mas sillas ( porque habían mesas pero no sillas) y dijo si, voy a echar altiro a los que están afuera,salió y  de forma demasiado despectiva empieza a aplaudir y a decirle a las personas con las que almorzaba que ya se fueran, que fuera fuera y aplaudía y hacia gestos con los brazos echándolos que de verdad  fue demasiado incomodo para mi como cliente, siento que ni aunque sean sus amigos/familia/trabajadores debería tener ese trato, almenos, frente a sus clientes.\n\nIgual nos quedamos a comer ahí, y de igual forma le dijimos que estaba rico el postre que compramos y nos dice -bacan. Nosé, muy fome, poco cariño, me senti incomoda.\n\nen cuanto a los postres:\n\n-trufa y cocada muy buenas\n-red velvet: demasiado humeda y no tan dulce\n-manjarate: le falta ser mas solido",
+      "rating": 3,
+      "date": "Hace 3 meses",
+      "reviewerName": "Javiera Paz",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "siempre quise ir a este lugar para probar las opciones que ofrecen, todo siempre se ve tan delicioso, no había podido ir antes porque los horarios de mi trabajo no me permitían llegar al local de ellos, ayer 13 de febrero vi que estaban ofreciendo tortas de corazón en historias, pregunté varias veces cual era el valor y me evadían y evadían, hasta que les dije, tanto les cuesta dar el precio? , necesitaba saber porque no sabia si me alcanzaría y para pegarme el pique (vivo super lejos de ahí), al ver que dsps me respondieron en tono de risa (?) y darme un precio que me pareció igual elevado, les hablé por whatsapp y me dieron un precio completamente distinto, casi la mitad de lo que me dijeron por ig, que fome.\n\nAun así con ese mal gusto, con mi novio decidimos olvidar ese amargo momento e ir presencial este dia (14 feb) para comer algo rico para disfrutar este día especial, mala decisión.\n\nLlegamos y la chica que atendía (si no me equivoco es la dueña) estaba almorzando con mas personas afuera y se paro a atendernos (super bien, se agradece), pero cuando ibamos a pagar le preguntamos si tenia mas sillas ( porque habían mesas pero no sillas) y dijo si, voy a echar altiro a los que están afuera,salió y  de forma demasiado despectiva empieza a aplaudir y a decirle a las personas con las que almorzaba que ya se fueran, que fuera fuera y aplaudía y hacia gestos con los brazos echándolos que de verdad  fue demasiado incomodo para mi como cliente, siento que ni aunque sean sus amigos/familia/trabajadores debería tener ese trato, almenos, frente a sus clientes.\n\nIgual nos quedamos a comer ahí, y de igual forma le dijimos que estaba rico el postre que compramos y nos dice -bacan. Nosé, muy fome, poco cariño, me senti incomoda.\n\nen cuanto a los postres:\n\n-trufa y cocada muy buenas\n-red velvet: demasiado humeda y no tan dulce\n-manjarate: le falta ser mas solido",
+      "rating": 3,
+      "date": "Hace 3 meses",
+      "reviewerName": "Javiera Paz",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Segunda torta que pido, y quede igualmente sorprendida de lo deliciosa 🥰 no se extraña ningún ingrediente.\nGracias Janet por ponerle cariño a tu cocina 🧑‍🍳…",
+      "rating": 5,
+      "date": "Editado Hace 4 meses",
+      "reviewerName": "Roberta Bauza",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Segunda torta que pido, y quede igualmente sorprendida de lo deliciosa 🥰 no se extraña ningún ingrediente.\nGracias Janet por ponerle cariño a tu cocina 🧑‍🍳…",
+      "rating": 5,
+      "date": "Editado Hace 4 meses",
+      "reviewerName": "Roberta Bauza",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Lo mejor que he probado sin gluten y keto\nTortas y postres deliciosos, señora hecho con amor. Excelente atención online y presencial. Lo mega recomiendo !",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Tamara Arancibia",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Lo mejor que he probado sin gluten y keto\nTortas y postres deliciosos, señora hecho con amor. Excelente atención online y presencial. Lo mega recomiendo !",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Tamara Arancibia",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Uno de los postres que pobré estaba muy rico, aunque el sabor a endulzante y a huevo no me permitieron disfrutarlo del todo. Las otras cosas que probé tenían demasiado sabor a huevo. Puede ser cosa de gustos simplemente, porque lo demás estaba rico. La presentación no era tan llamativa, pero las texturas son bastantes buenas y quitándole un poco de endulzante sería maravilloso.\nLa atención podría ser más cordial.",
+      "rating": 3,
+      "date": "Hace 4 meses",
+      "reviewerName": "Valentina Guiñez",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Uno de los postres que pobré estaba muy rico, aunque el sabor a endulzante y a huevo no me permitieron disfrutarlo del todo. Las otras cosas que probé tenían demasiado sabor a huevo. Puede ser cosa de gustos simplemente, porque lo demás estaba rico. La presentación no era tan llamativa, pero las texturas son bastantes buenas y quitándole un poco de endulzante sería maravilloso.\nLa atención podría ser más cordial.",
+      "rating": 3,
+      "date": "Hace 4 meses",
+      "reviewerName": "Valentina Guiñez",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Hace mucho tiempo queríamos ir con mi amiga y hoy al final pudimos coincidir y nos encantó. Probamos una torta caluga y el quiché de pollo, todo muy rico. Lo recomendamos al 100%",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "Catalina Perez",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Hace mucho tiempo queríamos ir con mi amiga y hoy al final pudimos coincidir y nos encantó. Probamos una torta caluga y el quiché de pollo, todo muy rico. Lo recomendamos al 100%",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "Catalina Perez",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Hace tiempo que quería ir, fácil de llegar, buena atención buenos precios y lo mejor de todo rico rico y sanito..",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "fiorella canepa",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Hace tiempo que quería ir, fácil de llegar, buena atención buenos precios y lo mejor de todo rico rico y sanito..",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "fiorella canepa",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Probé el cheesecake de pistacho, visualmente es atractivo y apetitoso, especialmente por su concepto cetogénico. Pero el sabor a pistacho es prácticamente inexistente, puede ser por una aromatización deficiente, posiblemente una combinación de colorantes y edulcorantes. La base de bizcocho es muy seca, puede ser un tema de frescura, Considerando su precio, no cumple con lo ofrecido. Comparado con otras opciones de repostería cetogénica o baja en carbohidratos, el sabor distintivo del ingrediente principal no se percibe, tambien sucedio con otro producto, falta claramente un equilibrio en los sabores. Replicar sabores de la gastronomía tradicional en un concepto sin azúcares representa un desafío significativo para su local y como repostera, pero es posible si se logra identificar que ingredientes usar.",
+      "rating": 2,
+      "date": "Hace 7 meses",
+      "reviewerName": "Mari López",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Probé el cheesecake de pistacho, visualmente es atractivo y apetitoso, especialmente por su concepto cetogénico. Pero el sabor a pistacho es prácticamente inexistente, puede ser por una aromatización deficiente, posiblemente una combinación de colorantes y edulcorantes. La base de bizcocho es muy seca, puede ser un tema de frescura, Considerando su precio, no cumple con lo ofrecido. Comparado con otras opciones de repostería cetogénica o baja en carbohidratos, el sabor distintivo del ingrediente principal no se percibe, tambien sucedio con otro producto, falta claramente un equilibrio en los sabores. Replicar sabores de la gastronomía tradicional en un concepto sin azúcares representa un desafío significativo para su local y como repostera, pero es posible si se logra identificar que ingredientes usar.",
+      "rating": 2,
+      "date": "Hace 7 meses",
+      "reviewerName": "Mari López",
+      "place": "Rebelde Pastelería Keto",
+      "placeUrl": "https://www.google.com/maps/place/Rebelde+Pasteler%C3%ADa+Keto/data=!4m7!3m6!1s0x9662cf647ea6c277:0x34163ed0e0735f64!8m2!3d-33.4305288!4d-70.6194616!16s%2Fg%2F11c5rt_1g0!19sChIJd8KmfmTPYpYRZF9z4NA-FjQ?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:39.702Z"
+    },
+    {
+      "text": "Maravilloso lugar ❤️ le doy un 1000/10!! Todo lo de su carta es sin gluten. Pedimos tory ball, pizza, aritos de cebolla y tortitas. Todo delicioso. La variedad de la carta es impresionante para ser todo sin gluten. La atención impecable, nos atendió Cris, muy amable. Definitivamente vamos a volver 😁",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "Rayen Chuhuaicura Silva",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Maravilloso lugar ❤️ le doy un 1000/10!! Todo lo de su carta es sin gluten. Pedimos tory ball, pizza, aritos de cebolla y tortitas. Todo delicioso. La variedad de la carta es impresionante para ser todo sin gluten. La atención impecable, nos atendió Cris, muy amable. Definitivamente vamos a volver 😁",
+      "rating": 5,
+      "date": "Hace 5 meses",
+      "reviewerName": "Rayen Chuhuaicura Silva",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "El Pastel de Jaiba fue lo mejor que comimos, el sushi estuvo bien.\nLlegamos a las 20:40, nos trajeron la comida 21:45 y nos dicen que a las 22 hs cierran. No entendimos como hacíamos para cenar en 15 minutos. Nos traen la cuenta sin pedirla y la apoyan en la mesa. Muy floja la atención.",
+      "rating": 3,
+      "date": "Hace 4 meses",
+      "reviewerName": "sole iglesias",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "El Pastel de Jaiba fue lo mejor que comimos, el sushi estuvo bien.\nLlegamos a las 20:40, nos trajeron la comida 21:45 y nos dicen que a las 22 hs cierran. No entendimos como hacíamos para cenar en 15 minutos. Nos traen la cuenta sin pedirla y la apoyan en la mesa. Muy floja la atención.",
+      "rating": 3,
+      "date": "Hace 4 meses",
+      "reviewerName": "sole iglesias",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Perfecto todo!! Es mi nuevo lugar favorito. Aparte de que todo es completamente sin gluten, la comida es exquisita, la atención, la experiencia maravillosa y los bebestibles igualmente riquísimos",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Fernanda Villena Rodríguez",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Perfecto todo!! Es mi nuevo lugar favorito. Aparte de que todo es completamente sin gluten, la comida es exquisita, la atención, la experiencia maravillosa y los bebestibles igualmente riquísimos",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Fernanda Villena Rodríguez",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Buen restaurante, rápida y buena atención a demás de la buena ambientación y lo rico que es poder comer tranquilos sin miedo a que haya una contaminación cruzada!\nMuchas gracias por todo",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "María Paz Mardones",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Buen restaurante, rápida y buena atención a demás de la buena ambientación y lo rico que es poder comer tranquilos sin miedo a que haya una contaminación cruzada!\nMuchas gracias por todo",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "María Paz Mardones",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Excelente, el mejor sushi… variedad de platos para ir en familia y gluten free. Lindo ambiente y buena onda, para sentirte muy a gusto en Santiago.",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Ana Laura Paolillo",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Excelente, el mejor sushi… variedad de platos para ir en familia y gluten free. Lindo ambiente y buena onda, para sentirte muy a gusto en Santiago.",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Ana Laura Paolillo",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Rico, pero para tener en su Instagram y en sus individuales las siglas “APLV” y “AAM” esperaba que los meseros supieran al menos los ingredientes de los platos. De los dos meseros que nos atendieron ninguno estaba seguro de los ingredientes de los platos que consultamos. Pedimos platos en base a nuestro propio conocimiento y estaban todos ricos, pero me hubiera gustado alguna orientación de platos aptos para mi. Al final compramos un alfajor que nos aseguraron que era vegano y sin gluten pero luego al leer los ingredientes tenía “chocolate sin azucar”, por lo que probablemente tenía leche. Seria ideal que si van a atraer clientes con APLV o AAM, al menos haya una persona en el local que te pueda orientar sobre los platos.\n\nSuper recomendado para celiacos. No tanto para APLV o AAM.",
+      "rating": 3,
+      "date": "Hace 2 meses",
+      "reviewerName": "Mafalda Gonzalez",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Rico, pero para tener en su Instagram y en sus individuales las siglas “APLV” y “AAM” esperaba que los meseros supieran al menos los ingredientes de los platos. De los dos meseros que nos atendieron ninguno estaba seguro de los ingredientes de los platos que consultamos. Pedimos platos en base a nuestro propio conocimiento y estaban todos ricos, pero me hubiera gustado alguna orientación de platos aptos para mi. Al final compramos un alfajor que nos aseguraron que era vegano y sin gluten pero luego al leer los ingredientes tenía “chocolate sin azucar”, por lo que probablemente tenía leche. Seria ideal que si van a atraer clientes con APLV o AAM, al menos haya una persona en el local que te pueda orientar sobre los platos.\n\nSuper recomendado para celiacos. No tanto para APLV o AAM.",
+      "rating": 3,
+      "date": "Hace 2 meses",
+      "reviewerName": "Mafalda Gonzalez",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Pedimos a domicilio un completo con un pan duro y añejo. Incomible. Aunque se haya congelado, no se puede hacer un completo con pan viejo o con pan de mala calidad. Cualquier persona de buen hogar conoce lo que es un pan duro, añejo, viejo. Se adjuntan videos.",
+      "rating": 1,
+      "date": "Hace 4 meses",
+      "reviewerName": "Carlos José Martinez",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Pedimos a domicilio un completo con un pan duro y añejo. Incomible. Aunque se haya congelado, no se puede hacer un completo con pan viejo o con pan de mala calidad. Cualquier persona de buen hogar conoce lo que es un pan duro, añejo, viejo. Se adjuntan videos.",
+      "rating": 1,
+      "date": "Hace 4 meses",
+      "reviewerName": "Carlos José Martinez",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "He venido varias veces, amo la comida, la variedad, la amabilidad y el excelente servicio! He venido con familia, amigos y mi pareja 🌸🥰",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Katherine Ferreira",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "He venido varias veces, amo la comida, la variedad, la amabilidad y el excelente servicio! He venido con familia, amigos y mi pareja 🌸🥰",
+      "rating": 5,
+      "date": "Hace 7 meses",
+      "reviewerName": "Katherine Ferreira",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Para ser un lugar para celicos libre de gluten, lejos el mejor dentro de Santiago. Todo muy rico, buena atención y se pasa muy bien. Recomendado!!!",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Catalina M",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "Para ser un lugar para celicos libre de gluten, lejos el mejor dentro de Santiago. Todo muy rico, buena atención y se pasa muy bien. Recomendado!!!",
+      "rating": 5,
+      "date": "Hace 4 meses",
+      "reviewerName": "Catalina M",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "La carta es muy amplia; los sabores son muy equilibrados. El servicio es excelente y no hay que dejar de probar las gyosas y los empanados, una delicia!!\nAdemás de sushi, cuentan con hamburguesas, pizzas, pastas. Hay muchas opciones para veganos y vegetarianos libres de gluten.",
+      "rating": 5,
+      "date": "Hace un año",
+      "reviewerName": "Leonardo Lapolla",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    },
+    {
+      "text": "La carta es muy amplia; los sabores son muy equilibrados. El servicio es excelente y no hay que dejar de probar las gyosas y los empanados, una delicia!!\nAdemás de sushi, cuentan con hamburguesas, pizzas, pastas. Hay muchas opciones para veganos y vegetarianos libres de gluten.",
+      "rating": 5,
+      "date": "Hace un año",
+      "reviewerName": "Leonardo Lapolla",
+      "place": "QUIMEY SUSHI FUSION & GLUTEN FREE",
+      "placeUrl": "https://www.google.com/maps/place/QUIMEY+SUSHI+FUSION+%26+GLUTEN+FREE/data=!4m7!3m6!1s0x9662cf154791b083:0x978ca781c133fadb!8m2!3d-33.4264184!4d-70.6089663!16s%2Fg%2F11cjkpdpl2!19sChIJg7CRRxXPYpYR2_ozwYGnjJc?authuser=0&hl=es-419&rclk=1",
+      "comuna": "Providencia",
+      "scrapedAt": "2026-05-26T02:44:59.071Z"
+    }
+  ]
+}

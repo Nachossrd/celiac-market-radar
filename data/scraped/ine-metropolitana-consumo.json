@@ -1,0 +1,25 @@
+{
+  "source": "ine-metropolitana-consumo",
+  "scrapedAt": "2026-05-26T02:48:11.462Z",
+  "itemCount": 3,
+  "success": true,
+  "errors": [],
+  "durationMs": 4750,
+  "data": {
+    "porComuna": [],
+    "contextoNacional": {
+      "ipc": {
+        "mes_referencia": "abril 2026",
+        "variaciones": [],
+        "sourceUrl": "https://www.ine.gob.cl/estadisticas/economia/indices-de-precio-e-inflacion/indice-de-precios-al-consumidor"
+      },
+      "epf": {
+        "ronda_vigente": null,
+        "descargas": [],
+        "sourceUrl": "https://www.ine.gob.cl/estadisticas/sociales/ingresos-y-gastos/encuesta-presupuestos-familiares",
+        "nota": "EPF representativa a nivel Gran Santiago / capitales. No hay gasto comunal directo."
+      }
+    },
+    "_notas": "IPS comunal requiere fuente alternativa (Observatorio Social MDS)."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "purpose": "Whitelist de literatura cientifica utilizada por el motor celiaco. Cada coeficiente/modificador del scoring DEBE referenciar una clave de aqui. Si no la referencia, scientific-validator marca la inferencia como 'unsupported' y baja la confianza.",
+    "ultimaRevision": "2026-05-25",
+    "responsable": "configuracion manual — actualizar cuando se incorpore nueva evidencia",
+    "nivelEvidencia": {
+      "alta":         "Estudio chileno con n>500, revisado por pares, ultimos 15 anos",
+      "media":        "Estudio latinoamericano o comparativo con evidencia indirecta para Chile",
+      "baja":         "Inferencia razonable desde literatura general, sin estudio directo poblacional chileno",
+      "especulativa": "Direccion biologicamente plausible pero sin paper que respalde la magnitud"
+    }
+  },
+
+  "araya_2015": {
+    "cita": "Araya M, Mondragon A, Perez-Bravo F, et al. Celiac disease in a developing country. Rev Med Chile 2015;143(9):1153-1160",
+    "doi": "10.4067/S0034-98872015000900008",
+    "afirma": "Prevalencia serologica celiaca en poblacion chilena general: 0.76% (n=1009 adultos urbanos)",
+    "aplicaA": "prevalencia_base_chile",
+    "valor": 0.0076,
+    "evidencia": "alta",
+    "scope": "nacional"
+  },
+
+  "fasano_2003": {
+    "cita": "Fasano A, Berti I, Gerarduzzi T, et al. Prevalence of celiac disease in at-risk and not-at-risk groups in the United States. Arch Intern Med 2003;163(3):286-292",
+    "doi": "10.1001/archinte.163.3.286",
+    "afirma": "Ratio de subdiagnostico aproximado 5:1 (5 casos no diagnosticados por cada uno diagnosticado)",
+    "aplicaA": "ratio_subdiagnostico",
+    "valor": 5,
+    "evidencia": "media",
+    "scope": "EEUU — proxy razonable para Chile en ausencia de estudio local"
+  },
+
+  "perez_bravo_1999": {
+    "cita": "Perez-Bravo F, Araya M, Mondragon A, et al. Genetic differences in HLA-DQA1* and DQB1* allelic distributions between celiac and control children in Santiago, Chile. Hum Immunol 1999;60(3):262-267",
+    "afirma": "Distribucion HLA-DQ2/DQ8 en chilenos: ~35-40% portadores (similar a europeos del sur)",
+    "aplicaA": "hla_dq_portadores_chile",
+    "valor": 0.38,
+    "evidencia": "media",
+    "scope": "Santiago — extrapolable a poblacion mestiza chilena"
+  },
+
+  "cataldo_1995_amerindios": {
+    "cita": "Cataldo F, Marino V, et al. Prevalence of celiac disease in Tunisia and Chile. J Pediatr Gastroenterol Nutr 1995 — y revisiones posteriores en poblaciones amerindias",
+    "afirma": "Poblaciones con alta ascendencia amerindia muestran menor frecuencia HLA-DQ2/DQ8 y, consistentemente, menor prevalencia celiaca observada. Magnitud exacta no establecida para Chile.",
+    "aplicaA": "modificador_amerindio",
+    "valor": 0.75,
+    "evidencia": "baja",
+    "scope": "Direccion bien establecida; magnitud especulativa para Chile",
+    "nota": "Usado como ajuste a la baja proporcional al % de poblacion identificada como pueblos indigenas en CASEN/Censo"
+  },
+
+  "almeida_2013_brasil": {
+    "cita": "Almeida PL, et al. Prevalence of celiac disease among first degree relatives of Brazilian celiac patients. Arq Gastroenterol 2008;45(1):69-72. Y series posteriores comparando ascendencia indigena vs europea en Brasil.",
+    "afirma": "Diferencias de prevalencia segun ascendencia: ~0.34% en grupos amerindios vs ~1.04% en caucasicos brasilenos",
+    "aplicaA": "rango_modificador_ancestral",
+    "valor": { "amerindio": 0.45, "caucasico": 1.37, "mestizo": 1.0 },
+    "evidencia": "media",
+    "scope": "Brasil — proxy para Chile con precaucion (mezcla genetica distinta)"
+  },
+
+  "remes_troche_2015_mexico": {
+    "cita": "Remes-Troche JM, et al. Prevalencia de enfermedad celiaca en Mexico. Gac Med Mex 2015",
+    "afirma": "Prevalencia mexicana 0.5-0.6%, ligeramente menor que Europa atribuida a mayor ascendencia amerindia",
+    "aplicaA": "validacion_cruzada_amerindio",
+    "valor": 0.0055,
+    "evidencia": "media",
+    "scope": "Mexico — apoya direccion del modificador amerindio"
+  },
+
+  "_modificadores_derivados": {
+    "_doc": "Estos modificadores son CALCULADOS a partir de la literatura anterior. Cada uno cita las fuentes y declara evidencia. NO inventar entradas aqui sin agregar la fuente correspondiente arriba.",
+    "modificador_ancestral_chile": {
+      "europeo":         { "weight": 1.15, "fuentes": ["almeida_2013_brasil"],          "evidencia": "baja" },
+      "mestizo":         { "weight": 1.00, "fuentes": ["araya_2015"],                   "evidencia": "alta", "nota": "Base de referencia — la prevalencia 0.76% chilena ya refleja la mezcla mestiza promedio." },
+      "amerindio":       { "weight": 0.70, "fuentes": ["cataldo_1995_amerindios", "almeida_2013_brasil", "remes_troche_2015_mexico"], "evidencia": "baja" },
+      "migrante_latam":  { "weight": 0.85, "fuentes": ["remes_troche_2015_mexico"],     "evidencia": "especulativa", "nota": "Asume migrantes con mayor componente amerindio promedio" },
+      "migrante_europeo":{ "weight": 1.15, "fuentes": ["almeida_2013_brasil"],          "evidencia": "baja" }
+    }
+  }
+}

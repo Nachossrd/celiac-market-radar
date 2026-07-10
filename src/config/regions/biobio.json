@@ -1,0 +1,80 @@
+{
+  "slug": "biobio",
+  "nombre": "Región del Biobío",
+  "codigoRegion": "08",
+  "capital": "Concepción",
+  "perfilEconomico": ["industria", "forestal", "puerto", "academico", "pesca"],
+
+  "comunas": [
+    { "id": "concepcion",         "nombre": "Concepción",          "deis": "08101", "provincia": "Concepción", "poblacion": 230000, "lat": -36.8270, "lng": -73.0498, "sector": "Costa",      "perfil": ["servicios", "academico"] },
+    { "id": "coronel",            "nombre": "Coronel",             "deis": "08102", "provincia": "Concepción", "poblacion": 115000, "lat": -37.0167, "lng": -73.1500, "sector": "Costa",      "perfil": ["industria", "puerto", "energia"] },
+    { "id": "chiguayante",        "nombre": "Chiguayante",         "deis": "08103", "provincia": "Concepción", "poblacion": 90000,  "lat": -36.9167, "lng": -73.0167, "sector": "Interior",   "perfil": ["residencial"] },
+    { "id": "florida",            "nombre": "Florida",             "deis": "08104", "provincia": "Concepción", "poblacion": 11000,  "lat": -36.8167, "lng": -72.6667, "sector": "Interior",   "perfil": ["rural", "forestal"] },
+    { "id": "hualqui",            "nombre": "Hualqui",             "deis": "08105", "provincia": "Concepción", "poblacion": 26000,  "lat": -36.9667, "lng": -72.9333, "sector": "Interior",   "perfil": ["residencial", "rural"] },
+    { "id": "lota",               "nombre": "Lota",                "deis": "08106", "provincia": "Concepción", "poblacion": 45000,  "lat": -37.0833, "lng": -73.1667, "sector": "Costa",      "perfil": ["residencial", "pesca"] },
+    { "id": "penco",              "nombre": "Penco",               "deis": "08107", "provincia": "Concepción", "poblacion": 50000,  "lat": -36.7333, "lng": -72.9833, "sector": "Costa",      "perfil": ["industria", "residencial"] },
+    { "id": "san-pedro-de-la-paz","nombre": "San Pedro de la Paz", "deis": "08108", "provincia": "Concepción", "poblacion": 145000, "lat": -36.8500, "lng": -73.1167, "sector": "Costa",      "perfil": ["residencial-alto", "comercio"] },
+    { "id": "santa-juana",        "nombre": "Santa Juana",         "deis": "08109", "provincia": "Concepción", "poblacion": 14000,  "lat": -37.1833, "lng": -72.9333, "sector": "Interior",   "perfil": ["rural", "forestal"] },
+    { "id": "talcahuano",         "nombre": "Talcahuano",          "deis": "08110", "provincia": "Concepción", "poblacion": 165000, "lat": -36.7167, "lng": -73.1167, "sector": "Costa",      "perfil": ["puerto", "industria", "pesca"] },
+    { "id": "tome",               "nombre": "Tomé",                "deis": "08111", "provincia": "Concepción", "poblacion": 55000,  "lat": -36.6167, "lng": -72.9667, "sector": "Costa",      "perfil": ["industria_textil", "turismo"] },
+    { "id": "hualpen",            "nombre": "Hualpén",             "deis": "08112", "provincia": "Concepción", "poblacion": 88000,  "lat": -36.7833, "lng": -73.1167, "sector": "Costa",      "perfil": ["industria_petroquimica", "residencial"] },
+    { "id": "lebu",               "nombre": "Lebu",                "deis": "08201", "provincia": "Arauco",     "poblacion": 28000,  "lat": -37.6167, "lng": -73.6500, "sector": "Costa",      "perfil": ["pesca", "servicios"] },
+    { "id": "arauco",             "nombre": "Arauco",              "deis": "08202", "provincia": "Arauco",     "poblacion": 36000,  "lat": -37.2500, "lng": -73.3167, "sector": "Costa",      "perfil": ["forestal", "industria_celulosa"] },
+    { "id": "canete",             "nombre": "Cañete",              "deis": "08203", "provincia": "Arauco",     "poblacion": 35000,  "lat": -37.8000, "lng": -73.4000, "sector": "Costa",      "perfil": ["agricultura", "rural"] },
+    { "id": "contulmo",           "nombre": "Contulmo",            "deis": "08204", "provincia": "Arauco",     "poblacion": 6500,   "lat": -38.0167, "lng": -73.2333, "sector": "Interior",   "perfil": ["rural", "turismo"] },
+    { "id": "curanilahue",        "nombre": "Curanilahue",         "deis": "08205", "provincia": "Arauco",     "poblacion": 32000,  "lat": -37.4667, "lng": -73.3500, "sector": "Interior",   "perfil": ["forestal", "rural"] },
+    { "id": "los-alamos",         "nombre": "Los Álamos",          "deis": "08206", "provincia": "Arauco",     "poblacion": 22000,  "lat": -37.6167, "lng": -73.4667, "sector": "Interior",   "perfil": ["forestal"] },
+    { "id": "tirua",              "nombre": "Tirúa",               "deis": "08207", "provincia": "Arauco",     "poblacion": 10000,  "lat": -38.3333, "lng": -73.4833, "sector": "Costa",      "perfil": ["rural", "pesca"] },
+    { "id": "los-angeles",        "nombre": "Los Ángeles",         "deis": "08301", "provincia": "Biobío",     "poblacion": 215000, "lat": -37.4667, "lng": -72.3500, "sector": "Interior",   "perfil": ["servicios", "agricultura", "comercio"] },
+    { "id": "antuco",             "nombre": "Antuco",              "deis": "08302", "provincia": "Biobío",     "poblacion": 4500,   "lat": -37.3333, "lng": -71.6833, "sector": "Cordillera", "perfil": ["rural", "energia"] },
+    { "id": "cabrero",            "nombre": "Cabrero",             "deis": "08303", "provincia": "Biobío",     "poblacion": 32000,  "lat": -37.0333, "lng": -72.4000, "sector": "Interior",   "perfil": ["forestal", "industria"] },
+    { "id": "laja",               "nombre": "Laja",                "deis": "08304", "provincia": "Biobío",     "poblacion": 23000,  "lat": -37.2833, "lng": -72.7167, "sector": "Interior",   "perfil": ["industria_celulosa"] },
+    { "id": "mulchen",            "nombre": "Mulchén",             "deis": "08305", "provincia": "Biobío",     "poblacion": 30000,  "lat": -37.7167, "lng": -72.2333, "sector": "Interior",   "perfil": ["forestal", "agricultura"] },
+    { "id": "nacimiento",         "nombre": "Nacimiento",          "deis": "08306", "provincia": "Biobío",     "poblacion": 28000,  "lat": -37.5000, "lng": -72.6667, "sector": "Interior",   "perfil": ["forestal", "industria_celulosa"] },
+    { "id": "negrete",            "nombre": "Negrete",             "deis": "08307", "provincia": "Biobío",     "poblacion": 9500,   "lat": -37.6167, "lng": -72.5333, "sector": "Interior",   "perfil": ["agricultura", "rural"] },
+    { "id": "quilaco",            "nombre": "Quilaco",             "deis": "08308", "provincia": "Biobío",     "poblacion": 4000,   "lat": -37.6833, "lng": -71.9833, "sector": "Cordillera", "perfil": ["rural"] },
+    { "id": "quilleco",           "nombre": "Quilleco",            "deis": "08309", "provincia": "Biobío",     "poblacion": 10000,  "lat": -37.4833, "lng": -71.9833, "sector": "Cordillera", "perfil": ["rural"] },
+    { "id": "san-rosendo",        "nombre": "San Rosendo",         "deis": "08310", "provincia": "Biobío",     "poblacion": 3500,   "lat": -37.2667, "lng": -72.7167, "sector": "Interior",   "perfil": ["rural"] },
+    { "id": "santa-barbara",      "nombre": "Santa Bárbara",       "deis": "08311", "provincia": "Biobío",     "poblacion": 15000,  "lat": -37.6667, "lng": -72.0333, "sector": "Cordillera", "perfil": ["agricultura", "rural"] },
+    { "id": "tucapel",            "nombre": "Tucapel",             "deis": "08312", "provincia": "Biobío",     "poblacion": 14000,  "lat": -37.2833, "lng": -71.9500, "sector": "Cordillera", "perfil": ["forestal", "agricultura"] },
+    { "id": "yumbel",             "nombre": "Yumbel",              "deis": "08313", "provincia": "Biobío",     "poblacion": 22000,  "lat": -37.0833, "lng": -72.5667, "sector": "Interior",   "perfil": ["agricultura", "rural"] },
+    { "id": "alto-biobio",        "nombre": "Alto Biobío",         "deis": "08314", "provincia": "Biobío",     "poblacion": 7500,   "lat": -38.0500, "lng": -71.4833, "sector": "Cordillera", "perfil": ["rural", "indigena"] }
+  ],
+
+  "keywordsComerciales": ["concepcion", "concepción", "biobio", "octava region", "8va region", "los angeles"],
+
+  "sectoresAltosIngresos":  ["san-pedro-de-la-paz", "concepcion", "hualpen"],
+  "sectoresMedios":         ["chiguayante", "talcahuano", "los-angeles", "coronel", "tome"],
+  "sectoresBajosIngresos":  ["lota", "tirua", "alto-biobio", "santa-juana", "lebu"],
+
+  "retailDominante": ["Jumbo", "Lider", "Santa Isabel", "Tottus", "Unimarc", "Walmart"],
+
+  "polosComerciales": [
+    { "nombre": "Mall Plaza Trébol",      "comuna": "talcahuano",          "tipo": "mall" },
+    { "nombre": "Mall Mirador Biobío",    "comuna": "concepcion",          "tipo": "mall" },
+    { "nombre": "Mall Plaza del Trébol",  "comuna": "talcahuano",          "tipo": "mall" },
+    { "nombre": "Mall Plaza Los Ángeles", "comuna": "los-angeles",         "tipo": "mall" },
+    { "nombre": "Costanera del Sol",      "comuna": "san-pedro-de-la-paz", "tipo": "mall" }
+  ],
+
+  "zonas": {
+    "turisticas":   ["concepcion", "tome", "contulmo"],
+    "industriales": ["talcahuano", "coronel", "hualpen", "penco", "laja", "nacimiento", "arauco"],
+    "portuarias":   ["talcahuano", "coronel", "lirquen", "lebu"],
+    "mineras":      [],
+    "forestales":   ["nacimiento", "laja", "arauco", "los-alamos", "curanilahue", "mulchen", "cabrero"],
+    "agricolas":    ["los-angeles", "yumbel", "negrete", "canete", "santa-barbara"]
+  },
+
+  "centroide": { "lat": -36.9, "lng": -72.8, "zoom": 8 },
+
+  "scoringOverrides": {
+    "weights": { "ingreso": 0.32, "educacion": 0.20, "vivienda": 0.20, "empleo": 0.18, "consumo": 0.10 }
+  },
+
+  "fuentes": {
+    "poblacion": "INE Chile - Proyeccion poblacional 2024 (base Censo 2017)",
+    "indicadores": "BCN Reportes Comunales 2024 (CASEN 2022, SIMCE, SII)",
+    "matrizEod": null
+  }
+}

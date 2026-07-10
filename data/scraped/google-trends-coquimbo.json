@@ -1,0 +1,320 @@
+{
+  "source": "google-trends-coquimbo",
+  "scrapedAt": "2026-05-28T21:48:41.782Z",
+  "itemCount": 4,
+  "success": true,
+  "errors": [
+    "Error para \"sin gluten\": Unexpected token '<', \"<html lang\"... is not valid JSON",
+    "Error para \"pan sin gluten\": Unexpected token '<', \"<html lang\"... is not valid JSON",
+    "Error para \"dieta sin gluten\": Unexpected token '<', \"<html lang\"... is not valid JSON",
+    "Error para \"dilici\": Unexpected token '<', \"<html lang\"... is not valid JSON",
+    "Error para \"sersayaan\": Unexpected token '<', \"<html lang\"... is not valid JSON"
+  ],
+  "durationMs": 20311,
+  "data": {
+    "region": "coquimbo",
+    "geo": "CL-CO",
+    "queries": [
+      {
+        "keyword": "celiaco",
+        "category": "diagnostico",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 94,
+            "formattedValue": "94"
+          }
+        ],
+        "averageInterest": 4,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "pasteleria sin gluten",
+        "category": "consumo",
+        "timeline": [],
+        "averageInterest": 0,
+        "peakInterest": 0,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "intolerancia al gluten",
+        "category": "diagnostico",
+        "timeline": [],
+        "averageInterest": 0,
+        "peakInterest": 0,
+        "regions": [],
+        "relatedQueries": []
+      }
+    ],
+    "comparison": [
+      {
+        "keyword": "celiaco",
+        "category": "diagnostico",
+        "avgInterest": 4
+      }
+    ]
+  }
+}

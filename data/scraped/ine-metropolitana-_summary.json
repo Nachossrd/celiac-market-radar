@@ -1,0 +1,21 @@
+{
+  "source": "ine-metropolitana-_summary",
+  "scrapedAt": "2026-05-26T02:48:11.463Z",
+  "itemCount": 5,
+  "success": true,
+  "errors": [],
+  "durationMs": 184109,
+  "data": {
+    "region": "metropolitana",
+    "nombre": "Región Metropolitana de Santiago",
+    "durationMs": 184109,
+    "duracion": "184s",
+    "pasos": {
+      "ingresos": 52,
+      "empleo": 52,
+      "vivienda": 52,
+      "demografia": 52,
+      "consumo": "N/A"
+    }
+  }
+}

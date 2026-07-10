@@ -1,0 +1,54 @@
+{
+  "slug": "antofagasta",
+  "nombre": "Región de Antofagasta",
+  "codigoRegion": "02",
+  "capital": "Antofagasta",
+  "perfilEconomico": ["mineria", "puerto", "servicios", "energia"],
+
+  "comunas": [
+    { "id": "antofagasta",         "nombre": "Antofagasta",         "deis": "02101", "provincia": "Antofagasta",      "poblacion": 425000, "lat": -23.6500, "lng": -70.4000, "sector": "Costa",      "perfil": ["puerto", "mineria", "servicios"] },
+    { "id": "mejillones",          "nombre": "Mejillones",          "deis": "02102", "provincia": "Antofagasta",      "poblacion": 13000,  "lat": -23.1000, "lng": -70.4500, "sector": "Costa",      "perfil": ["puerto", "industria", "energia"] },
+    { "id": "sierra-gorda",        "nombre": "Sierra Gorda",        "deis": "02103", "provincia": "Antofagasta",      "poblacion": 8500,   "lat": -22.8833, "lng": -69.3167, "sector": "Interior",   "perfil": ["mineria"] },
+    { "id": "taltal",              "nombre": "Taltal",              "deis": "02104", "provincia": "Antofagasta",      "poblacion": 11000,  "lat": -25.4000, "lng": -70.4833, "sector": "Costa",      "perfil": ["mineria", "pesca"] },
+    { "id": "calama",              "nombre": "Calama",              "deis": "02201", "provincia": "El Loa",           "poblacion": 184000, "lat": -22.4500, "lng": -68.9333, "sector": "Interior",   "perfil": ["mineria", "servicios"] },
+    { "id": "ollague",             "nombre": "Ollagüe",             "deis": "02202", "provincia": "El Loa",           "poblacion": 300,    "lat": -21.2167, "lng": -68.2500, "sector": "Cordillera", "perfil": ["rural", "indigena"] },
+    { "id": "san-pedro-de-atacama","nombre": "San Pedro de Atacama","deis": "02203", "provincia": "El Loa",           "poblacion": 11000,  "lat": -22.9167, "lng": -68.2000, "sector": "Cordillera", "perfil": ["turismo", "rural", "indigena"] },
+    { "id": "tocopilla",           "nombre": "Tocopilla",           "deis": "02301", "provincia": "Tocopilla",        "poblacion": 25000,  "lat": -22.0833, "lng": -70.2000, "sector": "Costa",      "perfil": ["puerto", "energia", "mineria"] },
+    { "id": "maria-elena",         "nombre": "María Elena",         "deis": "02302", "provincia": "Tocopilla",        "poblacion": 7000,   "lat": -22.3333, "lng": -69.6667, "sector": "Interior",   "perfil": ["mineria", "rural"] }
+  ],
+
+  "keywordsComerciales": ["antofagasta", "calama", "norte grande", "segunda region", "2da region"],
+
+  "sectoresAltosIngresos":  ["antofagasta", "calama"],
+  "sectoresMedios":         ["mejillones", "tocopilla", "san-pedro-de-atacama"],
+  "sectoresBajosIngresos":  ["taltal", "maria-elena", "ollague"],
+
+  "retailDominante": ["Jumbo", "Lider", "Tottus", "Unimarc", "Santa Isabel"],
+
+  "polosComerciales": [
+    { "nombre": "Mall Plaza Antofagasta", "comuna": "antofagasta", "tipo": "mall" },
+    { "nombre": "Mall Calama",            "comuna": "calama",      "tipo": "mall" },
+    { "nombre": "Costanera Center Antof.","comuna": "antofagasta", "tipo": "mall" }
+  ],
+
+  "zonas": {
+    "turisticas":   ["san-pedro-de-atacama", "antofagasta"],
+    "industriales": ["mejillones", "tocopilla", "antofagasta"],
+    "portuarias":   ["antofagasta", "mejillones", "tocopilla"],
+    "mineras":      ["calama", "sierra-gorda", "maria-elena", "taltal", "tocopilla", "antofagasta"],
+    "agricolas":    ["san-pedro-de-atacama"]
+  },
+
+  "centroide": { "lat": -23.5, "lng": -69.5, "zoom": 7 },
+
+  "scoringOverrides": {
+    "weights": { "ingreso": 0.40, "educacion": 0.15, "vivienda": 0.20, "empleo": 0.15, "consumo": 0.10 },
+    "modificadores": { "mineriaBoost": 1.20 }
+  },
+
+  "fuentes": {
+    "poblacion": "INE Chile - Proyeccion poblacional 2024 (base Censo 2017)",
+    "indicadores": "BCN Reportes Comunales 2024 (CASEN 2022, SIMCE, SII)",
+    "matrizEod": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "celiacos-osint-real",
+  "version": "3.0.0",
+  "description": "OSINT celiaco Santiago - Solo datos reales, cero simulacion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "scrape:jumbo": "node -e \"require('./src/scrapers/jumbo').run()\"",
+    "scrape:lider": "node -e \"require('./src/scrapers/lider').run()\"",
+    "scrape:mercadolibre": "node -e \"require('./src/scrapers/mercadolibre').run()\"",
+    "scrape:maps": "node -e \"require('./src/scrapers/google-maps').run()\"",
+    "scrape:trends": "node -e \"require('./src/scrapers/google-trends').run()\"",
+    "scrape:rappi": "node -e \"require('./src/scrapers/rappi').run()\"",
+    "scrape:reviews": "node -e \"require('./src/scrapers/reviews').run()\"",
+    "scrape:all": "node -e \"require('./src/scrapers/orchestrator').runAll()\"",
+    "scrape:ine": "node -e \"require('./src/scrapers/ine/orchestrator').runAll()\"",
+    "scrape:ine:ingresos":   "node -e \"require('./src/scrapers/ine/ingresos').run()\"",
+    "scrape:ine:empleo":     "node -e \"require('./src/scrapers/ine/empleo').run()\"",
+    "scrape:ine:vivienda":   "node -e \"require('./src/scrapers/ine/vivienda').run()\"",
+    "scrape:ine:demografia": "node -e \"require('./src/scrapers/ine/demografia').run()\"",
+    "scrape:ine:consumo":    "node -e \"require('./src/scrapers/ine/consumo').run()\"",
+    "ine:score":    "node -e \"console.log(JSON.stringify(require('./src/analysis/ine/score').buildScores(), null, 2))\"",
+    "ine:profile":  "node -e \"console.log(JSON.stringify(require('./src/analysis/ine/profile').buildProfiles(), null, 2))\"",
+    "ine:export":   "node -e \"console.log(JSON.stringify(require('./src/analysis/ine/exporter').exportAll(), null, 2))\"",
+    "report": "node -e \"require('./src/analysis/inference').generateReport().then(r => console.log(JSON.stringify(r, null, 2)))\"",
+    "status": "node -e \"require('./src/utils/data-store').printStatus()\""
+  },
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "google-trends-api": "^4.9.2",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^21.6.0",
+    "winston": "^3.11.0"
+  }
+}

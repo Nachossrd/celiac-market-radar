@@ -1,0 +1,2378 @@
+{
+  "source": "google-trends",
+  "scrapedAt": "2026-05-26T02:40:54.380Z",
+  "itemCount": 2,
+  "success": true,
+  "errors": [],
+  "durationMs": 42372,
+  "data": {
+    "queries": [
+      {
+        "keyword": "celiaco",
+        "category": "diagnostico",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 77,
+            "formattedValue": "77"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 46,
+            "formattedValue": "46"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 57,
+            "formattedValue": "57"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 44,
+            "formattedValue": "44"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 82,
+            "formattedValue": "82"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 53,
+            "formattedValue": "53"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 50,
+            "formattedValue": "50"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 68,
+            "formattedValue": "68"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 75,
+            "formattedValue": "75"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 87,
+            "formattedValue": "87"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 55,
+            "formattedValue": "55"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 50,
+            "formattedValue": "50"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 69,
+            "formattedValue": "69"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 51,
+            "formattedValue": "51"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 58,
+            "formattedValue": "58"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 78,
+            "formattedValue": "78"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 60,
+            "formattedValue": "60"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 48,
+            "formattedValue": "48"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 70,
+            "formattedValue": "70"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 58,
+            "formattedValue": "58"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 61,
+            "formattedValue": "61"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 48,
+            "formattedValue": "48"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 46,
+            "formattedValue": "46"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 45,
+            "formattedValue": "45"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 78,
+            "formattedValue": "78"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 52,
+            "formattedValue": "52"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 70,
+            "formattedValue": "70"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 65,
+            "formattedValue": "65"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 62,
+            "formattedValue": "62"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 65,
+            "formattedValue": "65"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 79,
+            "formattedValue": "79"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 57,
+            "formattedValue": "57"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 61,
+            "formattedValue": "61"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 59,
+            "formattedValue": "59"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 88,
+            "formattedValue": "88"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 58,
+            "formattedValue": "58"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 77,
+            "formattedValue": "77"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 49,
+            "formattedValue": "49"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 59,
+            "formattedValue": "59"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 52,
+            "formattedValue": "52"
+          }
+        ],
+        "averageInterest": 55,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": [
+          {
+            "query": "celiaco que es",
+            "value": 100
+          },
+          {
+            "query": "tronco celiaco",
+            "value": 37
+          },
+          {
+            "query": "que es ser celiaco",
+            "value": 30
+          },
+          {
+            "query": "celiaco sintomas",
+            "value": 26
+          },
+          {
+            "query": "que puede comer un celiaco",
+            "value": 13
+          },
+          {
+            "query": "que es un celiaco",
+            "value": 11
+          },
+          {
+            "query": "dia del celiaco",
+            "value": 9
+          },
+          {
+            "query": "ramas tronco celiaco",
+            "value": 8
+          },
+          {
+            "query": "como saber si soy celiaco",
+            "value": 7
+          },
+          {
+            "query": "perfil celiaco",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "keyword": "sin gluten",
+        "category": "general",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 80,
+            "formattedValue": "80"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 79,
+            "formattedValue": "79"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 70,
+            "formattedValue": "70"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 81,
+            "formattedValue": "81"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 61,
+            "formattedValue": "61"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 80,
+            "formattedValue": "80"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 84,
+            "formattedValue": "84"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 89,
+            "formattedValue": "89"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 92,
+            "formattedValue": "92"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 77,
+            "formattedValue": "77"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 87,
+            "formattedValue": "87"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 86,
+            "formattedValue": "86"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 99,
+            "formattedValue": "99"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 68,
+            "formattedValue": "68"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 73,
+            "formattedValue": "73"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 62,
+            "formattedValue": "62"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 79,
+            "formattedValue": "79"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 62,
+            "formattedValue": "62"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 73,
+            "formattedValue": "73"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 68,
+            "formattedValue": "68"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 74,
+            "formattedValue": "74"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 69,
+            "formattedValue": "69"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 72,
+            "formattedValue": "72"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 81,
+            "formattedValue": "81"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 67,
+            "formattedValue": "67"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 72,
+            "formattedValue": "72"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 79,
+            "formattedValue": "79"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 70,
+            "formattedValue": "70"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 69,
+            "formattedValue": "69"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 78,
+            "formattedValue": "78"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 80,
+            "formattedValue": "80"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 73,
+            "formattedValue": "73"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 80,
+            "formattedValue": "80"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 77,
+            "formattedValue": "77"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 89,
+            "formattedValue": "89"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 80,
+            "formattedValue": "80"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 84,
+            "formattedValue": "84"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 65,
+            "formattedValue": "65"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 80,
+            "formattedValue": "80"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 79,
+            "formattedValue": "79"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 81,
+            "formattedValue": "81"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 84,
+            "formattedValue": "84"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 72,
+            "formattedValue": "72"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 75,
+            "formattedValue": "75"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 67,
+            "formattedValue": "67"
+          }
+        ],
+        "averageInterest": 77,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": [
+          {
+            "query": "pan sin gluten",
+            "value": 100
+          },
+          {
+            "query": "harina sin gluten",
+            "value": 46
+          },
+          {
+            "query": "chile sin gluten",
+            "value": 46
+          },
+          {
+            "query": "galletas sin gluten",
+            "value": 35
+          },
+          {
+            "query": "avena sin gluten",
+            "value": 33
+          },
+          {
+            "query": "torta sin gluten",
+            "value": 21
+          },
+          {
+            "query": "chocolate sin gluten",
+            "value": 20
+          },
+          {
+            "query": "arroz sin gluten",
+            "value": 19
+          },
+          {
+            "query": "cerveza sin gluten",
+            "value": 18
+          },
+          {
+            "query": "leche sin gluten",
+            "value": 16
+          }
+        ]
+      },
+      {
+        "keyword": "pan sin gluten",
+        "category": "consumo",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 53,
+            "formattedValue": "53"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 57,
+            "formattedValue": "57"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 60,
+            "formattedValue": "60"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 40,
+            "formattedValue": "40"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 65,
+            "formattedValue": "65"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 82,
+            "formattedValue": "82"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 79,
+            "formattedValue": "79"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 59,
+            "formattedValue": "59"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 74,
+            "formattedValue": "74"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 61,
+            "formattedValue": "61"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 55,
+            "formattedValue": "55"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 68,
+            "formattedValue": "68"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 73,
+            "formattedValue": "73"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 51,
+            "formattedValue": "51"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 63,
+            "formattedValue": "63"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 99,
+            "formattedValue": "99"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 96,
+            "formattedValue": "96"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 61,
+            "formattedValue": "61"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 48,
+            "formattedValue": "48"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 73,
+            "formattedValue": "73"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 63,
+            "formattedValue": "63"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 52,
+            "formattedValue": "52"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 68,
+            "formattedValue": "68"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 64,
+            "formattedValue": "64"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 89,
+            "formattedValue": "89"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 57,
+            "formattedValue": "57"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 82,
+            "formattedValue": "82"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 55,
+            "formattedValue": "55"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 45,
+            "formattedValue": "45"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 61,
+            "formattedValue": "61"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 82,
+            "formattedValue": "82"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 64,
+            "formattedValue": "64"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 60,
+            "formattedValue": "60"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 64,
+            "formattedValue": "64"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 86,
+            "formattedValue": "86"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 61,
+            "formattedValue": "61"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 45,
+            "formattedValue": "45"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 74,
+            "formattedValue": "74"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 43,
+            "formattedValue": "43"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 64,
+            "formattedValue": "64"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 59,
+            "formattedValue": "59"
+          }
+        ],
+        "averageInterest": 60,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": [
+          {
+            "query": "harina pan sin gluten",
+            "value": 100
+          },
+          {
+            "query": "receta pan sin gluten",
+            "value": 72
+          },
+          {
+            "query": "pan sin gluten jumbo",
+            "value": 52
+          },
+          {
+            "query": "receta de pan sin gluten",
+            "value": 39
+          },
+          {
+            "query": "pan sin gluten lider",
+            "value": 36
+          },
+          {
+            "query": "como hacer pan sin gluten",
+            "value": 29
+          },
+          {
+            "query": "pan sin gluten schar",
+            "value": 13
+          }
+        ]
+      },
+      {
+        "keyword": "pasteleria sin gluten",
+        "category": "consumo",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 94,
+            "formattedValue": "94"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          }
+        ],
+        "averageInterest": 4,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "intolerancia al gluten",
+        "category": "diagnostico",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 11,
+            "formattedValue": "11"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 23,
+            "formattedValue": "23"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          }
+        ],
+        "averageInterest": 3,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": [
+          {
+            "query": "sintomas intolerancia al gluten",
+            "value": 100
+          },
+          {
+            "query": "sintomas de intolerancia al gluten",
+            "value": 54
+          },
+          {
+            "query": "sintomas de la intolerancia al gluten",
+            "value": 28
+          }
+        ]
+      },
+      {
+        "keyword": "dieta sin gluten",
+        "category": "estilo_vida",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 7,
+            "formattedValue": "7"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          }
+        ],
+        "averageInterest": 2,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "dilici",
+        "category": "marca",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 6,
+            "formattedValue": "6"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 11,
+            "formattedValue": "11"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          }
+        ],
+        "averageInterest": 2,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "sersayaan",
+        "category": "marca",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          }
+        ],
+        "averageInterest": 2,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": []
+      }
+    ],
+    "comparison": [
+      {
+        "keyword": "sin gluten",
+        "category": "general",
+        "avgInterest": 77
+      },
+      {
+        "keyword": "pan sin gluten",
+        "category": "consumo",
+        "avgInterest": 60
+      },
+      {
+        "keyword": "celiaco",
+        "category": "diagnostico",
+        "avgInterest": 55
+      },
+      {
+        "keyword": "pasteleria sin gluten",
+        "category": "consumo",
+        "avgInterest": 4
+      },
+      {
+        "keyword": "intolerancia al gluten",
+        "category": "diagnostico",
+        "avgInterest": 3
+      },
+      {
+        "keyword": "dieta sin gluten",
+        "category": "estilo_vida",
+        "avgInterest": 2
+      },
+      {
+        "keyword": "dilici",
+        "category": "marca",
+        "avgInterest": 2
+      },
+      {
+        "keyword": "sersayaan",
+        "category": "marca",
+        "avgInterest": 2
+      }
+    ]
+  }
+}

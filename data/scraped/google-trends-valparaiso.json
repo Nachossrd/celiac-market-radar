@@ -1,0 +1,964 @@
+{
+  "source": "google-trends-valparaiso",
+  "scrapedAt": "2026-05-26T04:43:41.169Z",
+  "itemCount": 4,
+  "success": true,
+  "errors": [],
+  "durationMs": 37609,
+  "data": {
+    "region": "valparaiso",
+    "geo": "CL-VS",
+    "queries": [
+      {
+        "keyword": "celiaco",
+        "category": "diagnostico",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 19,
+            "formattedValue": "19"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 27,
+            "formattedValue": "27"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          }
+        ],
+        "averageInterest": 3,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": [
+          {
+            "query": "celiaco que es",
+            "value": 100
+          },
+          {
+            "query": "tronco celiaco",
+            "value": 15
+          },
+          {
+            "query": "que es ser celiaco",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "keyword": "sin gluten",
+        "category": "general",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 65,
+            "formattedValue": "65"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 57,
+            "formattedValue": "57"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 67,
+            "formattedValue": "67"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 74,
+            "formattedValue": "74"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 58,
+            "formattedValue": "58"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 68,
+            "formattedValue": "68"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 69,
+            "formattedValue": "69"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 72,
+            "formattedValue": "72"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 94,
+            "formattedValue": "94"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 81,
+            "formattedValue": "81"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 75,
+            "formattedValue": "75"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 70,
+            "formattedValue": "70"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 97,
+            "formattedValue": "97"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 41,
+            "formattedValue": "41"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 73,
+            "formattedValue": "73"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 38,
+            "formattedValue": "38"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 67,
+            "formattedValue": "67"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 42,
+            "formattedValue": "42"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 76,
+            "formattedValue": "76"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 55,
+            "formattedValue": "55"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 53,
+            "formattedValue": "53"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 74,
+            "formattedValue": "74"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 60,
+            "formattedValue": "60"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 33,
+            "formattedValue": "33"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 50,
+            "formattedValue": "50"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 48,
+            "formattedValue": "48"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 70,
+            "formattedValue": "70"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 85,
+            "formattedValue": "85"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 68,
+            "formattedValue": "68"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 68,
+            "formattedValue": "68"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 69,
+            "formattedValue": "69"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 60,
+            "formattedValue": "60"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 65,
+            "formattedValue": "65"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 62,
+            "formattedValue": "62"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 66,
+            "formattedValue": "66"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 47,
+            "formattedValue": "47"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 71,
+            "formattedValue": "71"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 58,
+            "formattedValue": "58"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 73,
+            "formattedValue": "73"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 72,
+            "formattedValue": "72"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 65,
+            "formattedValue": "65"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 87,
+            "formattedValue": "87"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 86,
+            "formattedValue": "86"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 67,
+            "formattedValue": "67"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 73,
+            "formattedValue": "73"
+          }
+        ],
+        "averageInterest": 67,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": [
+          {
+            "query": "pan sin gluten",
+            "value": 100
+          },
+          {
+            "query": "harina sin gluten",
+            "value": 45
+          },
+          {
+            "query": "galletas sin gluten",
+            "value": 37
+          },
+          {
+            "query": "avena sin gluten",
+            "value": 34
+          },
+          {
+            "query": "arroz sin gluten",
+            "value": 22
+          },
+          {
+            "query": "alimentos sin gluten",
+            "value": 18
+          },
+          {
+            "query": "cerveza sin gluten",
+            "value": 17
+          },
+          {
+            "query": "fideos sin gluten",
+            "value": 16
+          },
+          {
+            "query": "torta sin gluten",
+            "value": 16
+          },
+          {
+            "query": "queque sin gluten",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "keyword": "pan sin gluten",
+        "category": "consumo",
+        "timeline": [
+          {
+            "date": "25 may 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 jun 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "6 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "13 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "20 jul 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "27 jul 2025",
+            "value": 100,
+            "formattedValue": "100"
+          },
+          {
+            "date": "3 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "17 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "24 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "31 ago 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 sept 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 oct 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "2 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "9 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "16 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "23 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "30 nov 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "7 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "14 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "21 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "28 dic 2025",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "4 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "11 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "18 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "25 ene 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 feb 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "1 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "8 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "15 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "22 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "29 mar 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "5 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "12 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "19 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "26 abr 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "3 may 2026",
+            "value": 0,
+            "formattedValue": "0"
+          },
+          {
+            "date": "10 may 2026",
+            "value": 22,
+            "formattedValue": "22"
+          },
+          {
+            "date": "17 may 2026",
+            "value": 34,
+            "formattedValue": "34"
+          },
+          {
+            "date": "24 may 2026",
+            "value": 26,
+            "formattedValue": "26"
+          }
+        ],
+        "averageInterest": 3,
+        "peakInterest": 100,
+        "regions": [],
+        "relatedQueries": [
+          {
+            "query": "pan sin gluten receta",
+            "value": 100
+          },
+          {
+            "query": "pan sin gluten jumbo",
+            "value": 52
+          }
+        ]
+      },
+      {
+        "keyword": "pasteleria sin gluten",
+        "category": "consumo",
+        "timeline": [],
+        "averageInterest": 0,
+        "peakInterest": 0,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "intolerancia al gluten",
+        "category": "diagnostico",
+        "timeline": [],
+        "averageInterest": 0,
+        "peakInterest": 0,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "dieta sin gluten",
+        "category": "estilo_vida",
+        "timeline": [],
+        "averageInterest": 0,
+        "peakInterest": 0,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "dilici",
+        "category": "marca",
+        "timeline": [],
+        "averageInterest": 0,
+        "peakInterest": 0,
+        "regions": [],
+        "relatedQueries": []
+      },
+      {
+        "keyword": "sersayaan",
+        "category": "marca",
+        "timeline": [],
+        "averageInterest": 0,
+        "peakInterest": 0,
+        "regions": [],
+        "relatedQueries": []
+      }
+    ],
+    "comparison": [
+      {
+        "keyword": "sin gluten",
+        "category": "general",
+        "avgInterest": 67
+      },
+      {
+        "keyword": "celiaco",
+        "category": "diagnostico",
+        "avgInterest": 3
+      },
+      {
+        "keyword": "pan sin gluten",
+        "category": "consumo",
+        "avgInterest": 3
+      }
+    ]
+  }
+}
