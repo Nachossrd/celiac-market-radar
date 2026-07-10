@@ -1,6 +1,8 @@
 # 🌾 Celiac Market Radar — OSINT Chile
 
-> Motor **OSINT** multi-región que cruza datos públicos (INE / Censo, Google Maps, Google Trends, supermercados y delivery) para estimar **dónde hay demanda desatendida de productos sin gluten** en Chile — con una capa de validación científica basada en literatura sobre prevalencia celíaca.
+> Motor **OSINT** multi-región que cruza datos públicos (INE / Censo, Google Maps, Google Trends, supermercados y delivery) para *estimar* señales de demanda potencial de productos sin gluten en Chile — con una capa de validación basada en literatura sobre prevalencia celíaca. Herramienta exploratoria de análisis de mercado.
+
+**Por qué este proyecto:** para validar una hipótesis concreta — ¿se puede estimar oportunidades comerciales usando **solo datos públicos**, sin comprar estudios de mercado ni recolectar datos privados de personas?
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white">
@@ -70,6 +72,25 @@ npm run report
 ## 🔒 Configuración
 
 Toda la config vive en `.env` (no versionado). Ver [`.env.example`](.env.example). Las claves opcionales (SerpAPI, proxy) van vacías por defecto.
+
+## 📊 Benchmarks
+
+> ⚠️ **Pendiente de medición.** Métricas de cobertura y ejecución de la pipeline (no de "precisión", porque el output es una *estimación* de oportunidad, no una verdad verificable):
+
+| Métrica | Cómo se mide | Valor |
+|---------|--------------|-------|
+| Tiempo de pipeline por región | duración de `scrape:all` + análisis | *por medir* |
+| Comunas cubiertas | comunas con datos / total de la región | *por medir* |
+| Fuentes integradas | nº de fuentes con datos por región | *por medir* |
+| Tasa de éxito de scraping | requests OK / total (con rate-limiting) | *por medir* |
+
+## ⚠️ Limitaciones
+
+- Estima **señales de demanda potencial**, no ventas ni demanda real: es una hipótesis de mercado, no un pronóstico.
+- El *scraping* es **frágil**: cambios en Google Maps / supermercados pueden romper los extractores.
+- Los datos públicos tienen **sesgos** (cobertura desigual, subregistro); el resultado hereda esos sesgos.
+- **No reemplaza** un estudio de mercado formal ni validación en terreno.
+- La prevalencia celíaca se calcula desde literatura (Araya et al.), no desde diagnóstico local.
 
 ## 🛠️ Stack
 
